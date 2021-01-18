@@ -1,0 +1,28 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "revidwerd",
+	"icon": "https://micro.blog/revidwerd/avatar.jpg",
+	"home_page_url": "http://revidwerd.com/",
+	"feed_url": "http://revidwerd.com/feed.json",
+	"items": [
+		
+			{
+				"id": "http://revidwerd.micro.blog/2021/01/18/better-late-than.html",
+				"title": "Top 20 Tracks of 2020",
+				"content_html": "<p>Better late than never! I&rsquo;ve been in the habit of keeping a smart playlist for each year that contains all the tracks I &ldquo;loved&rdquo; in Apple Music. Here are my 20 for 2020. Enjoy!</p>\n\n<iframe width=\"576\" height=\"315\" src=\"https://www.youtube.com/embed/videoseries?list=PLwfdgYHekYhvyWgrNwmyCDsj4RqTtHDzx\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>\n",
+				"content_text": "Better late than never! I've been in the habit of keeping a smart playlist for each year that contains all the tracks I \"loved\" in Apple Music. Here are my 20 for 2020. Enjoy!\n\n<iframe width=\"576\" height=\"315\" src=\"https://www.youtube.com/embed/videoseries?list=PLwfdgYHekYhvyWgrNwmyCDsj4RqTtHDzx\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>\n",
+				"date_published": "2021-01-18T13:13:00+01:00",
+				"url": "http://revidwerd.com/2021/01/18/better-late-than.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/01/17/reality-bites.html",
+				"title": "Reality Bites",
+				"content_html": "<p>A relevent quip from a conversation in the novel <em>The Broom of the System</em> by David Foster Wallace:</p>\n\n<blockquote>\n<p>RICK: You&rsquo;re being cruel, Jay. Go back to blatant bullshit. I vastly prefer blatent bullshit to overt cruelty.</p>\n\n<p>JAY: You know, Olaf Blentner once said to me, over tea, that <strong>when reailty is unpleasant, realists tend to be unpopular.</strong></p>\n</blockquote>\n",
+				"content_text": "A relevent quip from a conversation in the novel _The Broom of the System_ by David Foster Wallace:\n\n> RICK: You're being cruel, Jay. Go back to blatant bullshit. I vastly prefer blatent bullshit to overt cruelty.\n\n>JAY: You know, Olaf Blentner once said to me, over tea, that **when reailty is unpleasant, realists tend to be unpopular.**\n",
+				"date_published": "2021-01-17T00:04:00+01:00",
+				"url": "http://revidwerd.com/2021/01/17/reality-bites.html",
+				"tags": ["Quotes"]
+			}
+	]
+}
