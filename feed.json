@@ -2,17 +2,74 @@
 	"version": "https://jsonfeed.org/version/1",
 	"title": "revidwerd",
 	"icon": "https://micro.blog/revidwerd/avatar.jpg",
-	"home_page_url": "http://revidwerd.com/",
-	"feed_url": "http://revidwerd.com/feed.json",
+	"home_page_url": "https://revidwerd.com/",
+	"feed_url": "https://revidwerd.com/feed.json",
 	"items": [
 		
 			{
+				"id": "http://revidwerd.micro.blog/2021/01/26/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: The God Delusion 📚</p>\n",
+				"content_text": "Finished reading: The God Delusion 📚\n",
+				"date_published": "2021-01-26T16:01:44+01:00",
+				"url": "https://revidwerd.com/2021/01/26/finished-reading-the.html"
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/01/22/i-never-had.html",
+				
+				"content_html": "<p>I never had an issue with the rain or the flooding that melting ice and snow leave until I got a fluffy dog…</p>\n",
+				"content_text": "I never had an issue with the rain or the flooding that melting ice and snow leave until I got a fluffy dog…\n",
+				"date_published": "2021-01-22T16:59:51+01:00",
+				"url": "https://revidwerd.com/2021/01/22/i-never-had.html"
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/01/22/selfpromotion-blue-blue.html",
+				"title": "Self-Promotion: Blue Blue Youth",
+				"content_html": "<p><iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=1758381180/size=large/bgcol=ffffff/linkcol=e99708/tracklist=false/artwork=small/track=4034862534/transparent=true/\" seamless><a href=\"https://blueblueyouth.bandcamp.com/album/we-are-wood-and-likely-to-burn\">We Are Wood And Likely To Burn by Blue Blue Youth</a></iframe>\n<br/></p>\n\n<p>Blue Blue Youth -  <em>We Are Wood And Likely To Burn</em> (originally released October 20, 2016 via <a href=\"https://velvetbluemusic.com\">Velvet Blue Music</a>) is now available for purchase via <a href=\"https://blueblueyouth.bandcamp.com/album/we-are-wood-and-likely-to-burn\">Bandcamp</a>!</p>\n\n<blockquote>\n<p>Drew Diver (<a href=\"https://sodashopband.bandcamp.com\">Soda Shop</a>) and Julian Brau (<a href=\"https://islainvisible.bandcamp.com\">Isla invisible</a>) take on this project of dark drones and soundscapes. Ambient, yet still moving pieces of work.</p>\n</blockquote>\n",
+				"content_text": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=1758381180/size=large/bgcol=ffffff/linkcol=e99708/tracklist=false/artwork=small/track=4034862534/transparent=true/\" seamless><a href=\"https://blueblueyouth.bandcamp.com/album/we-are-wood-and-likely-to-burn\">We Are Wood And Likely To Burn by Blue Blue Youth</a></iframe>\n<br/>\n\nBlue Blue Youth -  _We Are Wood And Likely To Burn_ (originally released October 20, 2016 via [Velvet Blue Music](https://velvetbluemusic.com)) is now available for purchase via [Bandcamp](https://blueblueyouth.bandcamp.com/album/we-are-wood-and-likely-to-burn)!\n\n>Drew Diver ([Soda Shop](https://sodashopband.bandcamp.com)) and Julian Brau ([Isla invisible](https://islainvisible.bandcamp.com)) take on this project of dark drones and soundscapes. Ambient, yet still moving pieces of work.\n",
+				"date_published": "2021-01-22T11:26:00+01:00",
+				"url": "https://revidwerd.com/2021/01/22/selfpromotion-blue-blue.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/01/21/the-new-photos.html",
+				
+				"content_html": "<p>The new Photos recommendation widget on iOS 14 is great&hellip; here&rsquo;s a throwback from probably 2003 or 2004 playing in my old punk band The Punchbowl Spikers.</p>\n\n<p><img src=\"uploads/2021/05fa5bb4b5.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "The new Photos recommendation widget on iOS 14 is great... here's a throwback from probably 2003 or 2004 playing in my old punk band The Punchbowl Spikers.\n\n<img src=\"uploads/2021/05fa5bb4b5.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-01-21T10:54:45+01:00",
+				"url": "https://revidwerd.com/2021/01/21/the-new-photos.html"
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/01/20/i-cant-help.html",
+				
+				"content_html": "<p>I can’t help but share a paragraph I just came across while reading <em>The God Delusion</em> this evening:</p>\n\n<blockquote>\n<p>“Lying, as rule for life, is inherently unstable. More generally, selfishness, or free-riding parasitism on the goodwill of others, may work for me as a lone selfish individual and give me personal satisfaction. But I cannot wish that everybody would adopt selfish parasitism as a moral principle, if only because then I would have nobody to parasitize.”</p>\n</blockquote>\n\n<p>Here’s hoping for a better four years&hellip;</p>\n",
+				"content_text": "I can’t help but share a paragraph I just came across while reading _The God Delusion_ this evening:\n\n>“Lying, as rule for life, is inherently unstable. More generally, selfishness, or free-riding parasitism on the goodwill of others, may work for me as a lone selfish individual and give me personal satisfaction. But I cannot wish that everybody would adopt selfish parasitism as a moral principle, if only because then I would have nobody to parasitize.”\n\nHere’s hoping for a better four years...\n",
+				"date_published": "2021-01-20T21:32:38+01:00",
+				"url": "https://revidwerd.com/2021/01/20/i-cant-help.html"
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/01/19/a-friend-and.html",
+				
+				"content_html": "<p>A friend and former bandmate (who often mixes/masters my stuff) released their new Isla Invisible <em>EP2</em> this past Friday via <a href=\"https://velvetbluemusic.com\">Velvet Blue Music</a>, check out the track &ldquo;Estranged&rdquo; below via Apple Music or via <a href=\"https://islainvisible.bandcamp.com/album/ep2\">Bandcamp</a> or via <a href=\"https://www.youtube.com/watch?v=VKMFr160ISQ\">YouTube</a>&hellip; on and on&hellip;\n<br/><br/>\n<iframe allow=\"autoplay *; encrypted-media *; fullscreen *\" frameborder=\"0\" height=\"150\" style=\"width:100%;max-width:660px;overflow:hidden;background:transparent;\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation\" src=\"https://embed.music.apple.com/se/album/estranged/1543578686?i=1543578687&l=en\"></iframe></p>\n",
+				"content_text": "A friend and former bandmate (who often mixes/masters my stuff) released their new Isla Invisible _EP2_ this past Friday via [Velvet Blue Music](https://velvetbluemusic.com), check out the track \"Estranged\" below via Apple Music or via [Bandcamp](https://islainvisible.bandcamp.com/album/ep2) or via [YouTube](https://www.youtube.com/watch?v=VKMFr160ISQ)... on and on...\r\n<br/><br/>\r\n<iframe allow=\"autoplay *; encrypted-media *; fullscreen *\" frameborder=\"0\" height=\"150\" style=\"width:100%;max-width:660px;overflow:hidden;background:transparent;\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation\" src=\"https://embed.music.apple.com/se/album/estranged/1543578686?i=1543578687&l=en\"></iframe>\n",
+				"date_published": "2021-01-19T11:30:01+01:00",
+				"url": "https://revidwerd.com/2021/01/19/a-friend-and.html"
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/01/18/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading: The God Delusion by Richard Dawkins 📚</p>\n",
+				"content_text": "Currently reading: The God Delusion by Richard Dawkins 📚\n",
+				"date_published": "2021-01-18T16:51:45+01:00",
+				"url": "https://revidwerd.com/2021/01/18/currently-reading-the.html"
+			},
+			{
 				"id": "http://revidwerd.micro.blog/2021/01/18/better-late-than.html",
 				"title": "Top 20 Tracks of 2020",
-				"content_html": "<p>Better late than never! I&rsquo;ve been in the habit of keeping a smart playlist for each year that contains all the tracks I &ldquo;loved&rdquo; in Apple Music. Here are my 20 for 2020. Enjoy!</p>\n\n<iframe width=\"576\" height=\"315\" src=\"https://www.youtube.com/embed/videoseries?list=PLwfdgYHekYhvyWgrNwmyCDsj4RqTtHDzx\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>\n",
-				"content_text": "Better late than never! I've been in the habit of keeping a smart playlist for each year that contains all the tracks I \"loved\" in Apple Music. Here are my 20 for 2020. Enjoy!\n\n<iframe width=\"576\" height=\"315\" src=\"https://www.youtube.com/embed/videoseries?list=PLwfdgYHekYhvyWgrNwmyCDsj4RqTtHDzx\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>\n",
+				"content_html": "<p>Better late than never! I&rsquo;ve been in the habit of keeping a smart playlist for each year that contains all the tracks I &ldquo;loved&rdquo; in Apple Music. Here are my 20 for 2020. Enjoy!<br />\n <br/></p>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/videoseries?list=PLwfdgYHekYhvyWgrNwmyCDsj4RqTtHDzx\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n",
+				"content_text": "Better late than never! I've been in the habit of keeping a smart playlist for each year that contains all the tracks I \"loved\" in Apple Music. Here are my 20 for 2020. Enjoy!  \n <br/>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/videoseries?list=PLwfdgYHekYhvyWgrNwmyCDsj4RqTtHDzx\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n",
 				"date_published": "2021-01-18T13:13:00+01:00",
-				"url": "http://revidwerd.com/2021/01/18/better-late-than.html",
+				"url": "https://revidwerd.com/2021/01/18/better-late-than.html",
 				"tags": ["Music"]
 			},
 			{
@@ -21,7 +78,7 @@
 				"content_html": "<p>A relevent quip from a conversation in the novel <em>The Broom of the System</em> by David Foster Wallace:</p>\n\n<blockquote>\n<p>RICK: You&rsquo;re being cruel, Jay. Go back to blatant bullshit. I vastly prefer blatent bullshit to overt cruelty.</p>\n\n<p>JAY: You know, Olaf Blentner once said to me, over tea, that <strong>when reailty is unpleasant, realists tend to be unpopular.</strong></p>\n</blockquote>\n",
 				"content_text": "A relevent quip from a conversation in the novel _The Broom of the System_ by David Foster Wallace:\n\n> RICK: You're being cruel, Jay. Go back to blatant bullshit. I vastly prefer blatent bullshit to overt cruelty.\n\n>JAY: You know, Olaf Blentner once said to me, over tea, that **when reailty is unpleasant, realists tend to be unpopular.**\n",
 				"date_published": "2021-01-17T00:04:00+01:00",
-				"url": "http://revidwerd.com/2021/01/17/reality-bites.html",
+				"url": "https://revidwerd.com/2021/01/17/reality-bites.html",
 				"tags": ["Quotes"]
 			}
 	]
