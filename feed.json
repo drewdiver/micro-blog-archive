@@ -7,6 +7,97 @@
 	"items": [
 		
 			{
+				"id": "http://revidwerd.micro.blog/2021/02/10/daysofswiftui-day.html",
+				"title": "#100DaysOfSwiftUI - Day 3",
+				"content_html": "<p>Operators! Compounds! (+= or -= for instance) Comparisons! Switch Statements! Ternary! Ranges!</p>\n\n<p>I kind of like the look of ternary vs <code>if</code> blocks but I guess time and experience in Swift will tell…</p>\n\n<pre><code>var firstCard = 11\nvar secondCard = 10\nprint(firstCard + secondCard == 21 ? “Blackjack!” : “Regular cards”)\n</code></pre>\n",
+				"content_text": "Operators! Compounds! (+= or -= for instance) Comparisons! Switch Statements! Ternary! Ranges!\n\nI kind of like the look of ternary vs `if` blocks but I guess time and experience in Swift will tell…\n\n\tvar firstCard = 11\n\tvar secondCard = 10\n\tprint(firstCard + secondCard == 21 ? “Blackjack!” : “Regular cards”)\n",
+				"date_published": "2021-02-10T15:27:18+01:00",
+				"url": "https://revidwerd.com/2021/02/10/daysofswiftui-day.html"
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/02/09/currently-reading-walden.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781611806007\">Walden</a> by Henry David Thoreau 📚</p>\n\n<blockquote>\n<p>Shams and delusions are esteemed for soundest truths, while reality is fabulous. If men would steadily observe realities only, and not allow themselves to be deluded, life, to compare it with such things as we know, would be like a fairy tale and the Arabian Nights&rsquo; Entertainments. If we respected only what is inevitable and has a right to be, music and poetry would resound along the streets. When we are unhurried and wise, we perceive the only great and worthy things have any permanent and absolute existence—that petty fears and petty pleasures are but the shadow of the reality.</p>\n</blockquote>\n",
+				"content_text": "Currently reading: [Walden](https://micro.blog/books/9781611806007) by Henry David Thoreau 📚\n\n> Shams and delusions are esteemed for soundest truths, while reality is fabulous. If men would steadily observe realities only, and not allow themselves to be deluded, life, to compare it with such things as we know, would be like a fairy tale and the Arabian Nights' Entertainments. If we respected only what is inevitable and has a right to be, music and poetry would resound along the streets. When we are unhurried and wise, we perceive the only great and worthy things have any permanent and absolute existence—that petty fears and petty pleasures are but the shadow of the reality.\n",
+				"date_published": "2021-02-09T21:57:39+01:00",
+				"url": "https://revidwerd.com/2021/02/09/currently-reading-walden.html"
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/02/09/days-of-swiftui.html",
+				"title": "100 Days of SwiftUI - Day 2",
+				"content_html": "<p>Todays #100DaysOfSwiftUI was about complex data types which include Arrays, Dictionaries, Tuples, Sets and Enums (including the use of Raw Values and Associated Values).</p>\n",
+				"content_text": "Todays #100DaysOfSwiftUI was about complex data types which include Arrays, Dictionaries, Tuples, Sets and Enums (including the use of Raw Values and Associated Values).\n",
+				"date_published": "2021-02-09T12:20:50+01:00",
+				"url": "https://revidwerd.com/2021/02/09/days-of-swiftui.html",
+				"tags": ["Swift"]
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/02/08/doubling-down-on.html",
+				"title": "100 Days of SwiftUI - Day 1",
+				"content_html": "<p>Doubling down on my efforts to get a grasp of Swift and SwiftUI this year&hellip; I just completed <a href=\"https://www.hackingwithswift.com/100/swiftui/1\">day 1</a> of #100DaysOfSwiftUI. This lesson introduced variables, integers, doubles, strings (interpolation / multi-line), boolean, constants and type declarations.</p>\n",
+				"content_text": "Doubling down on my efforts to get a grasp of Swift and SwiftUI this year... I just completed [day 1](https://www.hackingwithswift.com/100/swiftui/1) of #100DaysOfSwiftUI. This lesson introduced variables, integers, doubles, strings (interpolation / multi-line), boolean, constants and type declarations.\n\n",
+				"date_published": "2021-02-08T14:35:00+01:00",
+				"url": "https://revidwerd.com/2021/02/08/doubling-down-on.html",
+				"tags": ["Swift"]
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/02/05/obsessed-with-taskpaper.html",
+				
+				"content_html": "<p>Obsessed with <a href=\"http://taskpaper.com\">TaskPaper</a>! This is exactly what I&rsquo;ve been looking for to manage my plain text todo&rsquo;s.</p>\n\n<p><img src=\"uploads/2021/b8c3452287.png\" width=\"600\" height=\"567\" alt=\"\" /></p>\n",
+				"content_text": "Obsessed with [TaskPaper](http://taskpaper.com)! This is exactly what I've been looking for to manage my plain text todo's.\n\n<img src=\"uploads/2021/b8c3452287.png\" width=\"600\" height=\"567\" alt=\"\" />\n",
+				"date_published": "2021-02-05T14:47:48+01:00",
+				"url": "https://revidwerd.com/2021/02/05/obsessed-with-taskpaper.html"
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/02/05/started-reading-walden.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781611806007\">Walden</a> by Henry David Thoreau 📚</p>\n\n<p>If I were to be stranded on a desert island and could carry only one book, it would be Walden without a doubt.</p>\n\n<p><img src=\"uploads/2021/92e69838c4.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Currently reading: [Walden](https://micro.blog/books/9781611806007) by Henry David Thoreau 📚\n\nIf I were to be stranded on a desert island and could carry only one book, it would be Walden without a doubt.\n\n\n\n<img src=\"uploads/2021/92e69838c4.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-02-05T12:11:47+01:00",
+				"url": "https://revidwerd.com/2021/02/05/started-reading-walden.html"
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/02/05/finished-reading-the.html",
+				
+				"content_html": "<p><strong>Finished reading: <a href=\"https://micro.blog/books/9780375705106\">The Way of Zen</a> by Alan Watts 📚</strong></p>\n\n<p>There&rsquo;s a concise <em>history</em> of sorts in this book about Zen Buddhism and its evolution from Taoism and Confucianism as well as the roots of it from India.</p>\n\n<p>However, I basically ended up skipping most of the first section. The meat of this book resides under “Part Two: Principles and Practice,&rdquo; particularly sections (or chapters) 1 &amp; 2 titled “Empty and Marvelous&rdquo; and &ldquo;Sitting. Quietly, Doing Nothing” respectively.</p>\n\n<p>A few highlights:</p>\n\n<p>Presence! This is something that definitely awakens once you have a kid.</p>\n\n<blockquote>\n<p>On the contrary, the measuring of worth and success in terms of time, and the insistent demand for assurances of a future, make it impossible to live freely both in the promising present and in the &ldquo;promising&rdquo; future when it arrives. For there is never anything but the present, and if one cannot live there, one can- not live anywhere.</p>\n</blockquote>\n\n<p>I like this idea of not clinging to the past, not dwelling on the future (you&rsquo;ll never know it) but to keep moving&hellip;</p>\n\n<blockquote>\n<p>The identification of the mind with its own image is, therefore, paralyzing because the image is fixed-it is past and finished. But it is a fixed image of oneself in motion! To cling to it is thus to be in constant contradiction and conflict. Hence Yün-men&rsquo;s saying, &ldquo;In walking, just walk. In sitting, just sit. Above all, don&rsquo;t wobble.&rdquo; In other words, the mind cannot act without giving up the impossible attempt to control itself beyond a certain point. It must let go of itself both in the sense of trusting its own memory and reflection, and in the sense of acting spontaneously, on its own into the unknown.</p>\n\n<p>This is why Zen often seems to take the side of action as against reflection, and why it describes itself as &ldquo;no-mind&rdquo; (wu-hsin) or &ldquo;no-thought&rdquo; (wu-nien), and why the masters demonstrate Zen by giving instantaneous and unpremeditated answers to questions. When Yün-men was asked for the ultimate secret of Buddhism, he replied, &ldquo;Dumpling!&rdquo;</p>\n</blockquote>\n\n<p>In regards to meditation, the West often has a hard time to just sit. It&rsquo;s seen as a &ldquo;waste of time.” We can also see in other religions<sup class=\"footnote-ref\" id=\"fnref:Christianity-for-instance\"><a href=\"#fn:Christianity-for-instance\">0</a></sup> that it is to always just be <em>in action</em>. However we should stop and consider…</p>\n\n<blockquote>\n<p>…it should be obvious that action without wisdom, without clear awareness of the world as it really is, can never improve anything.</p>\n</blockquote>\n",
+				"content_text": "**Finished reading: [The Way of Zen](https://micro.blog/books/9780375705106) by Alan Watts 📚**\n\nThere's a concise _history_ of sorts in this book about Zen Buddhism and its evolution from Taoism and Confucianism as well as the roots of it from India.\n\nHowever, I basically ended up skipping most of the first section. The meat of this book resides under “Part Two: Principles and Practice,\" particularly sections (or chapters) 1 & 2 titled “Empty and Marvelous\" and \"Sitting. Quietly, Doing Nothing” respectively.\n\nA few highlights:\n\nPresence! This is something that definitely awakens once you have a kid.\n\n> On the contrary, the measuring of worth and success in terms of time, and the insistent demand for assurances of a future, make it impossible to live freely both in the promising present and in the \"promising\" future when it arrives. For there is never anything but the present, and if one cannot live there, one can- not live anywhere.\n\n I like this idea of not clinging to the past, not dwelling on the future (you'll never know it) but to keep moving...\n\n>The identification of the mind with its own image is, therefore, paralyzing because the image is fixed-it is past and finished. But it is a fixed image of oneself in motion! To cling to it is thus to be in constant contradiction and conflict. Hence Yün-men's saying, \"In walking, just walk. In sitting, just sit. Above all, don't wobble.\" In other words, the mind cannot act without giving up the impossible attempt to control itself beyond a certain point. It must let go of itself both in the sense of trusting its own memory and reflection, and in the sense of acting spontaneously, on its own into the unknown. \n>\n>This is why Zen often seems to take the side of action as against reflection, and why it describes itself as \"no-mind\" (wu-hsin) or \"no-thought\" (wu-nien), and why the masters demonstrate Zen by giving instantaneous and unpremeditated answers to questions. When Yün-men was asked for the ultimate secret of Buddhism, he replied, \"Dumpling!\"\n\nIn regards to meditation, the West often has a hard time to just sit. It's seen as a \"waste of time.” We can also see in other religions[^1] (Christianity for instance) that it is to always just be _in action_. However we should stop and consider…\n\n> …it should be obvious that action without wisdom, without clear awareness of the world as it really is, can never improve anything.\n\n[^1]: Remember Buddhism is _not_ a religion\n",
+				"date_published": "2021-02-05T10:50:00+01:00",
+				"url": "https://revidwerd.com/2021/02/05/finished-reading-the.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/02/04/so-it-appears.html",
+				
+				"content_html": "<p>It appears Logan does not take kindly to people <a href=\"https://en.wikipedia.org/wiki/Speed_flying_and_speed_riding\">speed riding</a>&hellip; why people choose to do this on the off-leash field is beyond me.</p>\n\n<p><img src=\"https://revidwerd.com/uploads/2021/6e62f4a005.jpg\" alt=\"CC311C5B-8B9B-402F-9D06-55ECCE3FED7C.jpg\" /></p>\n",
+				"content_text": "It appears Logan does not take kindly to people [speed riding](https://en.wikipedia.org/wiki/Speed_flying_and_speed_riding)... why people choose to do this on the off-leash field is beyond me.\n\n![CC311C5B-8B9B-402F-9D06-55ECCE3FED7C.jpg](https://revidwerd.com/uploads/2021/6e62f4a005.jpg)\n",
+				"date_published": "2021-02-04T14:21:00+01:00",
+				"url": "https://revidwerd.com/2021/02/04/so-it-appears.html"
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/02/04/king-adolf-frederick.html",
+				"title": "Time for Semla",
+				"content_html": "<p>Fun fact:</p>\n\n<blockquote>\n<p>King Adolf Frederick of Sweden died of digestion problems on February 12, 1771 after consuming a meal consisting of lobster, caviar, sauerkraut, smoked herring and champagne, which was topped off by <em>fourteen</em> helpings of hetvägg (semla👇), the king&rsquo;s favorite dessert.</p>\n</blockquote>\n\n<p><img src=\"https://revidwerd.com/uploads/2021/0a34e56909.jpg\" alt=\"EF879B01-CEEA-49E6-8DBB-D11BA9F6975B.jpg\" /></p>\n\n<p>You can read more about Semla <a href=\"https://en.wikipedia.org/wiki/Semla\">here</a>.</p>\n",
+				"content_text": "Fun fact:\n\n> King Adolf Frederick of Sweden died of digestion problems on February 12, 1771 after consuming a meal consisting of lobster, caviar, sauerkraut, smoked herring and champagne, which was topped off by _fourteen_ helpings of hetvägg (semla👇), the king's favorite dessert.\n\n![EF879B01-CEEA-49E6-8DBB-D11BA9F6975B.jpg](https://revidwerd.com/uploads/2021/0a34e56909.jpg)\n\nYou can read more about Semla [here](https://en.wikipedia.org/wiki/Semla).\n",
+				"date_published": "2021-02-04T10:32:00+01:00",
+				"url": "https://revidwerd.com/2021/02/04/king-adolf-frederick.html"
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/02/03/ok-putting-january.html",
+				
+				"content_html": "<p>Ok&hellip; putting January behind me. This year started off with a COVID-19 infection and later the winter flu&hellip; here&rsquo;s looking to February! 🥃</p>\n",
+				"content_text": "Ok... putting January behind me. This year started off with a COVID-19 infection and later the winter flu... here's looking to February! 🥃\n",
+				"date_published": "2021-02-03T14:51:00+01:00",
+				"url": "https://revidwerd.com/2021/02/03/ok-putting-january.html"
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/02/03/143035.html",
+				
+				"content_html": "<p><img src=\"uploads/2021/612c7770f1.png\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2021/612c7770f1.png\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-02-03T14:30:35+01:00",
+				"url": "https://revidwerd.com/2021/02/03/143035.html"
+			},
+			{
 				"id": "http://revidwerd.micro.blog/2021/01/28/currently-reading-the.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780375705106\">The Way of Zen</a> by Alan Watts 📚</p>\n\n<blockquote>\n<p>Each of the other senses might similarly be used to illustrate the &ldquo;non-active&rdquo; functioning of the mind-listening without straining to hear, smelling without strong inhalation, tasting without screwing up the tongue, and touching without pressing the object. Each is a special instance of the mental function which works through all, and which Chinese designates with the peculiar word <strong>hsin</strong>.&rdquo;</p>\n\n<p>This term is so important for the understanding of Zen that some attempt must be made to say what Taoism and Chinese thought in general take it to mean.&rsquo; We usually translate it as &ldquo;mind&rdquo; or &ldquo;heart,&rdquo; but neither of these words is satisfactory. The original form of the ideograph seems to be a picture of the heart, or perhaps of the lungs or the liver, and when a Chinese speaks of the <strong>hsin</strong> he will often point to the center of his chest, slightly lower than the heart.</p>\n</blockquote>\n",
@@ -86,10 +177,11 @@
 			{
 				"id": "http://revidwerd.micro.blog/2021/01/20/i-cant-help.html",
 				
-				"content_html": "<p>I can’t help but share a paragraph I just came across while reading <em>The God Delusion</em> this evening:</p>\n\n<blockquote>\n<p>“Lying, as rule for life, is inherently unstable. More generally, selfishness, or free-riding parasitism on the goodwill of others, may work for me as a lone selfish individual and give me personal satisfaction. But I cannot wish that everybody would adopt selfish parasitism as a moral principle, if only because then I would have nobody to parasitize.”</p>\n</blockquote>\n\n<p>Here’s hoping for a better four years&hellip;</p>\n",
-				"content_text": "I can’t help but share a paragraph I just came across while reading _The God Delusion_ this evening:\n\n>“Lying, as rule for life, is inherently unstable. More generally, selfishness, or free-riding parasitism on the goodwill of others, may work for me as a lone selfish individual and give me personal satisfaction. But I cannot wish that everybody would adopt selfish parasitism as a moral principle, if only because then I would have nobody to parasitize.”\n\nHere’s hoping for a better four years...\n",
-				"date_published": "2021-01-20T21:32:38+01:00",
-				"url": "https://revidwerd.com/2021/01/20/i-cant-help.html"
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780618918249\">The God Delusion</a> by Richard Dawkins 📚</p>\n\n<blockquote>\n<p>“Lying, as rule for life, is inherently unstable. More generally, selfishness, or free-riding parasitism on the goodwill of others, may work for me as a lone selfish individual and give me personal satisfaction. But I cannot wish that everybody would adopt selfish parasitism as a moral principle, if only because then I would have nobody to parasitize.”</p>\n</blockquote>\n\n<p>Here’s hoping for a better four years&hellip;</p>\n",
+				"content_text": "Currently reading: [The God Delusion](https://micro.blog/books/9780618918249) by Richard Dawkins 📚\n\n>“Lying, as rule for life, is inherently unstable. More generally, selfishness, or free-riding parasitism on the goodwill of others, may work for me as a lone selfish individual and give me personal satisfaction. But I cannot wish that everybody would adopt selfish parasitism as a moral principle, if only because then I would have nobody to parasitize.”\n\nHere’s hoping for a better four years...\n",
+				"date_published": "2021-01-20T21:32:00+01:00",
+				"url": "https://revidwerd.com/2021/01/20/i-cant-help.html",
+				"tags": ["Quotes","Books"]
 			},
 			{
 				"id": "http://revidwerd.micro.blog/2021/01/19/a-friend-and.html",
