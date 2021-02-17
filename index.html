@@ -24,13 +24,153 @@
 	
       <div class="h-entry">
 		
-			<h1><a href="https://revidwerd.com/2021/02/10/daysofswiftui-day.html">#100DaysOfSwiftUI - Day 3</a></h1>
-		
 
-        <a href="https://revidwerd.com/2021/02/10/daysofswiftui-day.html" class="u-url"><time class="dt-published" datetime="2021-02-10 15:27:18 &#43;0100">Feb 10, 2021</time></a>
+        <a href="https://revidwerd.com/2021/02/17/day-of-daysofswiftui.html" class="u-url"><time class="dt-published" datetime="2021-02-17 20:17:21 &#43;0100">Feb 17, 2021</time></a>
 
         <div class="e-content">
-         	<p>Operators! Compounds! (+= or -= for instance) Comparisons! Switch Statements! Ternary! Ranges!</p>
+         	<p>Day 7 of #100DaysOfSwiftUI was part two of closures, closure inception! This <a href="http://goshdarnclosuresyntax.com">link</a> will come in handy.</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://revidwerd.com/2021/02/16/day-in-daysofswiftui.html" class="u-url"><time class="dt-published" datetime="2021-02-16 16:20:38 &#43;0100">Feb 16, 2021</time></a>
+
+        <div class="e-content">
+         	<p>Day 7 in #100DaysOfSwiftUI (or Closures: Part 2) isn&rsquo;t going as planned&hellip; revisiting Day 6 to truly ensure I get the basics down…</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://revidwerd.com/2021/02/15/time-will-tell.html" class="u-url"><time class="dt-published" datetime="2021-02-15 15:20:43 &#43;0100">Feb 15, 2021</time></a>
+
+        <div class="e-content">
+         	<p>Time will tell, but I think I have a solid EP coming together…</p>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+			<h1><a href="https://revidwerd.com/2021/02/15/days-of-swiftui.html">100 Days of SwiftUI - Day 6</a></h1>
+		
+
+        <a href="https://revidwerd.com/2021/02/15/days-of-swiftui.html" class="u-url"><time class="dt-published" datetime="2021-02-15 13:58:30 &#43;0100">Feb 15, 2021</time></a>
+
+        <div class="e-content">
+         	<p>I spent most of the weekend in review (see the previous post with a link to the iOS app)</p>
+
+<p>Today&rsquo;s #100DaysOfSwiftUI was an ease into the idea of closures. Though my head was a bit achy at first, I faired pretty well on each sections quiz. In order to somewhat solidify, one always calls paramaters <em>after</em> the first <code>{</code> and you always call the closure that accepts a parameter <em>without</em> the parameter label.</p>
+
+<pre><code>let myAcceptingClosure = { (something: String) in 
+    print(&quot;I'm a closure that accepts a parameter, such as \(something)...&quot;)
+}
+
+// We call this WITHOUT the label
+myAcceptingClosure(&quot;This&quot;)
+</code></pre>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+
+        <a href="https://revidwerd.com/2021/02/13/end-of-week.html" class="u-url"><time class="dt-published" datetime="2021-02-13 12:39:55 &#43;0100">Feb 13, 2021</time></a>
+
+        <div class="e-content">
+         	<p>End of week #100DaysOfSwiftUI progress 🤘🏼</p>
+
+<blockquote>
+<p>I&rsquo;m on level 11 in Unwrap by <a href="https://micro.blog/twostraws">@twostraws</a>. Download it here: <a href="https://itunes.apple.com/app/id1440611372">itunes.apple.com/app/id144&hellip;</a></p>
+</blockquote>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+			<h1><a href="https://revidwerd.com/2021/02/12/days-of-swiftui.html">100 Days of SwiftUI - Day 5</a></h1>
+		
+
+        <a href="https://revidwerd.com/2021/02/12/days-of-swiftui.html" class="u-url"><time class="dt-published" datetime="2021-02-12 15:09:36 &#43;0100">Feb 12, 2021</time></a>
+
+        <div class="e-content">
+         	<p>Today&rsquo;s #100DaysOfSwiftUI was all about functions and their various incantations. This included returning values (<em>tuples</em> are great for returning more than 1 valule!), accepting parameters, labeling parameters for better legibility (omitting labels in some cases), setting default parameters, “inout” parameters, &ldquo;throwing functions,&rdquo; and variadic functions (passing in 0 or more values).</p>
+
+<p>Ternary operators shine in SwiftUI as it uses single expression functions quite a bit:</p>
+
+<pre><code>func greet(name: String) -&gt; String {
+        name == &quot;Drew Diver&quot; ? &quot;My liege...&quot; : &quot;Hello, \(name)! Back of the line!&quot;
+}
+</code></pre>
+
+<p>Parameter labels make function calls read naturally:</p>
+
+<pre><code>func sayHello(to name: String) {
+        print(&quot;Hello, \(name)!&quot;)
+}
+
+sayHello(to: &quot;Drew Diver”)
+</code></pre>
+
+<p>Omitting parameter labels makes sense in cases like the following:</p>
+
+<pre><code>func read(_ book: String) {
+        print(&quot;Now reading \(book)...&quot;)
+}
+
+read(&quot;Walden&quot;)
+</code></pre>
+
+<p>Also In Objective-C:</p>
+
+<blockquote>
+<p>&hellip;the first parameter to a function was always left unnamed, and so when you use those frameworks in Swift you’ll see lots of functions that have underscores for their first parameter label to preserve interoperability with Objective-C.</p>
+</blockquote>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+			<h1><a href="https://revidwerd.com/2021/02/11/days-of-swiftui.html">100 Days of SwiftUI - Day 4</a></h1>
+		
+
+        <a href="https://revidwerd.com/2021/02/11/days-of-swiftui.html" class="u-url"><time class="dt-published" datetime="2021-02-11 14:03:20 &#43;0100">Feb 11, 2021</time></a>
+
+        <div class="e-content">
+         	<p>Todays #100DaysOfSwiftUI was all about looping and included <code>while</code>, <code>for</code>, <code>repeat</code>. We then went within loops to apply <code>continue</code> (to skip) and/or <code>break</code> statements to exit. <code>break</code> can be combined with labeling the outermost loop to ensure we exit <em>both</em> loops like so:</p>
+
+<pre><code>outermost: for i in 1...10 {
+    for j in 1...10 {
+        let total = i * j
+        print(&quot;\(i) * \(j) = \(total)&quot;)
+        if total == 100 {
+            print(&quot;That's enough!&quot;)
+            break outermost
+        }
+    }
+}
+</code></pre>
+
+        </div>
+      </div>
+    
+      <div class="h-entry">
+		
+			<h1><a href="https://revidwerd.com/2021/02/10/daysofswiftui-day.html">100 Days Of SwiftUI - Day 3</a></h1>
+		
+
+        <a href="https://revidwerd.com/2021/02/10/daysofswiftui-day.html" class="u-url"><time class="dt-published" datetime="2021-02-10 15:27:00 &#43;0100">Feb 10, 2021</time></a>
+
+        <div class="e-content">
+         	<p>Todays #100DaysOfSwiftUI included Operators! Compounds! (+= or -= for instance) Comparisons! Switch Statements! Ternary! Ranges!</p>
 
 <p>I kind of like the look of ternary vs <code>if</code> blocks but I guess time and experience in Swift will tell…</p>
 
@@ -45,7 +185,7 @@ print(firstCard + secondCard == 21 ? “Blackjack!” : “Regular cards”)
       <div class="h-entry">
 		
 
-        <a href="https://revidwerd.com/2021/02/09/currently-reading-walden.html" class="u-url"><time class="dt-published" datetime="2021-02-09 21:57:39 &#43;0100">Feb 9, 2021</time></a>
+        <a href="https://revidwerd.com/2021/02/09/currently-reading-walden.html" class="u-url"><time class="dt-published" datetime="2021-02-09 21:57:00 &#43;0100">Feb 9, 2021</time></a>
 
         <div class="e-content">
          	<p>Currently reading: <a href="https://micro.blog/books/9781611806007">Walden</a> by Henry David Thoreau 📚</p>
