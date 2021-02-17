@@ -7,20 +7,79 @@
 	"items": [
 		
 			{
+				"id": "http://revidwerd.micro.blog/2021/02/17/day-of-daysofswiftui.html",
+				
+				"content_html": "<p>Day 7 of #100DaysOfSwiftUI was part two of closures, closure inception! This <a href=\"http://goshdarnclosuresyntax.com\">link</a> will come in handy.</p>\n",
+				"content_text": "Day 7 of #100DaysOfSwiftUI was part two of closures, closure inception! This [link](http://goshdarnclosuresyntax.com) will come in handy. \n",
+				"date_published": "2021-02-17T20:17:21+01:00",
+				"url": "https://revidwerd.com/2021/02/17/day-of-daysofswiftui.html"
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/02/16/day-in-daysofswiftui.html",
+				
+				"content_html": "<p>Day 7 in #100DaysOfSwiftUI (or Closures: Part 2) isn&rsquo;t going as planned&hellip; revisiting Day 6 to truly ensure I get the basics down…</p>\n",
+				"content_text": "Day 7 in #100DaysOfSwiftUI (or Closures: Part 2) isn't going as planned... revisiting Day 6 to truly ensure I get the basics down…\n",
+				"date_published": "2021-02-16T16:20:38+01:00",
+				"url": "https://revidwerd.com/2021/02/16/day-in-daysofswiftui.html"
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/02/15/time-will-tell.html",
+				
+				"content_html": "<p>Time will tell, but I think I have a solid EP coming together…</p>\n",
+				"content_text": "Time will tell, but I think I have a solid EP coming together…\n",
+				"date_published": "2021-02-15T15:20:43+01:00",
+				"url": "https://revidwerd.com/2021/02/15/time-will-tell.html"
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/02/15/days-of-swiftui.html",
+				"title": "100 Days of SwiftUI - Day 6",
+				"content_html": "<p>I spent most of the weekend in review (see the previous post with a link to the iOS app)</p>\n\n<p>Today&rsquo;s #100DaysOfSwiftUI was an ease into the idea of closures. Though my head was a bit achy at first, I faired pretty well on each sections quiz. In order to somewhat solidify, one always calls paramaters <em>after</em> the first <code>{</code> and you always call the closure that accepts a parameter <em>without</em> the parameter label.</p>\n\n<pre><code>let myAcceptingClosure = { (something: String) in \n    print(&quot;I'm a closure that accepts a parameter, such as \\(something)...&quot;)\n}\n\n// We call this WITHOUT the label\nmyAcceptingClosure(&quot;This&quot;)\n</code></pre>\n",
+				"content_text": "I spent most of the weekend in review (see the previous post with a link to the iOS app)\r\n\r\nToday's #100DaysOfSwiftUI was an ease into the idea of closures. Though my head was a bit achy at first, I faired pretty well on each sections quiz. In order to somewhat solidify, one always calls paramaters _after_ the first `{` and you always call the closure that accepts a parameter _without_ the parameter label.\r\n\r\n    let myAcceptingClosure = { (something: String) in \r\n    \tprint(\"I'm a closure that accepts a parameter, such as \\(something)...\")\r\n    }\r\n    \r\n    // We call this WITHOUT the label\r\n    myAcceptingClosure(\"This\")\n",
+				"date_published": "2021-02-15T13:58:30+01:00",
+				"url": "https://revidwerd.com/2021/02/15/days-of-swiftui.html",
+				"tags": ["Swift"]
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/02/13/end-of-week.html",
+				
+				"content_html": "<p>End of week #100DaysOfSwiftUI progress 🤘🏼</p>\n\n<blockquote>\n<p>I&rsquo;m on level 11 in Unwrap by <a href=\"https://micro.blog/twostraws\">@twostraws</a>. Download it here: <a href=\"https://itunes.apple.com/app/id1440611372\">itunes.apple.com/app/id144&hellip;</a></p>\n</blockquote>\n",
+				"content_text": "End of week #100DaysOfSwiftUI progress 🤘🏼\n\n> I'm on level 11 in Unwrap by [@twostraws](https://micro.blog/twostraws). Download it here: [itunes.apple.com/app/id144...](https://itunes.apple.com/app/id1440611372)\n",
+				"date_published": "2021-02-13T12:39:55+01:00",
+				"url": "https://revidwerd.com/2021/02/13/end-of-week.html"
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/02/12/days-of-swiftui.html",
+				"title": "100 Days of SwiftUI - Day 5",
+				"content_html": "<p>Today&rsquo;s #100DaysOfSwiftUI was all about functions and their various incantations. This included returning values (<em>tuples</em> are great for returning more than 1 valule!), accepting parameters, labeling parameters for better legibility (omitting labels in some cases), setting default parameters, “inout” parameters, &ldquo;throwing functions,&rdquo; and variadic functions (passing in 0 or more values).</p>\n\n<p>Ternary operators shine in SwiftUI as it uses single expression functions quite a bit:</p>\n\n<pre><code>func greet(name: String) -&gt; String {\n        name == &quot;Drew Diver&quot; ? &quot;My liege...&quot; : &quot;Hello, \\(name)! Back of the line!&quot;\n}\n</code></pre>\n\n<p>Parameter labels make function calls read naturally:</p>\n\n<pre><code>func sayHello(to name: String) {\n        print(&quot;Hello, \\(name)!&quot;)\n}\n\nsayHello(to: &quot;Drew Diver”)\n</code></pre>\n\n<p>Omitting parameter labels makes sense in cases like the following:</p>\n\n<pre><code>func read(_ book: String) {\n        print(&quot;Now reading \\(book)...&quot;)\n}\n\nread(&quot;Walden&quot;)\n</code></pre>\n\n<p>Also In Objective-C:</p>\n\n<blockquote>\n<p>&hellip;the first parameter to a function was always left unnamed, and so when you use those frameworks in Swift you’ll see lots of functions that have underscores for their first parameter label to preserve interoperability with Objective-C.</p>\n</blockquote>\n",
+				"content_text": "Today's #100DaysOfSwiftUI was all about functions and their various incantations. This included returning values (_tuples_ are great for returning more than 1 valule!), accepting parameters, labeling parameters for better legibility (omitting labels in some cases), setting default parameters, “inout” parameters, \"throwing functions,\" and variadic functions (passing in 0 or more values).\r\n\r\nTernary operators shine in SwiftUI as it uses single expression functions quite a bit:\r\n\r\n\tfunc greet(name: String) -> String {\r\n    \t\tname == \"Drew Diver\" ? \"My liege...\" : \"Hello, \\(name)! Back of the line!\"\r\n\t}\r\n\r\nParameter labels make function calls read naturally:\r\n\r\n\tfunc sayHello(to name: String) {\r\n    \t\tprint(\"Hello, \\(name)!\")\r\n\t}\r\n\r\n\tsayHello(to: \"Drew Diver”)\r\n\r\n\r\nOmitting parameter labels makes sense in cases like the following:\r\n\r\n\tfunc read(_ book: String) {\r\n    \t\tprint(\"Now reading \\(book)...\")\r\n\t}\r\n\r\n\tread(\"Walden\")\r\n\r\nAlso In Objective-C:\r\n\n> ...the first parameter to a function was always left unnamed, and so when you use those frameworks in Swift you’ll see lots of functions that have underscores for their first parameter label to preserve interoperability with Objective-C.\n",
+				"date_published": "2021-02-12T15:09:36+01:00",
+				"url": "https://revidwerd.com/2021/02/12/days-of-swiftui.html"
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/02/11/days-of-swiftui.html",
+				"title": "100 Days of SwiftUI - Day 4",
+				"content_html": "<p>Todays #100DaysOfSwiftUI was all about looping and included <code>while</code>, <code>for</code>, <code>repeat</code>. We then went within loops to apply <code>continue</code> (to skip) and/or <code>break</code> statements to exit. <code>break</code> can be combined with labeling the outermost loop to ensure we exit <em>both</em> loops like so:</p>\n\n<pre><code>outermost: for i in 1...10 {\n    for j in 1...10 {\n        let total = i * j\n        print(&quot;\\(i) * \\(j) = \\(total)&quot;)\n        if total == 100 {\n            print(&quot;That's enough!&quot;)\n            break outermost\n        }\n    }\n}\n</code></pre>\n",
+				"content_text": "Todays #100DaysOfSwiftUI was all about looping and included `while`, `for`, `repeat`. We then went within loops to apply `continue` (to skip) and/or `break` statements to exit. `break` can be combined with labeling the outermost loop to ensure we exit _both_ loops like so:\r\n\r\n\toutermost: for i in 1...10 {\r\n   \t\tfor j in 1...10 {\r\n    \t\tlet total = i * j\r\n        \tprint(\"\\(i) * \\(j) = \\(total)\")\r\n        \tif total == 100 {\r\n            \tprint(\"That's enough!\")\r\n            \tbreak outermost\r\n        \t}\r\n    \t}\r\n\t}\n",
+				"date_published": "2021-02-11T14:03:20+01:00",
+				"url": "https://revidwerd.com/2021/02/11/days-of-swiftui.html"
+			},
+			{
 				"id": "http://revidwerd.micro.blog/2021/02/10/daysofswiftui-day.html",
-				"title": "#100DaysOfSwiftUI - Day 3",
-				"content_html": "<p>Operators! Compounds! (+= or -= for instance) Comparisons! Switch Statements! Ternary! Ranges!</p>\n\n<p>I kind of like the look of ternary vs <code>if</code> blocks but I guess time and experience in Swift will tell…</p>\n\n<pre><code>var firstCard = 11\nvar secondCard = 10\nprint(firstCard + secondCard == 21 ? “Blackjack!” : “Regular cards”)\n</code></pre>\n",
-				"content_text": "Operators! Compounds! (+= or -= for instance) Comparisons! Switch Statements! Ternary! Ranges!\n\nI kind of like the look of ternary vs `if` blocks but I guess time and experience in Swift will tell…\n\n\tvar firstCard = 11\n\tvar secondCard = 10\n\tprint(firstCard + secondCard == 21 ? “Blackjack!” : “Regular cards”)\n",
-				"date_published": "2021-02-10T15:27:18+01:00",
-				"url": "https://revidwerd.com/2021/02/10/daysofswiftui-day.html"
+				"title": "100 Days Of SwiftUI - Day 3",
+				"content_html": "<p>Todays #100DaysOfSwiftUI included Operators! Compounds! (+= or -= for instance) Comparisons! Switch Statements! Ternary! Ranges!</p>\n\n<p>I kind of like the look of ternary vs <code>if</code> blocks but I guess time and experience in Swift will tell…</p>\n\n<pre><code>var firstCard = 11\nvar secondCard = 10\nprint(firstCard + secondCard == 21 ? “Blackjack!” : “Regular cards”)\n</code></pre>\n",
+				"content_text": "Todays #100DaysOfSwiftUI included Operators! Compounds! (+= or -= for instance) Comparisons! Switch Statements! Ternary! Ranges!\n\nI kind of like the look of ternary vs `if` blocks but I guess time and experience in Swift will tell…\n\n\tvar firstCard = 11\n\tvar secondCard = 10\n\tprint(firstCard + secondCard == 21 ? “Blackjack!” : “Regular cards”)\n",
+				"date_published": "2021-02-10T15:27:00+01:00",
+				"url": "https://revidwerd.com/2021/02/10/daysofswiftui-day.html",
+				"tags": ["Swift"]
 			},
 			{
 				"id": "http://revidwerd.micro.blog/2021/02/09/currently-reading-walden.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781611806007\">Walden</a> by Henry David Thoreau 📚</p>\n\n<blockquote>\n<p>Shams and delusions are esteemed for soundest truths, while reality is fabulous. If men would steadily observe realities only, and not allow themselves to be deluded, life, to compare it with such things as we know, would be like a fairy tale and the Arabian Nights&rsquo; Entertainments. If we respected only what is inevitable and has a right to be, music and poetry would resound along the streets. When we are unhurried and wise, we perceive the only great and worthy things have any permanent and absolute existence—that petty fears and petty pleasures are but the shadow of the reality.</p>\n</blockquote>\n",
 				"content_text": "Currently reading: [Walden](https://micro.blog/books/9781611806007) by Henry David Thoreau 📚\n\n> Shams and delusions are esteemed for soundest truths, while reality is fabulous. If men would steadily observe realities only, and not allow themselves to be deluded, life, to compare it with such things as we know, would be like a fairy tale and the Arabian Nights' Entertainments. If we respected only what is inevitable and has a right to be, music and poetry would resound along the streets. When we are unhurried and wise, we perceive the only great and worthy things have any permanent and absolute existence—that petty fears and petty pleasures are but the shadow of the reality.\n",
-				"date_published": "2021-02-09T21:57:39+01:00",
-				"url": "https://revidwerd.com/2021/02/09/currently-reading-walden.html"
+				"date_published": "2021-02-09T21:57:00+01:00",
+				"url": "https://revidwerd.com/2021/02/09/currently-reading-walden.html",
+				"tags": ["Quotes","Books"]
 			},
 			{
 				"id": "http://revidwerd.micro.blog/2021/02/09/days-of-swiftui.html",
