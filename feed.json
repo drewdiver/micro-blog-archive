@@ -7,6 +7,62 @@
 	"items": [
 		
 			{
+				"id": "http://revidwerd.micro.blog/2021/03/04/day-of-daysofswiftui.html",
+				
+				"content_html": "<p>Day 20 of #100DaysOfSwiftUI introduced <code>VStack</code>. <code>HStack</code> and <code>ZStack</code> for arranging views. We also looked at colors, gradients, buttons, images and showing alerts.</p>\n",
+				"content_text": "Day 20 of #100DaysOfSwiftUI introduced `VStack`. `HStack` and `ZStack` for arranging views. We also looked at colors, gradients, buttons, images and showing alerts.\n",
+				"date_published": "2021-03-04T13:53:07+01:00",
+				"url": "https://revidwerd.com/2021/03/04/day-of-daysofswiftui.html"
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/03/03/i-combined-day.html",
+				
+				"content_html": "<p>I combined Day 17 and 18 of #100DaysOfSwiftUI where we built our first tip calculating app. I was itching to do the challenges&hellip; I managed to get the Amount Per Person to show only when Number of people is more than 2 or none.</p>\n\n<p><img src=\"uploads/2021/ea014fe89b.jpg\" width=\"320\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I combined Day 17 and 18 of #100DaysOfSwiftUI where we built our first tip calculating app. I was itching to do the challenges... I managed to get the Amount Per Person to show only when Number of people is more than 2 or none. \n\n<img src=\"uploads/2021/ea014fe89b.jpg\" width=\"320\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-03-03T16:30:53+01:00",
+				"url": "https://revidwerd.com/2021/03/03/i-combined-day.html"
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/03/02/im-starting-to.html",
+				
+				"content_html": "<p>I’m starting to abandon outboard gear in favor of a small collection of plugins I’ve recently invested in. I’ve basically re-created a lot of sounds from my physical pedalboard but now I can queue and sync delays/reverb/tremelo easily with the clock in Logic Pro X. I know, I know&hellip; this has been a thing for a long time 😅</p>\n",
+				"content_text": "I’m starting to abandon outboard gear in favor of a small collection of plugins I’ve recently invested in. I’ve basically re-created a lot of sounds from my physical pedalboard but now I can queue and sync delays/reverb/tremelo easily with the clock in Logic Pro X. I know, I know... this has been a thing for a long time 😅 \n",
+				"date_published": "2021-03-02T22:01:19+01:00",
+				"url": "https://revidwerd.com/2021/03/02/im-starting-to.html"
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/03/02/day-of-daysofswiftui.html",
+				
+				"content_html": "<p>Day 16 of #100DaysOfSwiftUI begins &ldquo;Project 1&rdquo; part one aka “WeSplit” where we did an overview of elements I assume we&rsquo;ll be using in this tip calculator. This included modifying the <code>@State</code> property wrapper, adding navigation, creating a form and the basic layout of a SwiftUI project in Xcode.</p>\n",
+				"content_text": "Day 16 of #100DaysOfSwiftUI begins \"Project 1\" part one aka “WeSplit” where we did an overview of elements I assume we'll be using in this tip calculator. This included modifying the `@State` property wrapper, adding navigation, creating a form and the basic layout of a SwiftUI project in Xcode.\n",
+				"date_published": "2021-03-02T11:34:33+01:00",
+				"url": "https://revidwerd.com/2021/03/02/day-of-daysofswiftui.html"
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/03/01/day-of-daysofswiftui.html",
+				
+				"content_html": "<p>Day 15 of #100DaysOfSwiftUI was the third and final day of review. I looped back over (pun intended?) closures, properties, polymorphism by use of classes and typecasting. I also picked up <em>Understanding Swift</em> and <em>Pro Swift</em> via <a href=\"https://hackingwithswift.com/offers\">Hacking with Swift</a> over the weekend to invest further into my learning.</p>\n",
+				"content_text": "Day 15 of #100DaysOfSwiftUI was the third and final day of review. I looped back over (pun intended?) closures, properties, polymorphism by use of classes and typecasting. I also picked up _Understanding Swift_ and _Pro Swift_ via [Hacking with Swift](https://hackingwithswift.com/offers) over the weekend to invest further into my learning.\n",
+				"date_published": "2021-03-01T21:00:51+01:00",
+				"url": "https://revidwerd.com/2021/03/01/day-of-daysofswiftui.html"
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/02/26/day-of-daysofswiftui.html",
+				
+				"content_html": "<p>Day 14 of #100DaysOfSwiftUI was a review of structs, classes, optionals, functions and enums!</p>\n",
+				"content_text": "Day 14 of #100DaysOfSwiftUI was a review of structs, classes, optionals, functions and enums!\n",
+				"date_published": "2021-02-26T15:00:08+01:00",
+				"url": "https://revidwerd.com/2021/02/26/day-of-daysofswiftui.html"
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/02/25/day-of-daysofswiftui.html",
+				
+				"content_html": "<p>Day 13 of #100DaysOfSwiftUI is one of three recap days. Looked over variables, loops, constants, switch statements…</p>\n",
+				"content_text": "Day 13 of #100DaysOfSwiftUI is one of three recap days. Looked over variables, loops, constants, switch statements…\n",
+				"date_published": "2021-02-25T14:06:04+01:00",
+				"url": "https://revidwerd.com/2021/02/25/day-of-daysofswiftui.html"
+			},
+			{
 				"id": "http://revidwerd.micro.blog/2021/02/24/day-of-daysofswiftui.html",
 				
 				"content_html": "<p>Day 12 of #100DaysOfSwiftUI was about <code>nil</code>, <code>nil</code>, <code>nil</code>, <code>nil</code>, <code>nil</code>&hellip;.</p>\n",
