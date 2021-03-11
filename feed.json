@@ -7,20 +7,81 @@
 	"items": [
 		
 			{
+				"id": "http://revidwerd.micro.blog/2021/03/11/well-it-was.html",
+				
+				"content_html": "<p>📷 Well it __ was__  spring&hellip;</p>\n\n<p><img src=\"uploads/2021/e2f8fbd7f3.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "📷 Well it __ was__  spring...\n\n<img src=\"uploads/2021/e2f8fbd7f3.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-03-11T17:12:20+01:00",
+				"url": "https://revidwerd.com/2021/03/11/well-it-was.html"
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/03/08/i-totally-missed.html",
+				
+				"content_html": "<p>I totally missed the first &ldquo;Challenge Day&rdquo; (day 19) where you build an app from scratch… I thought it was a link to the project 1 challenges 😬</p>\n\n<p>I decided to do a temperature converter implementing the <code>Measurement</code> instance.</p>\n\n<p>The head scratcher was initially returning a type <code>Measurement&lt;UnitTemperature&gt;</code> from my <code>struct</code> due to complaints from Swift, typecasting got me nowhere also. The trick ended up being to switch the return type back to <code>Double</code> and call value on my return variable like <code>return convertedTemp.value</code> so that I could format the output to 1 decimal point and not get all the extra NS output data.</p>\n\n<p><img src=\"uploads/2021/8b6f12016f.png\" alt=\"Screenshot 2021 03 10 at 11 35 17\" title=\"Screenshot 2021-03-10 at 11.35.17.png\" border=\"0\" width=\"308\" height=\"600\" /></p>\n",
+				"content_text": "I totally missed the first \"Challenge Day\" (day 19) where you build an app from scratch… I thought it was a link to the project 1 challenges 😬\n\nI decided to do a temperature converter implementing the `Measurement` instance.\n\nThe head scratcher was initially returning a type `Measurement<UnitTemperature>` from my `struct` due to complaints from Swift, typecasting got me nowhere also. The trick ended up being to switch the return type back to `Double` and call value on my return variable like `return convertedTemp.value` so that I could format the output to 1 decimal point and not get all the extra NS output data.\n\n<img src=\"uploads/2021/8b6f12016f.png\" alt=\"Screenshot 2021 03 10 at 11 35 17\" title=\"Screenshot 2021-03-10 at 11.35.17.png\" border=\"0\" width=\"308\" height=\"600\" />\n",
+				"date_published": "2021-03-10T11:53:46+01:00",
+				"url": "https://revidwerd.com/2021/03/08/i-totally-missed.html",
+				"tags": ["Swift"]
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/03/09/220233.html",
+				
+				"content_html": "<p>📷 🐕</p>\n\n<p><img src=\"uploads/2021/3bd0c913dd.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "📷 🐕  \n\n<img src=\"uploads/2021/3bd0c913dd.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-03-09T22:02:33+01:00",
+				"url": "https://revidwerd.com/2021/03/09/220233.html"
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/03/09/finished-reading-wherever.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780749925482\">Wherever You Go, There You Are</a> by Kabat-Zinn, Jon 📚</p>\n\n<p>I often get these <em>Walden</em> ideas of wanting to retreat into the forest for extended periods of time, then I read the following sentence in the section titled &ldquo;<em>Parenting as Practice</em>&rdquo; 😅</p>\n\n<blockquote>\n<p>For each child, it would be <em>at least</em> an eighteen-year retreat, with virtually no time off for good behavior.</p>\n</blockquote>\n",
+				"content_text": "Finished reading: [Wherever You Go, There You Are](https://micro.blog/books/9780749925482) by Kabat-Zinn, Jon 📚\n\n\nI often get these _Walden_ ideas of wanting to retreat into the forest for extended periods of time, then I read the following sentence in the section titled \"_Parenting as Practice_\" 😅\n\n\n> For each child, it would be _at least_ an eighteen-year retreat, with virtually no time off for good behavior.\n",
+				"date_published": "2021-03-09T09:38:00+01:00",
+				"url": "https://revidwerd.com/2021/03/09/finished-reading-wherever.html"
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/03/08/day-was-project.html",
+				
+				"content_html": "<p>Day 22 was Project 2, part 3. This consisted of a quiz and a few challenges to add to the &ldquo;Guess the Flag&rdquo; app. I added a &ldquo;Total Score&rdquo; to the bottom as well as two individual counters that keep track of the correct and wrong answers. I also removed the alert after each selection and only show on an incorrect answer with some info and their new point deducted score.</p>\n\n<div class=\"img-gallery\">\n  <a href=\"https://revidwerd.com/uploads/2021/38b2a4e7e9.png\" \n   class=\"glightbox\"\n   \n   \n>\n<img src= \"https://revidwerd.com/uploads/2021/38b2a4e7e9.png\"\n        \n        \n   style=\"max-width: 100%\"/>\n</a>\n\n<a href=\"https://revidwerd.com/uploads/2021/6f2349faeb.png\" \n   class=\"glightbox\"\n   \n   \n>\n<img src= \"https://revidwerd.com/uploads/2021/6f2349faeb.png\"\n        \n        \n   style=\"max-width: 100%\"/>\n</a>\n\n </div>\n",
+				"content_text": "Day 22 was Project 2, part 3. This consisted of a quiz and a few challenges to add to the \"Guess the Flag\" app. I added a \"Total Score\" to the bottom as well as two individual counters that keep track of the correct and wrong answers. I also removed the alert after each selection and only show on an incorrect answer with some info and their new point deducted score.\n\n<div class=\"img-gallery\">\n  {{<glightbox src=\"https://revidwerd.com/uploads/2021/38b2a4e7e9.png\" >}}\n{{<glightbox  src=\"https://revidwerd.com/uploads/2021/6f2349faeb.png\" >}}\n </div>\n",
+				"date_published": "2021-03-08T16:54:00+01:00",
+				"url": "https://revidwerd.com/2021/03/08/day-was-project.html",
+				"tags": ["Swift"]
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/03/07/ive-been-stuck.html",
+				
+				"content_html": "<p>I’ve been stuck with an ESX sample and Logic Pro X not allowing slew/portamento (the slide up/down between notes). This is where my modular shines.. there are no limits to the amount of control. The only issue is remembering the patch 🤷🏼</p>\n\n<p><img src=\"uploads/2021/ff9680cda9.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "I’ve been stuck with an ESX sample and Logic Pro X not allowing slew/portamento (the slide up/down between notes). This is where my modular shines.. there are no limits to the amount of control. The only issue is remembering the patch 🤷🏼\n\n<img src=\"uploads/2021/ff9680cda9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-03-07T20:02:17+01:00",
+				"url": "https://revidwerd.com/2021/03/07/ive-been-stuck.html"
+			},
+			{
+				"id": "http://revidwerd.micro.blog/2021/03/05/day-of-daysofswiftui.html",
+				
+				"content_html": "<p>Day 21 of #100DaysOfSwiftUI took us into part 2 of project 2 where we did some <code>VStack</code>&rsquo;s (containing a random pull of three flag images we added to our projects assets along with a random number between 0 to 2 to compare with the correct answer) within a <code>ZStack</code> (displaying our gradient). We then send a notification saying Correct or Wrong and call a function to refresh the country/flag and new answer for the games continuation.</p>\n",
+				"content_text": "Day 21 of #100DaysOfSwiftUI took us into part 2 of project 2 where we did some `VStack`'s (containing a random pull of three flag images we added to our projects assets along with a random number between 0 to 2 to compare with the correct answer) within a `ZStack` (displaying our gradient). We then send a notification saying Correct or Wrong and call a function to refresh the country/flag and new answer for the games continuation.\n",
+				"date_published": "2021-03-05T16:09:00+01:00",
+				"url": "https://revidwerd.com/2021/03/05/day-of-daysofswiftui.html",
+				"tags": ["Swift"]
+			},
+			{
 				"id": "http://revidwerd.micro.blog/2021/03/04/day-of-daysofswiftui.html",
 				
 				"content_html": "<p>Day 20 of #100DaysOfSwiftUI introduced <code>VStack</code>. <code>HStack</code> and <code>ZStack</code> for arranging views. We also looked at colors, gradients, buttons, images and showing alerts.</p>\n",
 				"content_text": "Day 20 of #100DaysOfSwiftUI introduced `VStack`. `HStack` and `ZStack` for arranging views. We also looked at colors, gradients, buttons, images and showing alerts.\n",
-				"date_published": "2021-03-04T13:53:07+01:00",
-				"url": "https://revidwerd.com/2021/03/04/day-of-daysofswiftui.html"
+				"date_published": "2021-03-04T13:53:00+01:00",
+				"url": "https://revidwerd.com/2021/03/04/day-of-daysofswiftui.html",
+				"tags": ["Swift"]
 			},
 			{
 				"id": "http://revidwerd.micro.blog/2021/03/03/i-combined-day.html",
 				
 				"content_html": "<p>I combined Day 17 and 18 of #100DaysOfSwiftUI where we built our first tip calculating app. I was itching to do the challenges&hellip; I managed to get the Amount Per Person to show only when Number of people is more than 2 or none.</p>\n\n<p><img src=\"uploads/2021/ea014fe89b.jpg\" width=\"320\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "I combined Day 17 and 18 of #100DaysOfSwiftUI where we built our first tip calculating app. I was itching to do the challenges... I managed to get the Amount Per Person to show only when Number of people is more than 2 or none. \n\n<img src=\"uploads/2021/ea014fe89b.jpg\" width=\"320\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2021-03-03T16:30:53+01:00",
-				"url": "https://revidwerd.com/2021/03/03/i-combined-day.html"
+				"date_published": "2021-03-03T16:30:00+01:00",
+				"url": "https://revidwerd.com/2021/03/03/i-combined-day.html",
+				"tags": ["Swift"]
 			},
 			{
 				"id": "http://revidwerd.micro.blog/2021/03/02/im-starting-to.html",
@@ -35,24 +96,27 @@
 				
 				"content_html": "<p>Day 16 of #100DaysOfSwiftUI begins &ldquo;Project 1&rdquo; part one aka “WeSplit” where we did an overview of elements I assume we&rsquo;ll be using in this tip calculator. This included modifying the <code>@State</code> property wrapper, adding navigation, creating a form and the basic layout of a SwiftUI project in Xcode.</p>\n",
 				"content_text": "Day 16 of #100DaysOfSwiftUI begins \"Project 1\" part one aka “WeSplit” where we did an overview of elements I assume we'll be using in this tip calculator. This included modifying the `@State` property wrapper, adding navigation, creating a form and the basic layout of a SwiftUI project in Xcode.\n",
-				"date_published": "2021-03-02T11:34:33+01:00",
-				"url": "https://revidwerd.com/2021/03/02/day-of-daysofswiftui.html"
+				"date_published": "2021-03-02T11:34:00+01:00",
+				"url": "https://revidwerd.com/2021/03/02/day-of-daysofswiftui.html",
+				"tags": ["Swift"]
 			},
 			{
 				"id": "http://revidwerd.micro.blog/2021/03/01/day-of-daysofswiftui.html",
 				
 				"content_html": "<p>Day 15 of #100DaysOfSwiftUI was the third and final day of review. I looped back over (pun intended?) closures, properties, polymorphism by use of classes and typecasting. I also picked up <em>Understanding Swift</em> and <em>Pro Swift</em> via <a href=\"https://hackingwithswift.com/offers\">Hacking with Swift</a> over the weekend to invest further into my learning.</p>\n",
 				"content_text": "Day 15 of #100DaysOfSwiftUI was the third and final day of review. I looped back over (pun intended?) closures, properties, polymorphism by use of classes and typecasting. I also picked up _Understanding Swift_ and _Pro Swift_ via [Hacking with Swift](https://hackingwithswift.com/offers) over the weekend to invest further into my learning.\n",
-				"date_published": "2021-03-01T21:00:51+01:00",
-				"url": "https://revidwerd.com/2021/03/01/day-of-daysofswiftui.html"
+				"date_published": "2021-03-01T21:00:00+01:00",
+				"url": "https://revidwerd.com/2021/03/01/day-of-daysofswiftui.html",
+				"tags": ["Swift"]
 			},
 			{
 				"id": "http://revidwerd.micro.blog/2021/02/26/day-of-daysofswiftui.html",
 				
 				"content_html": "<p>Day 14 of #100DaysOfSwiftUI was a review of structs, classes, optionals, functions and enums!</p>\n",
 				"content_text": "Day 14 of #100DaysOfSwiftUI was a review of structs, classes, optionals, functions and enums!\n",
-				"date_published": "2021-02-26T15:00:08+01:00",
-				"url": "https://revidwerd.com/2021/02/26/day-of-daysofswiftui.html"
+				"date_published": "2021-02-26T15:00:00+01:00",
+				"url": "https://revidwerd.com/2021/02/26/day-of-daysofswiftui.html",
+				"tags": ["Swift"]
 			},
 			{
 				"id": "http://revidwerd.micro.blog/2021/02/25/day-of-daysofswiftui.html",
@@ -60,7 +124,8 @@
 				"content_html": "<p>Day 13 of #100DaysOfSwiftUI is one of three recap days. Looked over variables, loops, constants, switch statements…</p>\n",
 				"content_text": "Day 13 of #100DaysOfSwiftUI is one of three recap days. Looked over variables, loops, constants, switch statements…\n",
 				"date_published": "2021-02-25T14:06:04+01:00",
-				"url": "https://revidwerd.com/2021/02/25/day-of-daysofswiftui.html"
+				"url": "https://revidwerd.com/2021/02/25/day-of-daysofswiftui.html",
+				"tags": ["Swift"]
 			},
 			{
 				"id": "http://revidwerd.micro.blog/2021/02/24/day-of-daysofswiftui.html",
@@ -68,7 +133,8 @@
 				"content_html": "<p>Day 12 of #100DaysOfSwiftUI was about <code>nil</code>, <code>nil</code>, <code>nil</code>, <code>nil</code>, <code>nil</code>&hellip;.</p>\n",
 				"content_text": "Day 12 of #100DaysOfSwiftUI was about `nil`, `nil`, `nil`, `nil`, `nil`....\n",
 				"date_published": "2021-02-24T21:10:31+01:00",
-				"url": "https://revidwerd.com/2021/02/24/day-of-daysofswiftui.html"
+				"url": "https://revidwerd.com/2021/02/24/day-of-daysofswiftui.html",
+				"tags": ["Swift"]
 			},
 			{
 				"id": "http://revidwerd.micro.blog/2021/02/24/book-sale.html",
