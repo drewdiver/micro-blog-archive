@@ -1,508 +1,541 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "revidwerd",
-	"icon": "https://micro.blog/revidwerd/avatar.jpg",
-	"home_page_url": "https://revidwerd.com/",
-	"feed_url": "https://revidwerd.com/feed.json",
+	"title": "drew diver",
+	"icon": "https://micro.blog/drewdiver/avatar.jpg",
+	"home_page_url": "https://blog.drewdiver.com/",
+	"feed_url": "https://blog.drewdiver.com/feed.json",
 	"items": [
 		
 			{
-				"id": "http://revidwerd.micro.blog/2021/03/25/looking-forward-to.html",
+				"id": "http://drewdiver.micro.blog/2021/04/08/finished-reading-dreaming.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781400082476\">Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Quest for Transcendent Software</a> by Rosenberg, Scott 📚</p>\n\n<blockquote>\n<p>Software is a heap of trouble. And yet we can&rsquo;t, and won&rsquo;t, simply power down our computers and walk away. The software that frustrates and hogties us also captivates us with new capabilities and enthralls us with promises of faster, better ways to work and live. There&rsquo;s no going back. We need the stuff more than we hate it.</p>\n</blockquote>\n",
+				"content_text": "Finished reading: [Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Quest for Transcendent Software](https://micro.blog/books/9781400082476) by Rosenberg, Scott 📚\n\n> Software is a heap of trouble. And yet we can't, and won't, simply power down our computers and walk away. The software that frustrates and hogties us also captivates us with new capabilities and enthralls us with promises of faster, better ways to work and live. There's no going back. We need the stuff more than we hate it.\n",
+				"date_published": "2021-04-08T22:31:13+02:00",
+				"url": "https://blog.drewdiver.com/2021/04/08/finished-reading-dreaming.html"
+			},
+			{
+				"id": "http://drewdiver.micro.blog/2021/04/07/ive-finally-made.html",
+				
+				"content_html": "<p>I&rsquo;ve finally made the jump from ASCAP to STIM!</p>\n",
+				"content_text": "I've finally made the jump from ASCAP to STIM!\n",
+				"date_published": "2021-04-07T08:46:11+02:00",
+				"url": "https://blog.drewdiver.com/2021/04/07/ive-finally-made.html"
+			},
+			{
+				"id": "http://drewdiver.micro.blog/2021/04/05/starting-to-dig.html",
+				
+				"content_html": "<p>Starting to dig into Apple’s <code>CoreMIDI</code> documentation and I finally understand the complaints about terrible documentation and broken API’s in the Apple dev world.</p>\n",
+				"content_text": "Starting to dig into Apple’s `CoreMIDI` documentation and I finally understand the complaints about terrible documentation and broken API’s in the Apple dev world.\n",
+				"date_published": "2021-04-05T21:37:50+02:00",
+				"url": "https://blog.drewdiver.com/2021/04/05/starting-to-dig.html"
+			},
+			{
+				"id": "http://drewdiver.micro.blog/2021/04/04/234014.html",
+				
+				"content_html": "<p>New ambient piece <a href=\"https://drewdiver.bandcamp.com/track/currents-and-tides\">Currents and Tides</a> posted via my Bandcamp.</p>\n\n<p><img src=\"uploads/2021/ce5e3631b5.jpg\" width=\"466\" height=\"466\" alt=\"\" /></p>\n",
+				"content_text": "New ambient piece [Currents and Tides](https://drewdiver.bandcamp.com/track/currents-and-tides) posted via my Bandcamp.\n\n<img src=\"uploads/2021/ce5e3631b5.jpg\" width=\"466\" height=\"466\" alt=\"\" />\n",
+				"date_published": "2021-04-04T23:40:00+02:00",
+				"url": "https://blog.drewdiver.com/2021/04/04/234014.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://drewdiver.micro.blog/2021/03/25/looking-forward-to.html",
 				
 				"content_html": "<p>Looking forward to Swedish summer</p>\n\n<p><img src=\"uploads/2021/dc28a99da2.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
 				"content_text": "Looking forward to Swedish summer\n\n<img src=\"uploads/2021/dc28a99da2.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-03-25T23:26:18+02:00",
-				"url": "https://revidwerd.com/2021/03/25/looking-forward-to.html"
+				"url": "https://blog.drewdiver.com/2021/03/25/looking-forward-to.html"
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/03/22/the-repurposed-couch.html",
+				"id": "http://drewdiver.micro.blog/2021/03/22/the-repurposed-couch.html",
 				
 				"content_html": "<p>The repurposed couch is already being enjoyed 🐕 🪟</p>\n\n<p><img src=\"uploads/2021/ba0e4cb8db.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "The repurposed couch is already being enjoyed 🐕 🪟 \n\n<img src=\"uploads/2021/ba0e4cb8db.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-03-22T12:35:44+02:00",
-				"url": "https://revidwerd.com/2021/03/22/the-repurposed-couch.html"
+				"url": "https://blog.drewdiver.com/2021/03/22/the-repurposed-couch.html"
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/03/19/start-early.html",
+				"id": "http://drewdiver.micro.blog/2021/03/19/start-early.html",
 				
-				"content_html": "<p>Start early 🎛 🎹</p>\n\n<p><img src=\"uploads/2021/db7c98363a.jpg\" width=\"479\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Start early 🎛 🎹\n\n<img src=\"uploads/2021/db7c98363a.jpg\" width=\"479\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Start early 🎛 🎹</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/db7c98363a.jpg\" width=\"479\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Start early 🎛 🎹\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/db7c98363a.jpg\" width=\"479\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-03-19T18:15:47+02:00",
-				"url": "https://revidwerd.com/2021/03/19/start-early.html"
+				"url": "https://blog.drewdiver.com/2021/03/19/start-early.html"
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/03/14/finished-reading-falling.html",
+				"id": "http://drewdiver.micro.blog/2021/03/14/finished-reading-falling.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780349421094\">Falling Awake</a> by Kabat-Zinn, Jon 📚</p>\n",
 				"content_text": "Finished reading: [Falling Awake](https://micro.blog/books/9780349421094) by Kabat-Zinn, Jon 📚\n",
 				"date_published": "2021-03-14T23:26:45+02:00",
-				"url": "https://revidwerd.com/2021/03/14/finished-reading-falling.html"
+				"url": "https://blog.drewdiver.com/2021/03/14/finished-reading-falling.html"
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/03/11/well-it-was.html",
+				"id": "http://drewdiver.micro.blog/2021/03/11/well-it-was.html",
 				
-				"content_html": "<p>Well, it <em>was</em> spring&hellip;</p>\n\n<p><img src=\"uploads/2021/e2f8fbd7f3.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Well, it _was_ spring...\n\n<img src=\"uploads/2021/e2f8fbd7f3.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Well, it <em>was</em> spring&hellip;</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/e2f8fbd7f3.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Well, it _was_ spring...\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/e2f8fbd7f3.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-03-11T18:12:20+02:00",
-				"url": "https://revidwerd.com/2021/03/11/well-it-was.html"
+				"url": "https://blog.drewdiver.com/2021/03/11/well-it-was.html"
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/03/08/i-totally-missed.html",
+				"id": "http://drewdiver.micro.blog/2021/03/08/i-totally-missed.html",
 				
-				"content_html": "<p>I totally missed the first &ldquo;Challenge Day&rdquo; (day 19) where you build an app from scratch… I thought it was a link to the project 1 challenges 😬</p>\n\n<p>I decided to do a temperature converter implementing the <code>Measurement</code> instance.</p>\n\n<p>The head scratcher was initially returning a type <code>Measurement&lt;UnitTemperature&gt;</code> from my <code>struct</code> due to complaints from Swift, typecasting got me nowhere also. The trick ended up being to switch the return type back to <code>Double</code> and call value on my return variable like <code>return convertedTemp.value</code> so that I could format the output to 1 decimal point and not get all the extra NS output data.</p>\n\n<p><img src=\"uploads/2021/8b6f12016f.png\" alt=\"Screenshot 2021 03 10 at 11 35 17\" title=\"Screenshot 2021-03-10 at 11.35.17.png\" border=\"0\" width=\"308\" height=\"600\" /></p>\n",
-				"content_text": "I totally missed the first \"Challenge Day\" (day 19) where you build an app from scratch… I thought it was a link to the project 1 challenges 😬\n\nI decided to do a temperature converter implementing the `Measurement` instance.\n\nThe head scratcher was initially returning a type `Measurement<UnitTemperature>` from my `struct` due to complaints from Swift, typecasting got me nowhere also. The trick ended up being to switch the return type back to `Double` and call value on my return variable like `return convertedTemp.value` so that I could format the output to 1 decimal point and not get all the extra NS output data.\n\n<img src=\"uploads/2021/8b6f12016f.png\" alt=\"Screenshot 2021 03 10 at 11 35 17\" title=\"Screenshot 2021-03-10 at 11.35.17.png\" border=\"0\" width=\"308\" height=\"600\" />\n",
+				"content_html": "<p>I totally missed the first &ldquo;Challenge Day&rdquo; (day 19) where you build an app from scratch… I thought it was a link to the project 1 challenges 😬</p>\n\n<p>I decided to do a temperature converter implementing the <code>Measurement</code> instance.</p>\n\n<p>The head scratcher was initially returning a type <code>Measurement&lt;UnitTemperature&gt;</code> from my <code>struct</code> due to complaints from Swift, typecasting got me nowhere also. The trick ended up being to switch the return type back to <code>Double</code> and call value on my return variable like <code>return convertedTemp.value</code> so that I could format the output to 1 decimal point and not get all the extra NS output data.</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/8b6f12016f.png\" alt=\"Screenshot 2021 03 10 at 11 35 17\" title=\"Screenshot 2021-03-10 at 11.35.17.png\" border=\"0\" width=\"308\" height=\"600\" /></p>\n",
+				"content_text": "I totally missed the first \"Challenge Day\" (day 19) where you build an app from scratch… I thought it was a link to the project 1 challenges 😬\n\nI decided to do a temperature converter implementing the `Measurement` instance.\n\nThe head scratcher was initially returning a type `Measurement<UnitTemperature>` from my `struct` due to complaints from Swift, typecasting got me nowhere also. The trick ended up being to switch the return type back to `Double` and call value on my return variable like `return convertedTemp.value` so that I could format the output to 1 decimal point and not get all the extra NS output data.\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/8b6f12016f.png\" alt=\"Screenshot 2021 03 10 at 11 35 17\" title=\"Screenshot 2021-03-10 at 11.35.17.png\" border=\"0\" width=\"308\" height=\"600\" />\n",
 				"date_published": "2021-03-10T12:53:46+02:00",
-				"url": "https://revidwerd.com/2021/03/08/i-totally-missed.html",
+				"url": "https://blog.drewdiver.com/2021/03/08/i-totally-missed.html",
 				"tags": ["Swift"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/03/09/220233.html",
+				"id": "http://drewdiver.micro.blog/2021/03/09/220233.html",
 				
-				"content_html": "<p>📷 🐕</p>\n\n<p><img src=\"https://revidwerd.com/uploads/2021/3bd0c913dd.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "📷 🐕  \n\n<img src=\"https://revidwerd.com/uploads/2021/3bd0c913dd.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>📷 🐕</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/3bd0c913dd.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "📷 🐕  \n\n<img src=\"https://blog.drewdiver.com/uploads/2021/3bd0c913dd.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-03-09T23:02:33+02:00",
-				"url": "https://revidwerd.com/2021/03/09/220233.html"
+				"url": "https://blog.drewdiver.com/2021/03/09/220233.html"
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/03/09/finished-reading-wherever.html",
+				"id": "http://drewdiver.micro.blog/2021/03/09/finished-reading-wherever.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780749925482\">Wherever You Go, There You Are</a> by Kabat-Zinn, Jon 📚</p>\n\n<p>I often get these <em>Walden</em> ideas of wanting to retreat into the forest for extended periods of time, then I read the following sentence in the section titled &ldquo;<em>Parenting as Practice</em>&rdquo; 😅</p>\n\n<blockquote>\n<p>For each child, it would be <em>at least</em> an eighteen-year retreat, with virtually no time off for good behavior.</p>\n</blockquote>\n",
 				"content_text": "Finished reading: [Wherever You Go, There You Are](https://micro.blog/books/9780749925482) by Kabat-Zinn, Jon 📚\n\n\nI often get these _Walden_ ideas of wanting to retreat into the forest for extended periods of time, then I read the following sentence in the section titled \"_Parenting as Practice_\" 😅\n\n\n> For each child, it would be _at least_ an eighteen-year retreat, with virtually no time off for good behavior.\n",
 				"date_published": "2021-03-09T10:38:00+02:00",
-				"url": "https://revidwerd.com/2021/03/09/finished-reading-wherever.html",
+				"url": "https://blog.drewdiver.com/2021/03/09/finished-reading-wherever.html",
 				"tags": ["Books"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/03/08/day-was-project.html",
+				"id": "http://drewdiver.micro.blog/2021/03/08/day-was-project.html",
 				
-				"content_html": "<p>Day 22 was Project 2, part 3. This consisted of a quiz and a few challenges to add to the &ldquo;Guess the Flag&rdquo; app. I added a &ldquo;Total Score&rdquo; to the bottom as well as two individual counters that keep track of the correct and wrong answers. I also removed the alert after each selection and only show on an incorrect answer with some info and their new point deducted score.</p>\n\n<div class=\"img-gallery\">\n  <a href=\"https://revidwerd.com/uploads/2021/38b2a4e7e9.png\" \n   class=\"glightbox\"\n   \n   \n>\n<img src= \"https://revidwerd.com/uploads/2021/38b2a4e7e9.png\"\n        \n        \n   style=\"max-width: 100%\"/>\n</a>\n\n<a href=\"https://revidwerd.com/uploads/2021/6f2349faeb.png\" \n   class=\"glightbox\"\n   \n   \n>\n<img src= \"https://revidwerd.com/uploads/2021/6f2349faeb.png\"\n        \n        \n   style=\"max-width: 100%\"/>\n</a>\n\n </div>\n",
-				"content_text": "Day 22 was Project 2, part 3. This consisted of a quiz and a few challenges to add to the \"Guess the Flag\" app. I added a \"Total Score\" to the bottom as well as two individual counters that keep track of the correct and wrong answers. I also removed the alert after each selection and only show on an incorrect answer with some info and their new point deducted score.\n\n<div class=\"img-gallery\">\n  {{<glightbox src=\"https://revidwerd.com/uploads/2021/38b2a4e7e9.png\" >}}\n{{<glightbox  src=\"https://revidwerd.com/uploads/2021/6f2349faeb.png\" >}}\n </div>\n",
+				"content_html": "<p>Day 22 was Project 2, part 3. This consisted of a quiz and a few challenges to add to the &ldquo;Guess the Flag&rdquo; app. I added a &ldquo;Total Score&rdquo; to the bottom as well as two individual counters that keep track of the correct and wrong answers. I also removed the alert after each selection and only show on an incorrect answer with some info and their new point deducted score.</p>\n\n<div class=\"img-gallery\">\n  <a href=\"https://blog.drewdiver.com/uploads/2021/38b2a4e7e9.png\" \n   class=\"glightbox\"\n   \n   \n>\n<img src= \"https://blog.drewdiver.com/uploads/2021/38b2a4e7e9.png\"\n        \n        \n   style=\"max-width: 100%\"/>\n</a>\n\n<a href=\"https://blog.drewdiver.com/uploads/2021/6f2349faeb.png\" \n   class=\"glightbox\"\n   \n   \n>\n<img src= \"https://blog.drewdiver.com/uploads/2021/6f2349faeb.png\"\n        \n        \n   style=\"max-width: 100%\"/>\n</a>\n\n </div>\n",
+				"content_text": "Day 22 was Project 2, part 3. This consisted of a quiz and a few challenges to add to the \"Guess the Flag\" app. I added a \"Total Score\" to the bottom as well as two individual counters that keep track of the correct and wrong answers. I also removed the alert after each selection and only show on an incorrect answer with some info and their new point deducted score.\n\n<div class=\"img-gallery\">\n  {{<glightbox src=\"https://blog.drewdiver.com/uploads/2021/38b2a4e7e9.png\" >}}\n{{<glightbox  src=\"https://blog.drewdiver.com/uploads/2021/6f2349faeb.png\" >}}\n </div>\n",
 				"date_published": "2021-03-08T17:54:00+02:00",
-				"url": "https://revidwerd.com/2021/03/08/day-was-project.html",
+				"url": "https://blog.drewdiver.com/2021/03/08/day-was-project.html",
 				"tags": ["Swift"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/03/05/day-of-daysofswiftui.html",
+				"id": "http://drewdiver.micro.blog/2021/03/05/day-of-daysofswiftui.html",
 				
 				"content_html": "<p>Day 21 of #100DaysOfSwiftUI took us into part 2 of project 2 where we did some <code>VStack</code>&rsquo;s (containing a random pull of three flag images we added to our projects assets along with a random number between 0 to 2 to compare with the correct answer) within a <code>ZStack</code> (displaying our gradient). We then send a notification saying Correct or Wrong and call a function to refresh the country/flag and new answer for the games continuation.</p>\n",
 				"content_text": "Day 21 of #100DaysOfSwiftUI took us into part 2 of project 2 where we did some `VStack`'s (containing a random pull of three flag images we added to our projects assets along with a random number between 0 to 2 to compare with the correct answer) within a `ZStack` (displaying our gradient). We then send a notification saying Correct or Wrong and call a function to refresh the country/flag and new answer for the games continuation.\n",
 				"date_published": "2021-03-05T17:09:00+02:00",
-				"url": "https://revidwerd.com/2021/03/05/day-of-daysofswiftui.html",
+				"url": "https://blog.drewdiver.com/2021/03/05/day-of-daysofswiftui.html",
 				"tags": ["Swift"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/03/04/day-of-daysofswiftui.html",
+				"id": "http://drewdiver.micro.blog/2021/03/04/day-of-daysofswiftui.html",
 				
 				"content_html": "<p>Day 20 of #100DaysOfSwiftUI introduced <code>VStack</code>. <code>HStack</code> and <code>ZStack</code> for arranging views. We also looked at colors, gradients, buttons, images and showing alerts.</p>\n",
 				"content_text": "Day 20 of #100DaysOfSwiftUI introduced `VStack`. `HStack` and `ZStack` for arranging views. We also looked at colors, gradients, buttons, images and showing alerts.\n",
 				"date_published": "2021-03-04T14:53:00+02:00",
-				"url": "https://revidwerd.com/2021/03/04/day-of-daysofswiftui.html",
+				"url": "https://blog.drewdiver.com/2021/03/04/day-of-daysofswiftui.html",
 				"tags": ["Swift"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/03/03/i-combined-day.html",
+				"id": "http://drewdiver.micro.blog/2021/03/03/i-combined-day.html",
 				
-				"content_html": "<p>I combined Day 17 and 18 of #100DaysOfSwiftUI where we built our first tip calculating app. I was itching to do the challenges&hellip; I managed to get the Amount Per Person to show only when Number of people is more than 2 or none.</p>\n\n<p><img src=\"https://revidwerd.com/uploads/2021/ea014fe89b.jpg\" width=\"320\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "I combined Day 17 and 18 of #100DaysOfSwiftUI where we built our first tip calculating app. I was itching to do the challenges... I managed to get the Amount Per Person to show only when Number of people is more than 2 or none. \n\n<img src=\"https://revidwerd.com/uploads/2021/ea014fe89b.jpg\" width=\"320\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>I combined Day 17 and 18 of #100DaysOfSwiftUI where we built our first tip calculating app. I was itching to do the challenges&hellip; I managed to get the Amount Per Person to show only when Number of people is more than 2 or none.</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/ea014fe89b.jpg\" width=\"320\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I combined Day 17 and 18 of #100DaysOfSwiftUI where we built our first tip calculating app. I was itching to do the challenges... I managed to get the Amount Per Person to show only when Number of people is more than 2 or none. \n\n<img src=\"https://blog.drewdiver.com/uploads/2021/ea014fe89b.jpg\" width=\"320\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-03-03T17:30:00+02:00",
-				"url": "https://revidwerd.com/2021/03/03/i-combined-day.html",
+				"url": "https://blog.drewdiver.com/2021/03/03/i-combined-day.html",
 				"tags": ["Swift"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/03/02/im-starting-to.html",
+				"id": "http://drewdiver.micro.blog/2021/03/02/im-starting-to.html",
 				
 				"content_html": "<p>I’m starting to abandon outboard gear in favor of a small collection of plugins I’ve recently invested in. I’ve basically re-created a lot of sounds from my physical pedalboard but now I can queue and sync delays/reverb/tremelo easily with the clock in Logic Pro X. I know, I know&hellip; this has been a thing for a long time 😅</p>\n",
 				"content_text": "I’m starting to abandon outboard gear in favor of a small collection of plugins I’ve recently invested in. I’ve basically re-created a lot of sounds from my physical pedalboard but now I can queue and sync delays/reverb/tremelo easily with the clock in Logic Pro X. I know, I know... this has been a thing for a long time 😅 \n",
 				"date_published": "2021-03-02T23:01:19+02:00",
-				"url": "https://revidwerd.com/2021/03/02/im-starting-to.html"
+				"url": "https://blog.drewdiver.com/2021/03/02/im-starting-to.html"
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/03/02/day-of-daysofswiftui.html",
+				"id": "http://drewdiver.micro.blog/2021/03/02/day-of-daysofswiftui.html",
 				
 				"content_html": "<p>Day 16 of #100DaysOfSwiftUI begins &ldquo;Project 1&rdquo; part one aka “WeSplit” where we did an overview of elements I assume we&rsquo;ll be using in this tip calculator. This included modifying the <code>@State</code> property wrapper, adding navigation, creating a form and the basic layout of a SwiftUI project in Xcode.</p>\n",
 				"content_text": "Day 16 of #100DaysOfSwiftUI begins \"Project 1\" part one aka “WeSplit” where we did an overview of elements I assume we'll be using in this tip calculator. This included modifying the `@State` property wrapper, adding navigation, creating a form and the basic layout of a SwiftUI project in Xcode.\n",
 				"date_published": "2021-03-02T12:34:00+02:00",
-				"url": "https://revidwerd.com/2021/03/02/day-of-daysofswiftui.html",
+				"url": "https://blog.drewdiver.com/2021/03/02/day-of-daysofswiftui.html",
 				"tags": ["Swift"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/03/01/day-of-daysofswiftui.html",
+				"id": "http://drewdiver.micro.blog/2021/03/01/day-of-daysofswiftui.html",
 				
 				"content_html": "<p>Day 15 of #100DaysOfSwiftUI was the third and final day of review. I looped back over (pun intended?) closures, properties, polymorphism by use of classes and typecasting. I also picked up <em>Understanding Swift</em> and <em>Pro Swift</em> via <a href=\"https://hackingwithswift.com/offers\">Hacking with Swift</a> over the weekend to invest further into my learning.</p>\n",
 				"content_text": "Day 15 of #100DaysOfSwiftUI was the third and final day of review. I looped back over (pun intended?) closures, properties, polymorphism by use of classes and typecasting. I also picked up _Understanding Swift_ and _Pro Swift_ via [Hacking with Swift](https://hackingwithswift.com/offers) over the weekend to invest further into my learning.\n",
 				"date_published": "2021-03-01T22:00:00+02:00",
-				"url": "https://revidwerd.com/2021/03/01/day-of-daysofswiftui.html",
+				"url": "https://blog.drewdiver.com/2021/03/01/day-of-daysofswiftui.html",
 				"tags": ["Swift"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/02/26/day-of-daysofswiftui.html",
+				"id": "http://drewdiver.micro.blog/2021/02/26/day-of-daysofswiftui.html",
 				
 				"content_html": "<p>Day 14 of #100DaysOfSwiftUI was a review of structs, classes, optionals, functions and enums!</p>\n",
 				"content_text": "Day 14 of #100DaysOfSwiftUI was a review of structs, classes, optionals, functions and enums!\n",
 				"date_published": "2021-02-26T16:00:00+02:00",
-				"url": "https://revidwerd.com/2021/02/26/day-of-daysofswiftui.html",
+				"url": "https://blog.drewdiver.com/2021/02/26/day-of-daysofswiftui.html",
 				"tags": ["Swift"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/02/25/day-of-daysofswiftui.html",
+				"id": "http://drewdiver.micro.blog/2021/02/25/day-of-daysofswiftui.html",
 				
 				"content_html": "<p>Day 13 of #100DaysOfSwiftUI is one of three recap days. Looked over variables, loops, constants, switch statements…</p>\n",
 				"content_text": "Day 13 of #100DaysOfSwiftUI is one of three recap days. Looked over variables, loops, constants, switch statements…\n",
 				"date_published": "2021-02-25T15:06:04+02:00",
-				"url": "https://revidwerd.com/2021/02/25/day-of-daysofswiftui.html",
+				"url": "https://blog.drewdiver.com/2021/02/25/day-of-daysofswiftui.html",
 				"tags": ["Swift"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/02/24/day-of-daysofswiftui.html",
+				"id": "http://drewdiver.micro.blog/2021/02/24/day-of-daysofswiftui.html",
 				
 				"content_html": "<p>Day 12 of #100DaysOfSwiftUI was about <code>nil</code>, <code>nil</code>, <code>nil</code>, <code>nil</code>, <code>nil</code>&hellip;.</p>\n",
 				"content_text": "Day 12 of #100DaysOfSwiftUI was about `nil`, `nil`, `nil`, `nil`, `nil`....\n",
 				"date_published": "2021-02-24T22:10:31+02:00",
-				"url": "https://revidwerd.com/2021/02/24/day-of-daysofswiftui.html",
+				"url": "https://blog.drewdiver.com/2021/02/24/day-of-daysofswiftui.html",
 				"tags": ["Swift"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/02/24/book-sale.html",
+				"id": "http://drewdiver.micro.blog/2021/02/24/book-sale.html",
 				
-				"content_html": "<p>Book sale!</p>\n\n<p><img src=\"https://revidwerd.com/uploads/2021/68a317708b.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
-				"content_text": "Book sale!\n\n<img src=\"https://revidwerd.com/uploads/2021/68a317708b.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_html": "<p>Book sale!</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/68a317708b.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "Book sale!\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/68a317708b.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2021-02-24T14:41:03+02:00",
-				"url": "https://revidwerd.com/2021/02/24/book-sale.html"
+				"url": "https://blog.drewdiver.com/2021/02/24/book-sale.html"
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/02/23/a-muddy-lunch.html",
+				"id": "http://drewdiver.micro.blog/2021/02/23/a-muddy-lunch.html",
 				
-				"content_html": "<p>A muddy lunch walk today.</p>\n\n<p><img src=\"https://revidwerd.com/uploads/2021/e0ba9fad07.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
-				"content_text": "A muddy lunch walk today.\n\n<img src=\"https://revidwerd.com/uploads/2021/e0ba9fad07.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_html": "<p>A muddy lunch walk today.</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/e0ba9fad07.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "A muddy lunch walk today.\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/e0ba9fad07.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2021-02-23T14:22:48+02:00",
-				"url": "https://revidwerd.com/2021/02/23/a-muddy-lunch.html"
+				"url": "https://blog.drewdiver.com/2021/02/23/a-muddy-lunch.html"
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/02/23/day-of-daysofswiftui.html",
+				"id": "http://drewdiver.micro.blog/2021/02/23/day-of-daysofswiftui.html",
 				
 				"content_html": "<p>Day 11 of #100DaysOfSwiftUI was all about protocols, extensions and protocol-oriented programming (POP).</p>\n\n<p>David Abrahams via his <a href=\"https://developer.apple.com/videos/play/wwdc2015/408/\">talk</a> at WWDC:</p>\n\n<blockquote>\n<p>So, yes, Swift is great for object-oriented programming, but from the way for loops and string literals work to the emphasis in the standard library on generics, at its heart, Swift is protocol-oriented.</p>\n</blockquote>\n",
 				"content_text": "Day 11 of #100DaysOfSwiftUI was all about protocols, extensions and protocol-oriented programming (POP).\n\nDavid Abrahams via his [talk](https://developer.apple.com/videos/play/wwdc2015/408/) at WWDC:\n\n> So, yes, Swift is great for object-oriented programming, but from the way for loops and string literals work to the emphasis in the standard library on generics, at its heart, Swift is protocol-oriented.\n",
 				"date_published": "2021-02-23T13:11:00+02:00",
-				"url": "https://revidwerd.com/2021/02/23/day-of-daysofswiftui.html",
+				"url": "https://blog.drewdiver.com/2021/02/23/day-of-daysofswiftui.html",
 				"tags": ["Swift"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/02/22/hjicha-is-my.html",
+				"id": "http://drewdiver.micro.blog/2021/02/22/hjicha-is-my.html",
 				
-				"content_html": "<p>Hōjicha is my new (mildly) caffeinated obsession:</p>\n\n<p>From Wikipedia:</p>\n\n<blockquote>\n<p>Hōjicha (焙じ茶, ほうじ茶) is a Japanese green tea. It is distinctive from other Japanese green teas because it is roasted in a porcelain pot over charcoal, whereas most Japanese teas are steamed. The tea is fired at a high temperature, altering the leaf color tints from green to reddish brown. The process was first performed in Kyoto, Japan, in the 1920s and its popularity persists today</p>\n</blockquote>\n\n<p>Steep for 45 seconds at 85º - 90º C</p>\n\n<p><img src=\"https://revidwerd.com/uploads/2021/d85ec0e249.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Hōjicha is my new (mildly) caffeinated obsession:\n\nFrom Wikipedia:\n\n> Hōjicha (焙じ茶, ほうじ茶) is a Japanese green tea. It is distinctive from other Japanese green teas because it is roasted in a porcelain pot over charcoal, whereas most Japanese teas are steamed. The tea is fired at a high temperature, altering the leaf color tints from green to reddish brown. The process was first performed in Kyoto, Japan, in the 1920s and its popularity persists today\n\nSteep for 45 seconds at 85º - 90º C\n\n<img src=\"https://revidwerd.com/uploads/2021/d85ec0e249.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Hōjicha is my new (mildly) caffeinated obsession:</p>\n\n<p>From Wikipedia:</p>\n\n<blockquote>\n<p>Hōjicha (焙じ茶, ほうじ茶) is a Japanese green tea. It is distinctive from other Japanese green teas because it is roasted in a porcelain pot over charcoal, whereas most Japanese teas are steamed. The tea is fired at a high temperature, altering the leaf color tints from green to reddish brown. The process was first performed in Kyoto, Japan, in the 1920s and its popularity persists today</p>\n</blockquote>\n\n<p>Steep for 45 seconds at 85º - 90º C</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/d85ec0e249.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Hōjicha is my new (mildly) caffeinated obsession:\n\nFrom Wikipedia:\n\n> Hōjicha (焙じ茶, ほうじ茶) is a Japanese green tea. It is distinctive from other Japanese green teas because it is roasted in a porcelain pot over charcoal, whereas most Japanese teas are steamed. The tea is fired at a high temperature, altering the leaf color tints from green to reddish brown. The process was first performed in Kyoto, Japan, in the 1920s and its popularity persists today\n\nSteep for 45 seconds at 85º - 90º C\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/d85ec0e249.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-02-22T16:01:39+02:00",
-				"url": "https://revidwerd.com/2021/02/22/hjicha-is-my.html"
+				"url": "https://blog.drewdiver.com/2021/02/22/hjicha-is-my.html"
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/02/22/swiftui-uses-structs.html",
+				"id": "http://drewdiver.micro.blog/2021/02/22/swiftui-uses-structs.html",
 				
 				"content_html": "<p>Day 10 of #100DaysOfSwiftUI was all about classes, inheritance, overriding (also <em>blocking</em> this via <code>final</code>), mutability and the differences between structs and classes. Important note:</p>\n\n<blockquote>\n<p>SwiftUI uses structs extensively for its UI design. Well, it uses classes extensively for its data: when you show data from some object on the screen, or when you pass data between your layouts, you’ll usually be using classes.</p>\n</blockquote>\n",
 				"content_text": "Day 10 of #100DaysOfSwiftUI was all about classes, inheritance, overriding (also _blocking_ this via `final`), mutability and the differences between structs and classes. Important note:\n\n> SwiftUI uses structs extensively for its UI design. Well, it uses classes extensively for its data: when you show data from some object on the screen, or when you pass data between your layouts, you’ll usually be using classes.\n",
 				"date_published": "2021-02-22T15:35:00+02:00",
-				"url": "https://revidwerd.com/2021/02/22/swiftui-uses-structs.html",
+				"url": "https://blog.drewdiver.com/2021/02/22/swiftui-uses-structs.html",
 				"tags": ["Swift"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/02/20/day-of-daysofswiftui.html",
+				"id": "http://drewdiver.micro.blog/2021/02/20/day-of-daysofswiftui.html",
 				
 				"content_html": "<p>Day 9 of #100DaysOfSwiftUI was all about structs (creating custom data types) and utilizing initializers as well as static and “lazy” properties.</p>\n",
 				"content_text": "Day 9 of #100DaysOfSwiftUI was all about structs (creating custom data types) and utilizing initializers as well as static and “lazy” properties.\n",
 				"date_published": "2021-02-20T14:16:00+02:00",
-				"url": "https://revidwerd.com/2021/02/20/day-of-daysofswiftui.html",
+				"url": "https://blog.drewdiver.com/2021/02/20/day-of-daysofswiftui.html",
 				"tags": ["Swift"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/02/18/this-past-tuesday.html",
+				"id": "http://drewdiver.micro.blog/2021/02/18/this-past-tuesday.html",
 				
-				"content_html": "<p>This past Tuesday was <em>fettisdagsbulle</em> or “Fat Tuesday” here in Sweden. By the time I realized the date, the queues for Semla were insane and the quantities scarce.</p>\n\n<p>However, today is a new day and I’m making up for it! This is a cinnamon bun semla (I also got a few traditional 😅).</p>\n\n<p><img src=\"https://revidwerd.com/uploads/2021/efaf737924.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "This past Tuesday was _fettisdagsbulle_ or “Fat Tuesday” here in Sweden. By the time I realized the date, the queues for Semla were insane and the quantities scarce. \n\nHowever, today is a new day and I’m making up for it! This is a cinnamon bun semla (I also got a few traditional 😅).\n\n<img src=\"https://revidwerd.com/uploads/2021/efaf737924.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>This past Tuesday was <em>fettisdagsbulle</em> or “Fat Tuesday” here in Sweden. By the time I realized the date, the queues for Semla were insane and the quantities scarce.</p>\n\n<p>However, today is a new day and I’m making up for it! This is a cinnamon bun semla (I also got a few traditional 😅).</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/efaf737924.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This past Tuesday was _fettisdagsbulle_ or “Fat Tuesday” here in Sweden. By the time I realized the date, the queues for Semla were insane and the quantities scarce. \n\nHowever, today is a new day and I’m making up for it! This is a cinnamon bun semla (I also got a few traditional 😅).\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/efaf737924.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-18T15:53:10+02:00",
-				"url": "https://revidwerd.com/2021/02/18/this-past-tuesday.html"
+				"url": "https://blog.drewdiver.com/2021/02/18/this-past-tuesday.html"
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/02/18/day-of-daysofswiftui.html",
+				"id": "http://drewdiver.micro.blog/2021/02/18/day-of-daysofswiftui.html",
 				
 				"content_html": "<p>Day 8 of #100DaysOfSwiftUI was all about structs, methods, mutability and finished with demoing how array and string types are structs and have their own methods which can be called to sort, append, etc.</p>\n",
 				"content_text": "Day 8 of #100DaysOfSwiftUI was all about structs, methods, mutability and finished with demoing how array and string types are structs and have their own methods which can be called to sort, append, etc.\n",
 				"date_published": "2021-02-18T15:40:00+02:00",
-				"url": "https://revidwerd.com/2021/02/18/day-of-daysofswiftui.html",
+				"url": "https://blog.drewdiver.com/2021/02/18/day-of-daysofswiftui.html",
 				"tags": ["Swift"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/02/17/day-of-daysofswiftui.html",
+				"id": "http://drewdiver.micro.blog/2021/02/17/day-of-daysofswiftui.html",
 				
 				"content_html": "<p>Day 7 of #100DaysOfSwiftUI was closures part 2, <a href=\"http://goshdarnclosuresyntax.com\">this</a> link will come in handy.</p>\n",
 				"content_text": "Day 7 of #100DaysOfSwiftUI was closures part 2, [this](http://goshdarnclosuresyntax.com) link will come in handy. \n",
 				"date_published": "2021-02-17T21:17:00+02:00",
-				"url": "https://revidwerd.com/2021/02/17/day-of-daysofswiftui.html",
+				"url": "https://blog.drewdiver.com/2021/02/17/day-of-daysofswiftui.html",
 				"tags": ["Swift"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/02/16/day-in-daysofswiftui.html",
+				"id": "http://drewdiver.micro.blog/2021/02/16/day-in-daysofswiftui.html",
 				
 				"content_html": "<p>Revisiting Day 6 of #100DaysOfSwiftUI to truly ensure I get the basics down…</p>\n",
 				"content_text": "Revisiting Day 6 of #100DaysOfSwiftUI to truly ensure I get the basics down…\n",
 				"date_published": "2021-02-16T17:20:00+02:00",
-				"url": "https://revidwerd.com/2021/02/16/day-in-daysofswiftui.html",
+				"url": "https://blog.drewdiver.com/2021/02/16/day-in-daysofswiftui.html",
 				"tags": ["Swift"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/02/15/time-will-tell.html",
+				"id": "http://drewdiver.micro.blog/2021/02/15/time-will-tell.html",
 				
 				"content_html": "<p>Time will tell, but I think I have a solid EP coming together…</p>\n",
 				"content_text": "Time will tell, but I think I have a solid EP coming together…\n",
 				"date_published": "2021-02-15T16:20:43+02:00",
-				"url": "https://revidwerd.com/2021/02/15/time-will-tell.html"
+				"url": "https://blog.drewdiver.com/2021/02/15/time-will-tell.html"
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/02/15/days-of-swiftui.html",
+				"id": "http://drewdiver.micro.blog/2021/02/15/days-of-swiftui.html",
 				
 				"content_html": "<p>I spent most of the weekend in review (see the previous post with a link to the iOS app)</p>\n\n<p>Day 6 of #100DaysOfSwiftUI was an ease into the idea of closures. Though my head was a bit achy at first, I faired pretty well on each sections quiz. In order to somewhat solidify, one always calls paramaters <em>after</em> the first <code>{</code> and you always call the closure that accepts a parameter <em>without</em> the parameter label.</p>\n\n<pre><code>let myAcceptingClosure = { (something: String) in \n    print(&quot;I'm a closure that accepts a parameter, such as \\(something)...&quot;)\n}\n\n// We call this WITHOUT the label\nmyAcceptingClosure(&quot;This&quot;)\n</code></pre>\n",
 				"content_text": "I spent most of the weekend in review (see the previous post with a link to the iOS app)\n\nDay 6 of #100DaysOfSwiftUI was an ease into the idea of closures. Though my head was a bit achy at first, I faired pretty well on each sections quiz. In order to somewhat solidify, one always calls paramaters _after_ the first `{` and you always call the closure that accepts a parameter _without_ the parameter label.\n\n    let myAcceptingClosure = { (something: String) in \n    \tprint(\"I'm a closure that accepts a parameter, such as \\(something)...\")\n    }\n    \n    // We call this WITHOUT the label\n    myAcceptingClosure(\"This\")\n",
 				"date_published": "2021-02-15T14:58:00+02:00",
-				"url": "https://revidwerd.com/2021/02/15/days-of-swiftui.html",
+				"url": "https://blog.drewdiver.com/2021/02/15/days-of-swiftui.html",
 				"tags": ["Swift"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/02/13/end-of-week.html",
+				"id": "http://drewdiver.micro.blog/2021/02/13/end-of-week.html",
 				
 				"content_html": "<p>End of week #100DaysOfSwiftUI progress 🤘🏼</p>\n\n<blockquote>\n<p>I&rsquo;m on level 11 in Unwrap by <a href=\"https://micro.blog/twostraws\">@twostraws</a>. Download it here: <a href=\"https://itunes.apple.com/app/id1440611372\">itunes.apple.com/app/id144&hellip;</a></p>\n</blockquote>\n",
 				"content_text": "End of week #100DaysOfSwiftUI progress 🤘🏼\n\n> I'm on level 11 in Unwrap by [@twostraws](https://micro.blog/twostraws). Download it here: [itunes.apple.com/app/id144...](https://itunes.apple.com/app/id1440611372)\n",
 				"date_published": "2021-02-13T13:39:00+02:00",
-				"url": "https://revidwerd.com/2021/02/13/end-of-week.html",
+				"url": "https://blog.drewdiver.com/2021/02/13/end-of-week.html",
 				"tags": ["Swift"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/02/12/days-of-swiftui.html",
+				"id": "http://drewdiver.micro.blog/2021/02/12/days-of-swiftui.html",
 				
 				"content_html": "<p>Day 5 of #100DaysOfSwiftUI was all about functions and their various incantations. This included returning values (<em>tuples</em> are great for returning more than 1 valule!), accepting parameters, labeling parameters for better legibility (omitting labels in some cases), setting default parameters, “inout” parameters, &ldquo;throwing functions,&rdquo; and variadic functions (passing in 0 or more values).</p>\n\n<p>Ternary operators shine in SwiftUI as it uses single expression functions quite a bit:</p>\n\n<pre><code>func greet(name: String) -&gt; String {\n        name == &quot;Drew Diver&quot; ? &quot;My liege...&quot; : &quot;Hello, \\(name)! Back of the line!&quot;\n}\n</code></pre>\n\n<p>Parameter labels make function calls read naturally:</p>\n\n<pre><code>func sayHello(to name: String) {\n        print(&quot;Hello, \\(name)!&quot;)\n}\n\nsayHello(to: &quot;Drew Diver”)\n</code></pre>\n\n<p>Omitting parameter labels makes sense in cases like the following:</p>\n\n<pre><code>func read(_ book: String) {\n        print(&quot;Now reading \\(book)...&quot;)\n}\n\nread(&quot;Walden&quot;)\n</code></pre>\n\n<p>Also In Objective-C:</p>\n\n<blockquote>\n<p>&hellip;the first parameter to a function was always left unnamed, and so when you use those frameworks in Swift you’ll see lots of functions that have underscores for their first parameter label to preserve interoperability with Objective-C.</p>\n</blockquote>\n",
 				"content_text": "Day 5 of #100DaysOfSwiftUI was all about functions and their various incantations. This included returning values (_tuples_ are great for returning more than 1 valule!), accepting parameters, labeling parameters for better legibility (omitting labels in some cases), setting default parameters, “inout” parameters, \"throwing functions,\" and variadic functions (passing in 0 or more values).\n\nTernary operators shine in SwiftUI as it uses single expression functions quite a bit:\n\n\tfunc greet(name: String) -> String {\n    \t\tname == \"Drew Diver\" ? \"My liege...\" : \"Hello, \\(name)! Back of the line!\"\n\t}\n\nParameter labels make function calls read naturally:\n\n\tfunc sayHello(to name: String) {\n    \t\tprint(\"Hello, \\(name)!\")\n\t}\n\n\tsayHello(to: \"Drew Diver”)\n\n\nOmitting parameter labels makes sense in cases like the following:\n\n\tfunc read(_ book: String) {\n    \t\tprint(\"Now reading \\(book)...\")\n\t}\n\n\tread(\"Walden\")\n\nAlso In Objective-C:\n\n> ...the first parameter to a function was always left unnamed, and so when you use those frameworks in Swift you’ll see lots of functions that have underscores for their first parameter label to preserve interoperability with Objective-C.\n",
 				"date_published": "2021-02-12T16:09:00+02:00",
-				"url": "https://revidwerd.com/2021/02/12/days-of-swiftui.html",
+				"url": "https://blog.drewdiver.com/2021/02/12/days-of-swiftui.html",
 				"tags": ["Swift"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/02/11/days-of-swiftui.html",
+				"id": "http://drewdiver.micro.blog/2021/02/11/days-of-swiftui.html",
 				
 				"content_html": "<p>Day 4 of #100DaysOfSwiftUI was all about looping and included <code>while</code>, <code>for</code>, <code>repeat</code>. We then went within loops to apply <code>continue</code> (to skip) and/or <code>break</code> statements to exit. <code>break</code> can be combined with labeling the outermost loop to ensure we exit <em>both</em> loops like so:</p>\n\n<pre><code>outermost: for i in 1...10 {\n    for j in 1...10 {\n        let total = i * j\n        print(&quot;\\(i) * \\(j) = \\(total)&quot;)\n        if total == 100 {\n            print(&quot;That's enough!&quot;)\n            break outermost\n        }\n    }\n}\n</code></pre>\n",
 				"content_text": "Day 4 of #100DaysOfSwiftUI was all about looping and included `while`, `for`, `repeat`. We then went within loops to apply `continue` (to skip) and/or `break` statements to exit. `break` can be combined with labeling the outermost loop to ensure we exit _both_ loops like so:\n\n\toutermost: for i in 1...10 {\n   \t\tfor j in 1...10 {\n    \t\tlet total = i * j\n        \tprint(\"\\(i) * \\(j) = \\(total)\")\n        \tif total == 100 {\n            \tprint(\"That's enough!\")\n            \tbreak outermost\n        \t}\n    \t}\n\t}\n",
 				"date_published": "2021-02-11T15:03:00+02:00",
-				"url": "https://revidwerd.com/2021/02/11/days-of-swiftui.html",
+				"url": "https://blog.drewdiver.com/2021/02/11/days-of-swiftui.html",
 				"tags": ["Swift"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/02/10/daysofswiftui-day.html",
+				"id": "http://drewdiver.micro.blog/2021/02/10/daysofswiftui-day.html",
 				
 				"content_html": "<p>Day 3 of #100DaysOfSwiftUI included operators, compounds (+= or -= for instance), comparisons, switch statements, ternary and ranges!</p>\n\n<p>I kind of like the look of ternary vs <code>if</code> blocks but I guess time and experience in Swift will tell…</p>\n\n<pre><code>var firstCard = 11\nvar secondCard = 10\nprint(firstCard + secondCard == 21 ? “Blackjack!” : “Regular cards”)\n</code></pre>\n",
 				"content_text": "Day 3 of #100DaysOfSwiftUI included operators, compounds (+= or -= for instance), comparisons, switch statements, ternary and ranges!\n\nI kind of like the look of ternary vs `if` blocks but I guess time and experience in Swift will tell…\n\n\tvar firstCard = 11\n\tvar secondCard = 10\n\tprint(firstCard + secondCard == 21 ? “Blackjack!” : “Regular cards”)\n",
 				"date_published": "2021-02-10T16:27:00+02:00",
-				"url": "https://revidwerd.com/2021/02/10/daysofswiftui-day.html",
+				"url": "https://blog.drewdiver.com/2021/02/10/daysofswiftui-day.html",
 				"tags": ["Swift"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/02/09/currently-reading-walden.html",
+				"id": "http://drewdiver.micro.blog/2021/02/09/currently-reading-walden.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781611806007\">Walden</a> by Henry David Thoreau 📚</p>\n\n<blockquote>\n<p>Shams and delusions are esteemed for soundest truths, while reality is fabulous. If men would steadily observe realities only, and not allow themselves to be deluded, life, to compare it with such things as we know, would be like a fairy tale and the Arabian Nights&rsquo; Entertainments. If we respected only what is inevitable and has a right to be, music and poetry would resound along the streets. When we are unhurried and wise, we perceive the only great and worthy things have any permanent and absolute existence—that petty fears and petty pleasures are but the shadow of the reality.</p>\n</blockquote>\n",
 				"content_text": "Currently reading: [Walden](https://micro.blog/books/9781611806007) by Henry David Thoreau 📚\n\n> Shams and delusions are esteemed for soundest truths, while reality is fabulous. If men would steadily observe realities only, and not allow themselves to be deluded, life, to compare it with such things as we know, would be like a fairy tale and the Arabian Nights' Entertainments. If we respected only what is inevitable and has a right to be, music and poetry would resound along the streets. When we are unhurried and wise, we perceive the only great and worthy things have any permanent and absolute existence—that petty fears and petty pleasures are but the shadow of the reality.\n",
 				"date_published": "2021-02-09T22:57:00+02:00",
-				"url": "https://revidwerd.com/2021/02/09/currently-reading-walden.html",
+				"url": "https://blog.drewdiver.com/2021/02/09/currently-reading-walden.html",
 				"tags": ["Quotes","Books"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/02/09/days-of-swiftui.html",
+				"id": "http://drewdiver.micro.blog/2021/02/09/days-of-swiftui.html",
 				
 				"content_html": "<p>Day 2 of #100DaysOfSwiftUI was about complex data types such as Arrays, Dictionaries, Tuples, Sets and Enums (including the use of Raw Values and Associated Values).</p>\n",
 				"content_text": "Day 2 of #100DaysOfSwiftUI was about complex data types such as Arrays, Dictionaries, Tuples, Sets and Enums (including the use of Raw Values and Associated Values).\n",
 				"date_published": "2021-02-09T13:20:00+02:00",
-				"url": "https://revidwerd.com/2021/02/09/days-of-swiftui.html",
+				"url": "https://blog.drewdiver.com/2021/02/09/days-of-swiftui.html",
 				"tags": ["Swift"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/02/08/doubling-down-on.html",
+				"id": "http://drewdiver.micro.blog/2021/02/08/doubling-down-on.html",
 				
 				"content_html": "<p>Doubling down on my efforts to get a grasp of Swift and SwiftUI this year&hellip; I just completed <a href=\"https://www.hackingwithswift.com/100/swiftui/1\">day 1</a> of #100DaysOfSwiftUI. This lesson introduced variables, integers, doubles, strings (interpolation / multi-line), boolean, constants and type declarations.</p>\n",
 				"content_text": "Doubling down on my efforts to get a grasp of Swift and SwiftUI this year... I just completed [day 1](https://www.hackingwithswift.com/100/swiftui/1) of #100DaysOfSwiftUI. This lesson introduced variables, integers, doubles, strings (interpolation / multi-line), boolean, constants and type declarations.\n\n",
 				"date_published": "2021-02-08T15:35:00+02:00",
-				"url": "https://revidwerd.com/2021/02/08/doubling-down-on.html",
+				"url": "https://blog.drewdiver.com/2021/02/08/doubling-down-on.html",
 				"tags": ["Swift"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/02/05/obsessed-with-taskpaper.html",
+				"id": "http://drewdiver.micro.blog/2021/02/05/obsessed-with-taskpaper.html",
 				
-				"content_html": "<p>Obsessed with <a href=\"http://taskpaper.com\">TaskPaper</a>! This is exactly what I&rsquo;ve been looking for to manage my plain text todo&rsquo;s.</p>\n\n<p><img src=\"https://revidwerd.com/uploads/2021/b8c3452287.png\" width=\"600\" height=\"567\" alt=\"\" /></p>\n",
-				"content_text": "Obsessed with [TaskPaper](http://taskpaper.com)! This is exactly what I've been looking for to manage my plain text todo's.\n\n<img src=\"https://revidwerd.com/uploads/2021/b8c3452287.png\" width=\"600\" height=\"567\" alt=\"\" />\n",
+				"content_html": "<p>Obsessed with <a href=\"http://taskpaper.com\">TaskPaper</a>! This is exactly what I&rsquo;ve been looking for to manage my plain text todo&rsquo;s.</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/b8c3452287.png\" width=\"600\" height=\"567\" alt=\"\" /></p>\n",
+				"content_text": "Obsessed with [TaskPaper](http://taskpaper.com)! This is exactly what I've been looking for to manage my plain text todo's.\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/b8c3452287.png\" width=\"600\" height=\"567\" alt=\"\" />\n",
 				"date_published": "2021-02-05T15:47:48+02:00",
-				"url": "https://revidwerd.com/2021/02/05/obsessed-with-taskpaper.html"
+				"url": "https://blog.drewdiver.com/2021/02/05/obsessed-with-taskpaper.html"
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/02/05/started-reading-walden.html",
+				"id": "http://drewdiver.micro.blog/2021/02/05/started-reading-walden.html",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781611806007\">Walden</a> by Henry David Thoreau 📚</p>\n\n<p>If I were to be stranded on a desert island and could carry only one book, it would be Walden without a doubt.</p>\n\n<p><img src=\"https://revidwerd.com/uploads/2021/92e69838c4.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Currently reading: [Walden](https://micro.blog/books/9781611806007) by Henry David Thoreau 📚\n\nIf I were to be stranded on a desert island and could carry only one book, it would be Walden without a doubt.\n\n\n\n<img src=\"https://revidwerd.com/uploads/2021/92e69838c4.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781611806007\">Walden</a> by Henry David Thoreau 📚</p>\n\n<p>If I were to be stranded on a desert island and could carry only one book, it would be Walden without a doubt.</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/92e69838c4.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Currently reading: [Walden](https://micro.blog/books/9781611806007) by Henry David Thoreau 📚\n\nIf I were to be stranded on a desert island and could carry only one book, it would be Walden without a doubt.\n\n\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/92e69838c4.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-02-05T13:11:47+02:00",
-				"url": "https://revidwerd.com/2021/02/05/started-reading-walden.html"
+				"url": "https://blog.drewdiver.com/2021/02/05/started-reading-walden.html"
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/02/05/finished-reading-the.html",
+				"id": "http://drewdiver.micro.blog/2021/02/05/finished-reading-the.html",
 				
 				"content_html": "<p><strong>Finished reading: <a href=\"https://micro.blog/books/9780375705106\">The Way of Zen</a> by Alan Watts 📚</strong></p>\n\n<p>There&rsquo;s a concise <em>history</em> of sorts in this book about Zen Buddhism and its evolution from Taoism and Confucianism as well as the roots of it from India.</p>\n\n<p>However, I basically ended up skipping most of the first section. The meat of this book resides under “Part Two: Principles and Practice,&rdquo; particularly sections (or chapters) 1 &amp; 2 titled “Empty and Marvelous&rdquo; and &ldquo;Sitting. Quietly, Doing Nothing” respectively.</p>\n\n<p>A few highlights:</p>\n\n<p>Presence! This is something that definitely awakens once you have a kid.</p>\n\n<blockquote>\n<p>On the contrary, the measuring of worth and success in terms of time, and the insistent demand for assurances of a future, make it impossible to live freely both in the promising present and in the &ldquo;promising&rdquo; future when it arrives. For there is never anything but the present, and if one cannot live there, one can- not live anywhere.</p>\n</blockquote>\n\n<p>I like this idea of not clinging to the past, not dwelling on the future (you&rsquo;ll never know it) but to keep moving&hellip;</p>\n\n<blockquote>\n<p>The identification of the mind with its own image is, therefore, paralyzing because the image is fixed-it is past and finished. But it is a fixed image of oneself in motion! To cling to it is thus to be in constant contradiction and conflict. Hence Yün-men&rsquo;s saying, &ldquo;In walking, just walk. In sitting, just sit. Above all, don&rsquo;t wobble.&rdquo; In other words, the mind cannot act without giving up the impossible attempt to control itself beyond a certain point. It must let go of itself both in the sense of trusting its own memory and reflection, and in the sense of acting spontaneously, on its own into the unknown.</p>\n\n<p>This is why Zen often seems to take the side of action as against reflection, and why it describes itself as &ldquo;no-mind&rdquo; (wu-hsin) or &ldquo;no-thought&rdquo; (wu-nien), and why the masters demonstrate Zen by giving instantaneous and unpremeditated answers to questions. When Yün-men was asked for the ultimate secret of Buddhism, he replied, &ldquo;Dumpling!&rdquo;</p>\n</blockquote>\n\n<p>In regards to meditation, the West often has a hard time to just sit. It&rsquo;s seen as a &ldquo;waste of time.” We can also see in other religions<sup class=\"footnote-ref\" id=\"fnref:Christianity-for-instance\"><a href=\"#fn:Christianity-for-instance\">0</a></sup> that it is to always just be <em>in action</em>. However we should stop and consider…</p>\n\n<blockquote>\n<p>…it should be obvious that action without wisdom, without clear awareness of the world as it really is, can never improve anything.</p>\n</blockquote>\n",
 				"content_text": "**Finished reading: [The Way of Zen](https://micro.blog/books/9780375705106) by Alan Watts 📚**\n\nThere's a concise _history_ of sorts in this book about Zen Buddhism and its evolution from Taoism and Confucianism as well as the roots of it from India.\n\nHowever, I basically ended up skipping most of the first section. The meat of this book resides under “Part Two: Principles and Practice,\" particularly sections (or chapters) 1 & 2 titled “Empty and Marvelous\" and \"Sitting. Quietly, Doing Nothing” respectively.\n\nA few highlights:\n\nPresence! This is something that definitely awakens once you have a kid.\n\n> On the contrary, the measuring of worth and success in terms of time, and the insistent demand for assurances of a future, make it impossible to live freely both in the promising present and in the \"promising\" future when it arrives. For there is never anything but the present, and if one cannot live there, one can- not live anywhere.\n\n I like this idea of not clinging to the past, not dwelling on the future (you'll never know it) but to keep moving...\n\n>The identification of the mind with its own image is, therefore, paralyzing because the image is fixed-it is past and finished. But it is a fixed image of oneself in motion! To cling to it is thus to be in constant contradiction and conflict. Hence Yün-men's saying, \"In walking, just walk. In sitting, just sit. Above all, don't wobble.\" In other words, the mind cannot act without giving up the impossible attempt to control itself beyond a certain point. It must let go of itself both in the sense of trusting its own memory and reflection, and in the sense of acting spontaneously, on its own into the unknown. \n>\n>This is why Zen often seems to take the side of action as against reflection, and why it describes itself as \"no-mind\" (wu-hsin) or \"no-thought\" (wu-nien), and why the masters demonstrate Zen by giving instantaneous and unpremeditated answers to questions. When Yün-men was asked for the ultimate secret of Buddhism, he replied, \"Dumpling!\"\n\nIn regards to meditation, the West often has a hard time to just sit. It's seen as a \"waste of time.” We can also see in other religions[^1] (Christianity for instance) that it is to always just be _in action_. However we should stop and consider…\n\n> …it should be obvious that action without wisdom, without clear awareness of the world as it really is, can never improve anything.\n\n[^1]: Remember Buddhism is _not_ a religion\n",
 				"date_published": "2021-02-05T11:50:00+02:00",
-				"url": "https://revidwerd.com/2021/02/05/finished-reading-the.html",
+				"url": "https://blog.drewdiver.com/2021/02/05/finished-reading-the.html",
 				"tags": ["Books"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/02/04/so-it-appears.html",
+				"id": "http://drewdiver.micro.blog/2021/02/04/so-it-appears.html",
 				
-				"content_html": "<p>It appears Logan does not take kindly to people <a href=\"https://en.wikipedia.org/wiki/Speed_flying_and_speed_riding\">speed riding</a>&hellip; why people choose to do this on the off-leash field is beyond me.</p>\n\n<p><img src=\"https://revidwerd.com/uploads/2021/6e62f4a005.jpg\" alt=\"CC311C5B-8B9B-402F-9D06-55ECCE3FED7C.jpg\" /></p>\n",
-				"content_text": "It appears Logan does not take kindly to people [speed riding](https://en.wikipedia.org/wiki/Speed_flying_and_speed_riding)... why people choose to do this on the off-leash field is beyond me.\n\n![CC311C5B-8B9B-402F-9D06-55ECCE3FED7C.jpg](https://revidwerd.com/uploads/2021/6e62f4a005.jpg)\n",
+				"content_html": "<p>It appears Logan does not take kindly to people <a href=\"https://en.wikipedia.org/wiki/Speed_flying_and_speed_riding\">speed riding</a>&hellip; why people choose to do this on the off-leash field is beyond me.</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/6e62f4a005.jpg\" alt=\"CC311C5B-8B9B-402F-9D06-55ECCE3FED7C.jpg\" /></p>\n",
+				"content_text": "It appears Logan does not take kindly to people [speed riding](https://en.wikipedia.org/wiki/Speed_flying_and_speed_riding)... why people choose to do this on the off-leash field is beyond me.\n\n![CC311C5B-8B9B-402F-9D06-55ECCE3FED7C.jpg](https://blog.drewdiver.com/uploads/2021/6e62f4a005.jpg)\n",
 				"date_published": "2021-02-04T15:21:00+02:00",
-				"url": "https://revidwerd.com/2021/02/04/so-it-appears.html"
+				"url": "https://blog.drewdiver.com/2021/02/04/so-it-appears.html"
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/02/04/king-adolf-frederick.html",
+				"id": "http://drewdiver.micro.blog/2021/02/04/king-adolf-frederick.html",
 				"title": "Time for Semla",
-				"content_html": "<p>Fun fact:</p>\n\n<blockquote>\n<p>King Adolf Frederick of Sweden died of digestion problems on February 12, 1771 after consuming a meal consisting of lobster, caviar, sauerkraut, smoked herring and champagne, which was topped off by <em>fourteen</em> helpings of hetvägg (semla👇), the king&rsquo;s favorite dessert.</p>\n</blockquote>\n\n<p><img src=\"https://revidwerd.com/uploads/2021/0a34e56909.jpg\" alt=\"EF879B01-CEEA-49E6-8DBB-D11BA9F6975B.jpg\" /></p>\n\n<p>You can read more about Semla <a href=\"https://en.wikipedia.org/wiki/Semla\">here</a>.</p>\n",
-				"content_text": "Fun fact:\n\n> King Adolf Frederick of Sweden died of digestion problems on February 12, 1771 after consuming a meal consisting of lobster, caviar, sauerkraut, smoked herring and champagne, which was topped off by _fourteen_ helpings of hetvägg (semla👇), the king's favorite dessert.\n\n![EF879B01-CEEA-49E6-8DBB-D11BA9F6975B.jpg](https://revidwerd.com/uploads/2021/0a34e56909.jpg)\n\nYou can read more about Semla [here](https://en.wikipedia.org/wiki/Semla).\n",
+				"content_html": "<p>Fun fact:</p>\n\n<blockquote>\n<p>King Adolf Frederick of Sweden died of digestion problems on February 12, 1771 after consuming a meal consisting of lobster, caviar, sauerkraut, smoked herring and champagne, which was topped off by <em>fourteen</em> helpings of hetvägg (semla👇), the king&rsquo;s favorite dessert.</p>\n</blockquote>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/0a34e56909.jpg\" alt=\"EF879B01-CEEA-49E6-8DBB-D11BA9F6975B.jpg\" /></p>\n\n<p>You can read more about Semla <a href=\"https://en.wikipedia.org/wiki/Semla\">here</a>.</p>\n",
+				"content_text": "Fun fact:\n\n> King Adolf Frederick of Sweden died of digestion problems on February 12, 1771 after consuming a meal consisting of lobster, caviar, sauerkraut, smoked herring and champagne, which was topped off by _fourteen_ helpings of hetvägg (semla👇), the king's favorite dessert.\n\n![EF879B01-CEEA-49E6-8DBB-D11BA9F6975B.jpg](https://blog.drewdiver.com/uploads/2021/0a34e56909.jpg)\n\nYou can read more about Semla [here](https://en.wikipedia.org/wiki/Semla).\n",
 				"date_published": "2021-02-04T11:32:00+02:00",
-				"url": "https://revidwerd.com/2021/02/04/king-adolf-frederick.html"
+				"url": "https://blog.drewdiver.com/2021/02/04/king-adolf-frederick.html"
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/02/03/ok-putting-january.html",
+				"id": "http://drewdiver.micro.blog/2021/02/03/ok-putting-january.html",
 				
 				"content_html": "<p>Ok&hellip; putting January behind me. This year started off with a COVID-19 infection and later the winter flu&hellip; here&rsquo;s looking to February! 🥃</p>\n",
 				"content_text": "Ok... putting January behind me. This year started off with a COVID-19 infection and later the winter flu... here's looking to February! 🥃\n",
 				"date_published": "2021-02-03T15:51:00+02:00",
-				"url": "https://revidwerd.com/2021/02/03/ok-putting-january.html"
+				"url": "https://blog.drewdiver.com/2021/02/03/ok-putting-january.html"
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/02/03/143035.html",
+				"id": "http://drewdiver.micro.blog/2021/02/03/143035.html",
 				
-				"content_html": "<p><img src=\"https://revidwerd.com/uploads/2021/612c7770f1.png\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"https://revidwerd.com/uploads/2021/612c7770f1.png\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://blog.drewdiver.com/uploads/2021/612c7770f1.png\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/612c7770f1.png\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-02-03T15:30:35+02:00",
-				"url": "https://revidwerd.com/2021/02/03/143035.html"
+				"url": "https://blog.drewdiver.com/2021/02/03/143035.html"
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/01/28/currently-reading-the.html",
+				"id": "http://drewdiver.micro.blog/2021/01/28/currently-reading-the.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780375705106\">The Way of Zen</a> by Alan Watts 📚</p>\n\n<blockquote>\n<p>Each of the other senses might similarly be used to illustrate the &ldquo;non-active&rdquo; functioning of the mind-listening without straining to hear, smelling without strong inhalation, tasting without screwing up the tongue, and touching without pressing the object. Each is a special instance of the mental function which works through all, and which Chinese designates with the peculiar word <strong>hsin</strong>.&rdquo;</p>\n\n<p>This term is so important for the understanding of Zen that some attempt must be made to say what Taoism and Chinese thought in general take it to mean.&rsquo; We usually translate it as &ldquo;mind&rdquo; or &ldquo;heart,&rdquo; but neither of these words is satisfactory. The original form of the ideograph seems to be a picture of the heart, or perhaps of the lungs or the liver, and when a Chinese speaks of the <strong>hsin</strong> he will often point to the center of his chest, slightly lower than the heart.</p>\n</blockquote>\n",
 				"content_text": "Currently reading: [The Way of Zen](https://micro.blog/books/9780375705106) by Alan Watts 📚\n\n> Each of the other senses might similarly be used to illustrate the \"non-active\" functioning of the mind-listening without straining to hear, smelling without strong inhalation, tasting without screwing up the tongue, and touching without pressing the object. Each is a special instance of the mental function which works through all, and which Chinese designates with the peculiar word **hsin**.\"\n\n> This term is so important for the understanding of Zen that some attempt must be made to say what Taoism and Chinese thought in general take it to mean.' We usually translate it as \"mind\" or \"heart,\" but neither of these words is satisfactory. The original form of the ideograph seems to be a picture of the heart, or perhaps of the lungs or the liver, and when a Chinese speaks of the **hsin** he will often point to the center of his chest, slightly lower than the heart.\n",
 				"date_published": "2021-01-28T23:39:00+02:00",
-				"url": "https://revidwerd.com/2021/01/28/currently-reading-the.html",
+				"url": "https://blog.drewdiver.com/2021/01/28/currently-reading-the.html",
 				"tags": ["Quotes","Books"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/01/28/eleven-pond-fjf.html",
+				"id": "http://drewdiver.micro.blog/2021/01/28/eleven-pond-fjf.html",
 				"title": "Eleven Pond + FJF + Plastic Flowers",
-				"content_html": "<p>Digging through old backups and came across this flyer for a show we (Plastic Flowers) did with Eleven Pond and Frank (Just Frank). This led running a <a href=\"https://www.flickr.com/search/?text=eleven%20pond%20glasslands&amp;media=photos\">search against Flickr</a> (of all places) and lo and behold!</p>\n\n<p><img src=\"https://revidwerd.com/uploads/2021/3846af8500.jpg\" width=\"463\" height=\"600\" alt=\"\" /></p>\n\n<p><img src=\"https://revidwerd.com/uploads/2021/c4b6d562af.jpg\" width=\"600\" height=\"417\" alt=\"\" /></p>\n\n<p><img src=\"https://revidwerd.com/uploads/2021/20f06834ad.jpg\" width=\"600\" height=\"444\" alt=\"\" /></p>\n",
-				"content_text": "Digging through old backups and came across this flyer for a show we (Plastic Flowers) did with Eleven Pond and Frank (Just Frank). This led running a [search against Flickr](https://www.flickr.com/search/?text=eleven%20pond%20glasslands&media=photos) (of all places) and lo and behold!\n\n<img src=\"https://revidwerd.com/uploads/2021/3846af8500.jpg\" width=\"463\" height=\"600\" alt=\"\" />\n\n<img src=\"https://revidwerd.com/uploads/2021/c4b6d562af.jpg\" width=\"600\" height=\"417\" alt=\"\" />\n\n<img src=\"https://revidwerd.com/uploads/2021/20f06834ad.jpg\" width=\"600\" height=\"444\" alt=\"\" />\n",
+				"content_html": "<p>Digging through old backups and came across this flyer for a show we (Plastic Flowers) did with Eleven Pond and Frank (Just Frank). This led running a <a href=\"https://www.flickr.com/search/?text=eleven%20pond%20glasslands&amp;media=photos\">search against Flickr</a> (of all places) and lo and behold!</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/3846af8500.jpg\" width=\"463\" height=\"600\" alt=\"\" /></p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/c4b6d562af.jpg\" width=\"600\" height=\"417\" alt=\"\" /></p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/20f06834ad.jpg\" width=\"600\" height=\"444\" alt=\"\" /></p>\n",
+				"content_text": "Digging through old backups and came across this flyer for a show we (Plastic Flowers) did with Eleven Pond and Frank (Just Frank). This led running a [search against Flickr](https://www.flickr.com/search/?text=eleven%20pond%20glasslands&media=photos) (of all places) and lo and behold!\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/3846af8500.jpg\" width=\"463\" height=\"600\" alt=\"\" />\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/c4b6d562af.jpg\" width=\"600\" height=\"417\" alt=\"\" />\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/20f06834ad.jpg\" width=\"600\" height=\"444\" alt=\"\" />\n",
 				"date_published": "2021-01-28T12:02:00+02:00",
-				"url": "https://revidwerd.com/2021/01/28/eleven-pond-fjf.html"
+				"url": "https://blog.drewdiver.com/2021/01/28/eleven-pond-fjf.html"
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/01/27/living-in-filth.html",
+				"id": "http://drewdiver.micro.blog/2021/01/27/living-in-filth.html",
 				"title": "Living in Filth",
-				"content_html": "<p>There’s probably grime from NYC venues that haven’t existed for several years caked on this.. 😶</p>\n\n<p><img src=\"https://revidwerd.com/uploads/2021/e722804b9f.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>Nice and clean&hellip; I’m a sucker for stainless steel strings. I went for the D’Addario Pro Steels “Regular Light Gauge” this round.</p>\n\n<p><img src=\"https://revidwerd.com/uploads/2021/f76eaaa2e9.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>This is my first (and currently my  <em>only</em>) electric guitar, a Mexican Fender Stratocaster bought around ~&lsquo;00 at the (now long gone) New York Music in Boardman, OH. I think this was the only color option aside from black or red  (I didn&rsquo;t like either of those with the white pick guard) and I had yet to learn how to play let alone start customizing. It&rsquo;s been used on <em>everything</em> I&rsquo;ve recorded.</p>\n",
-				"content_text": "There’s probably grime from NYC venues that haven’t existed for several years caked on this.. 😶\n\n<img src=\"https://revidwerd.com/uploads/2021/e722804b9f.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n\nNice and clean... I’m a sucker for stainless steel strings. I went for the D’Addario Pro Steels “Regular Light Gauge” this round.\n\n<img src=\"https://revidwerd.com/uploads/2021/f76eaaa2e9.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n\nThis is my first (and currently my  _only_) electric guitar, a Mexican Fender Stratocaster bought around ~'00 at the (now long gone) New York Music in Boardman, OH. I think this was the only color option aside from black or red  (I didn't like either of those with the white pick guard) and I had yet to learn how to play let alone start customizing. It's been used on _everything_ I've recorded.\n\n",
+				"content_html": "<p>There’s probably grime from NYC venues that haven’t existed for several years caked on this.. 😶</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/e722804b9f.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>Nice and clean&hellip; I’m a sucker for stainless steel strings. I went for the D’Addario Pro Steels “Regular Light Gauge” this round.</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/f76eaaa2e9.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>This is my first (and currently my  <em>only</em>) electric guitar, a Mexican Fender Stratocaster bought around ~&lsquo;00 at the (now long gone) New York Music in Boardman, OH. I think this was the only color option aside from black or red  (I didn&rsquo;t like either of those with the white pick guard) and I had yet to learn how to play let alone start customizing. It&rsquo;s been used on <em>everything</em> I&rsquo;ve recorded.</p>\n",
+				"content_text": "There’s probably grime from NYC venues that haven’t existed for several years caked on this.. 😶\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/e722804b9f.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n\nNice and clean... I’m a sucker for stainless steel strings. I went for the D’Addario Pro Steels “Regular Light Gauge” this round.\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/f76eaaa2e9.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n\nThis is my first (and currently my  _only_) electric guitar, a Mexican Fender Stratocaster bought around ~'00 at the (now long gone) New York Music in Boardman, OH. I think this was the only color option aside from black or red  (I didn't like either of those with the white pick guard) and I had yet to learn how to play let alone start customizing. It's been used on _everything_ I've recorded.\n\n",
 				"date_published": "2021-01-28T00:53:00+02:00",
-				"url": "https://revidwerd.com/2021/01/27/living-in-filth.html"
+				"url": "https://blog.drewdiver.com/2021/01/27/living-in-filth.html"
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/01/27/finished-reading-bloodsoaked.html",
+				"id": "http://drewdiver.micro.blog/2021/01/27/finished-reading-bloodsoaked.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780999249901\">Blood-Soaked Buddha/Hard Earth Pascal</a> 📚</p>\n\n<p>Well <em>that</em> went down quick&hellip; will need to let this digest. I can say this is without a doubt going to be my #1 read for the year&hellip; If you&rsquo;re slightly intrigued just buy it, be mindful and enjoy.</p>\n",
 				"content_text": "Finished reading: [Blood-Soaked Buddha/Hard Earth Pascal](https://micro.blog/books/9780999249901) 📚\n\nWell _that_ went down quick... will need to let this digest. I can say this is without a doubt going to be my #1 read for the year... If you're slightly intrigued just buy it, be mindful and enjoy.\n",
 				"date_published": "2021-01-28T00:29:00+02:00",
-				"url": "https://revidwerd.com/2021/01/27/finished-reading-bloodsoaked.html",
+				"url": "https://blog.drewdiver.com/2021/01/27/finished-reading-bloodsoaked.html",
 				"tags": ["Books"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/01/27/unix-and-time.html",
+				"id": "http://drewdiver.micro.blog/2021/01/27/unix-and-time.html",
 				"title": "UNIX and Time",
 				"content_html": "<p>While reading <a href=\"https://theoverspill.blog\">The Overspill</a> this morning I came across the following post:</p>\n\n<p><a href=\"https://lukashermann.dev/writing/why-the-iphone-timer-displays-fake-time/\">Why the iPhone Timer App displays a Fake Time</a></p>\n\n<blockquote>\n<p><em>TL;DR\nThe iPhone countdown timer doesn’t strictly display the correct time but adds 500ms, or half a second, to the remaining time. It does this to make the reading of time more intuitive for humans. The alarm at the end of the countdown is not affected by this 500ms inaccuracy.</em></p>\n</blockquote>\n\n<p>I became a bit giddy as I recently finished <a href=\"https://jaronlanier.com\">Jaron Lanier&rsquo;s</a> book<a href=\"http://jaronlanier.com/gadgetwebresources.html\"> <em>You Are Not A Gadget</em></a> at the end of 2019 which sort of makes sense of the above issue:</p>\n\n<blockquote>\n<p><em>There’s a core design feature in UNIX called a “command line interface.” In this system, you type instructions, you hit “return,” and the instructions are carried out.* A unifying design principle of UNIX is that a program can’t tell if a person hit return or a program did so. Since real people are slower than simulated people at operating keyboards, the importance of precise timing is suppressed by this particular idea. As a result, UNIX is based on discrete events that don’t have to happen at a precise moment in time. The human organism, meanwhile, is based on continuous sensory, cognitive, and motor processes that have to be synchronized precisely in time..</em></p>\n\n<p><em>The arguments in favor of UNIX focused on how computers would get literally millions of times faster in the coming decades. The thinking was that the speed increase would overwhelm the timing problems I was worried about. Indeed, today’s computers are millions of times faster, and UNIX has become an ambient part of life. There are some reasonably expressive tools that have UNIX in them, so the speed increase has sufficed to compensate for UNIX’s problems in some cases. But not all.</em></p>\n\n<p><em>I have an iPhone in my pocket, and sure enough, the thing has what is essentially UNIX in it. An unnerving element of this gadget is that it is haunted by a weird set of unpredictable user interface delays. One’s mind waits for the response to the press of a virtual button, but it doesn’t come for a while. An odd tension builds during that moment, and easy intuition is replaced by nervousness. It is the ghost of UNIX, still refusing to accommodate the rhythms of my body and my mind, after all these years.</em></p>\n</blockquote>\n\n<p>Note, he states he&rsquo;s not just picking on the iPhone or UNIX, Windows is guilty as well.</p>\n",
 				"content_text": "While reading [The Overspill](https://theoverspill.blog) this morning I came across the following post:\r\n\r\n[Why the iPhone Timer App displays a Fake Time](https://lukashermann.dev/writing/why-the-iphone-timer-displays-fake-time/)\r\n\r\n> _TL;DR\r\nThe iPhone countdown timer doesn’t strictly display the correct time but adds 500ms, or half a second, to the remaining time. It does this to make the reading of time more intuitive for humans. The alarm at the end of the countdown is not affected by this 500ms inaccuracy._\r\n\r\nI became a bit giddy as I recently finished [Jaron Lanier's](https://jaronlanier.com) book[ _You Are Not A Gadget_](http://jaronlanier.com/gadgetwebresources.html) at the end of 2019 which sort of makes sense of the above issue:\r\n\r\n> _There’s a core design feature in UNIX called a “command line interface.” In this system, you type instructions, you hit “return,” and the instructions are carried out.* A unifying design principle of UNIX is that a program can’t tell if a person hit return or a program did so. Since real people are slower than simulated people at operating keyboards, the importance of precise timing is suppressed by this particular idea. As a result, UNIX is based on discrete events that don’t have to happen at a precise moment in time. The human organism, meanwhile, is based on continuous sensory, cognitive, and motor processes that have to be synchronized precisely in time.._\r\n\r\n> _The arguments in favor of UNIX focused on how computers would get literally millions of times faster in the coming decades. The thinking was that the speed increase would overwhelm the timing problems I was worried about. Indeed, today’s computers are millions of times faster, and UNIX has become an ambient part of life. There are some reasonably expressive tools that have UNIX in them, so the speed increase has sufficed to compensate for UNIX’s problems in some cases. But not all._\r\n\r\n> _I have an iPhone in my pocket, and sure enough, the thing has what is essentially UNIX in it. An unnerving element of this gadget is that it is haunted by a weird set of unpredictable user interface delays. One’s mind waits for the response to the press of a virtual button, but it doesn’t come for a while. An odd tension builds during that moment, and easy intuition is replaced by nervousness. It is the ghost of UNIX, still refusing to accommodate the rhythms of my body and my mind, after all these years._\r\n\r\nNote, he states he's not just picking on the iPhone or UNIX, Windows is guilty as well.\n",
 				"date_published": "2021-01-27T17:09:04+02:00",
-				"url": "https://revidwerd.com/2021/01/27/unix-and-time.html"
+				"url": "https://blog.drewdiver.com/2021/01/27/unix-and-time.html"
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/01/26/currently-reading-bloodsoaked.html",
+				"id": "http://drewdiver.micro.blog/2021/01/26/currently-reading-bloodsoaked.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780999249901\">Blood-Soaked Buddha/Hard Earth Pascal</a> 📚 🤯</p>\n",
 				"content_text": "Currently reading: [Blood-Soaked Buddha/Hard Earth Pascal](https://micro.blog/books/9780999249901) 📚 🤯\n",
 				"date_published": "2021-01-26T20:09:00+02:00",
-				"url": "https://revidwerd.com/2021/01/26/currently-reading-bloodsoaked.html",
+				"url": "https://blog.drewdiver.com/2021/01/26/currently-reading-bloodsoaked.html",
 				"tags": ["Books"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/01/26/finished-reading-the.html",
+				"id": "http://drewdiver.micro.blog/2021/01/26/finished-reading-the.html",
 				
 				"content_html": "<p>Finished reading: The God Delusion 📚</p>\n",
 				"content_text": "Finished reading: The God Delusion 📚\n",
 				"date_published": "2021-01-26T17:01:00+02:00",
-				"url": "https://revidwerd.com/2021/01/26/finished-reading-the.html",
+				"url": "https://blog.drewdiver.com/2021/01/26/finished-reading-the.html",
 				"tags": ["Books"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/01/22/selfpromotion-blue-blue.html",
+				"id": "http://drewdiver.micro.blog/2021/01/22/selfpromotion-blue-blue.html",
 				"title": "Self-Promotion: Blue Blue Youth",
 				"content_html": "<p><iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=1758381180/size=large/bgcol=ffffff/linkcol=e99708/tracklist=false/artwork=small/track=4034862534/transparent=true/\" seamless><a href=\"https://blueblueyouth.bandcamp.com/album/we-are-wood-and-likely-to-burn\">We Are Wood And Likely To Burn by Blue Blue Youth</a></iframe>\n<br/></p>\n\n<p>Blue Blue Youth -  <em>We Are Wood And Likely To Burn</em> (originally released October 20, 2016 via <a href=\"https://velvetbluemusic.com\">Velvet Blue Music</a>) is now available for purchase via <a href=\"https://blueblueyouth.bandcamp.com/album/we-are-wood-and-likely-to-burn\">Bandcamp</a>!</p>\n\n<blockquote>\n<p>Drew Diver (<a href=\"https://sodashopband.bandcamp.com\">Soda Shop</a>) and Julian Brau (<a href=\"https://islainvisible.bandcamp.com\">Isla invisible</a>) take on this project of dark drones and soundscapes. Ambient, yet still moving pieces of work.</p>\n</blockquote>\n",
 				"content_text": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=1758381180/size=large/bgcol=ffffff/linkcol=e99708/tracklist=false/artwork=small/track=4034862534/transparent=true/\" seamless><a href=\"https://blueblueyouth.bandcamp.com/album/we-are-wood-and-likely-to-burn\">We Are Wood And Likely To Burn by Blue Blue Youth</a></iframe>\n<br/>\n\nBlue Blue Youth -  _We Are Wood And Likely To Burn_ (originally released October 20, 2016 via [Velvet Blue Music](https://velvetbluemusic.com)) is now available for purchase via [Bandcamp](https://blueblueyouth.bandcamp.com/album/we-are-wood-and-likely-to-burn)!\n\n>Drew Diver ([Soda Shop](https://sodashopband.bandcamp.com)) and Julian Brau ([Isla invisible](https://islainvisible.bandcamp.com)) take on this project of dark drones and soundscapes. Ambient, yet still moving pieces of work.\n",
 				"date_published": "2021-01-22T12:26:00+02:00",
-				"url": "https://revidwerd.com/2021/01/22/selfpromotion-blue-blue.html",
+				"url": "https://blog.drewdiver.com/2021/01/22/selfpromotion-blue-blue.html",
 				"tags": ["Music"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/01/21/the-new-photos.html",
+				"id": "http://drewdiver.micro.blog/2021/01/21/the-new-photos.html",
 				
-				"content_html": "<p>The new Photos recommendation widget on iOS 14 is great&hellip; here&rsquo;s a throwback from probably 2003 or 2004 playing in my old punk band The Punchbowl Spikers.</p>\n\n<p><img src=\"https://revidwerd.com/uploads/2021/05fa5bb4b5.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "The new Photos recommendation widget on iOS 14 is great... here's a throwback from probably 2003 or 2004 playing in my old punk band The Punchbowl Spikers.\n\n<img src=\"https://revidwerd.com/uploads/2021/05fa5bb4b5.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>The new Photos recommendation widget on iOS 14 is great&hellip; here&rsquo;s a throwback from probably 2003 or 2004 playing in my old punk band The Punchbowl Spikers.</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/05fa5bb4b5.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "The new Photos recommendation widget on iOS 14 is great... here's a throwback from probably 2003 or 2004 playing in my old punk band The Punchbowl Spikers.\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/05fa5bb4b5.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-01-21T11:54:45+02:00",
-				"url": "https://revidwerd.com/2021/01/21/the-new-photos.html"
+				"url": "https://blog.drewdiver.com/2021/01/21/the-new-photos.html"
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/01/20/i-cant-help.html",
+				"id": "http://drewdiver.micro.blog/2021/01/20/i-cant-help.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780618918249\">The God Delusion</a> by Richard Dawkins 📚</p>\n\n<blockquote>\n<p>“Lying, as rule for life, is inherently unstable. More generally, selfishness, or free-riding parasitism on the goodwill of others, may work for me as a lone selfish individual and give me personal satisfaction. But I cannot wish that everybody would adopt selfish parasitism as a moral principle, if only because then I would have nobody to parasitize.”</p>\n</blockquote>\n\n<p>Here’s hoping for a better four years&hellip;</p>\n",
 				"content_text": "Currently reading: [The God Delusion](https://micro.blog/books/9780618918249) by Richard Dawkins 📚\n\n>“Lying, as rule for life, is inherently unstable. More generally, selfishness, or free-riding parasitism on the goodwill of others, may work for me as a lone selfish individual and give me personal satisfaction. But I cannot wish that everybody would adopt selfish parasitism as a moral principle, if only because then I would have nobody to parasitize.”\n\nHere’s hoping for a better four years...\n",
 				"date_published": "2021-01-20T22:32:00+02:00",
-				"url": "https://revidwerd.com/2021/01/20/i-cant-help.html",
+				"url": "https://blog.drewdiver.com/2021/01/20/i-cant-help.html",
 				"tags": ["Quotes","Books"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/01/19/a-friend-and.html",
+				"id": "http://drewdiver.micro.blog/2021/01/19/a-friend-and.html",
 				
 				"content_html": "<p>A friend and former bandmate (who often mixes/masters my stuff) released their new Isla Invisible <em>EP2</em> this past Friday via <a href=\"https://velvetbluemusic.com\">Velvet Blue Music</a>, check out the track &ldquo;Estranged&rdquo; below via Apple Music or via <a href=\"https://islainvisible.bandcamp.com/album/ep2\">Bandcamp</a> or via <a href=\"https://www.youtube.com/watch?v=VKMFr160ISQ\">YouTube</a>&hellip; on and on&hellip;\n<br/><br/>\n<iframe allow=\"autoplay *; encrypted-media *; fullscreen *\" frameborder=\"0\" height=\"150\" style=\"width:100%;max-width:660px;overflow:hidden;background:transparent;\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation\" src=\"https://embed.music.apple.com/se/album/estranged/1543578686?i=1543578687&l=en\"></iframe></p>\n",
 				"content_text": "A friend and former bandmate (who often mixes/masters my stuff) released their new Isla Invisible _EP2_ this past Friday via [Velvet Blue Music](https://velvetbluemusic.com), check out the track \"Estranged\" below via Apple Music or via [Bandcamp](https://islainvisible.bandcamp.com/album/ep2) or via [YouTube](https://www.youtube.com/watch?v=VKMFr160ISQ)... on and on...\r\n<br/><br/>\r\n<iframe allow=\"autoplay *; encrypted-media *; fullscreen *\" frameborder=\"0\" height=\"150\" style=\"width:100%;max-width:660px;overflow:hidden;background:transparent;\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation\" src=\"https://embed.music.apple.com/se/album/estranged/1543578686?i=1543578687&l=en\"></iframe>\n",
 				"date_published": "2021-01-19T12:30:01+02:00",
-				"url": "https://revidwerd.com/2021/01/19/a-friend-and.html"
+				"url": "https://blog.drewdiver.com/2021/01/19/a-friend-and.html"
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/01/18/currently-reading-the.html",
+				"id": "http://drewdiver.micro.blog/2021/01/18/currently-reading-the.html",
 				
 				"content_html": "<p>Currently reading: The God Delusion by Richard Dawkins 📚</p>\n",
 				"content_text": "Currently reading: The God Delusion by Richard Dawkins 📚\n",
 				"date_published": "2021-01-18T17:51:00+02:00",
-				"url": "https://revidwerd.com/2021/01/18/currently-reading-the.html",
+				"url": "https://blog.drewdiver.com/2021/01/18/currently-reading-the.html",
 				"tags": ["Books"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/01/18/better-late-than.html",
+				"id": "http://drewdiver.micro.blog/2021/01/18/better-late-than.html",
 				"title": "Top 20 Tracks of 2020",
 				"content_html": "<p>Better late than never! I&rsquo;ve been in the habit of keeping a smart playlist for each year that contains all the tracks I &ldquo;loved&rdquo; in Apple Music. Here are my 20 for 2020. Enjoy!<br />\n <br/></p>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/videoseries?list=PLwfdgYHekYhvyWgrNwmyCDsj4RqTtHDzx\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n",
 				"content_text": "Better late than never! I've been in the habit of keeping a smart playlist for each year that contains all the tracks I \"loved\" in Apple Music. Here are my 20 for 2020. Enjoy!  \n <br/>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/videoseries?list=PLwfdgYHekYhvyWgrNwmyCDsj4RqTtHDzx\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n",
 				"date_published": "2021-01-18T14:13:00+02:00",
-				"url": "https://revidwerd.com/2021/01/18/better-late-than.html",
+				"url": "https://blog.drewdiver.com/2021/01/18/better-late-than.html",
 				"tags": ["Music"]
 			},
 			{
-				"id": "http://revidwerd.micro.blog/2021/01/17/reality-bites.html",
+				"id": "http://drewdiver.micro.blog/2021/01/17/reality-bites.html",
 				"title": "Reality Bites",
 				"content_html": "<p>A relevent quip from a conversation in the novel <em>The Broom of the System</em> by David Foster Wallace:</p>\n\n<blockquote>\n<p>RICK: You&rsquo;re being cruel, Jay. Go back to blatant bullshit. I vastly prefer blatent bullshit to overt cruelty.</p>\n\n<p>JAY: You know, Olaf Blentner once said to me, over tea, that <strong>when reailty is unpleasant, realists tend to be unpopular.</strong></p>\n</blockquote>\n",
 				"content_text": "A relevent quip from a conversation in the novel _The Broom of the System_ by David Foster Wallace:\n\n> RICK: You're being cruel, Jay. Go back to blatant bullshit. I vastly prefer blatent bullshit to overt cruelty.\n\n>JAY: You know, Olaf Blentner once said to me, over tea, that **when reailty is unpleasant, realists tend to be unpopular.**\n",
 				"date_published": "2021-01-17T01:04:00+02:00",
-				"url": "https://revidwerd.com/2021/01/17/reality-bites.html",
+				"url": "https://blog.drewdiver.com/2021/01/17/reality-bites.html",
 				"tags": ["Quotes"]
 			}
 	]
