@@ -7,20 +7,90 @@
 	"items": [
 		
 			{
+				"id": "http://drewdiver.micro.blog/2021/05/12/new-planters-mixed.html",
+				
+				"content_html": "<p>New planters! 20° C today so I also mixed in soil and manure along with my cayenne, chili, habanero, beet and kale starters 🌱</p>\n\n<p><img src=\"uploads/2021/69ca42407e.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/354ea94b52.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "New planters! 20° C today so I also mixed in soil and manure along with my cayenne, chili, habanero, beet and kale starters 🌱 \n\n<img src=\"uploads/2021/69ca42407e.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/354ea94b52.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-05-12T16:33:08+02:00",
+				"url": "https://blog.drewdiver.com/2021/05/12/new-planters-mixed.html"
+			},
+			{
+				"id": "http://drewdiver.micro.blog/2021/05/06/currently-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781460961445\">The Bodhicaryavatara: A Guide to the Bodhisattva Way of Life: The 8th Century classic in 21st Century language</a> by Santideva 📚</p>\n\n<blockquote>\n<p>A person who is completely blinded by illusion and believes it to be reality is in a very difficult position. Without the perspective that is gained from stepping outside of the illusion and seeing it in a detached way they will remain in the cycle of suffering.</p>\n</blockquote>\n",
+				"content_text": "<p>Finished reading: <a href=\"https://micro.blog/books/9781460961445\">The Bodhicaryavatara: A Guide to the Bodhisattva Way of Life: The 8th Century classic in 21st Century language</a> by Santideva 📚</p>\n\n<blockquote>\n<p>A person who is completely blinded by illusion and believes it to be reality is in a very difficult position. Without the perspective that is gained from stepping outside of the illusion and seeing it in a detached way they will remain in the cycle of suffering.</p>\n</blockquote>\n",
+				"date_published": "2021-05-06T11:59:00+02:00",
+				"url": "https://blog.drewdiver.com/2021/05/06/currently-reading-the.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://drewdiver.micro.blog/2021/05/06/i-just-came.html",
+				
+				"content_html": "<p>I just came across this little guy! I think I may have purchased this around ~2004 for university? It definitely pre-dates me having a proper DAW or recording gear.</p>\n\n<p>Side A of the cassette is one long recording of the TV? A lot of old commercials and crappy daytime television, I’ve been able to get a lot of nice sound and voice slices from it.</p>\n\n<p>Side B contains a lot of quick audio notes such as a guitar melody, chord progression, playing synth or a loop from my old Korg ElecTribe Rhythm. As you can imagine there are a lot of nice sample/loop points.</p>\n\n<p>This will be fun to layer upon and build out some nice pieces.</p>\n\n<p><img src=\"uploads/2021/b9cad393b2.jpg\" width=\"600\" height=\"734\" alt=\"\" /></p>\n",
+				"content_text": "<p>I just came across this little guy! I think I may have purchased this around ~2004 for university? It definitely pre-dates me having a proper DAW or recording gear.</p>\n\n<p>Side A of the cassette is one long recording of the TV? A lot of old commercials and crappy daytime television, I’ve been able to get a lot of nice sound and voice slices from it.</p>\n\n<p>Side B contains a lot of quick audio notes such as a guitar melody, chord progression, playing synth or a loop from my old Korg ElecTribe Rhythm. As you can imagine there are a lot of nice sample/loop points.</p>\n\n<p>This will be fun to layer upon and build out some nice pieces.</p>\n\n<img src=\"uploads/2021/b9cad393b2.jpg\" width=\"600\" height=\"734\" alt=\"\" />\n",
+				"date_published": "2021-05-06T11:03:00+02:00",
+				"url": "https://blog.drewdiver.com/2021/05/06/i-just-came.html"
+			},
+			{
+				"id": "http://drewdiver.micro.blog/2021/04/29/waves-plugins-logic.html",
+				"title": "Waves Plug-ins, Logic Pro and Apple's M1 processors",
+				"content_html": "<p>According to <a href=\"https://www.waves.com/support/waves-with-apple-m1-processors\">Waves support</a> site:</p>\n\n<blockquote>\n<p>Waves software is not yet officially supported on Apple Computers with the new Apple Silicon M1 processors.\nWe are working on providing official support. We expect developments in the near future and will update this page with new developments as they are available.\nIn the meantime, here are our findings:</p>\n\n<p>❌ Logic Pro, GarageBand, MainStage, Final Cut Pro\nAlthough Apple has announced that its proprietary DAWs are officially supported natively on M1 processors (without Rosetta 2), we have found that Waves plugins do not load or work properly in these DAWs on M1 processors.</p>\n</blockquote>\n\n<p>This doesn&rsquo;t mean we need to return our M1 back for an Intel Mac&hellip;</p>\n\n<p>My setup is as follows:</p>\n\n<ul>\n<li>M1 MacBook Pro 13&rdquo;</li>\n<li><a href=\"https://www.waves.com/support/activate\">Waves Central 12.0.19</a></li>\n<li><a href=\"https://www.waves.com/plugins/cla-2a-compressor-limiter#getting-vocals-to-pop-double-stacked-compressors\">CLA-2A Compressor (V 12.0.0)</a></li>\n</ul>\n\n<p>We can right-click Logic Pro.app -&gt; Get Info (or select and ⌘ + i) and select the &ldquo;Open using Rosetta&rdquo; checkbox.</p>\n\n<p><img src=\"uploads/2021/de3e989283.png\" width=\"251\" height=\"436\" alt=\"\" /></p>\n\n<p>This will run Logic Pro under the Intel emulation (this should only be needed if you run plug-ins that aren&rsquo;t yet M1 native).</p>\n\n<p>I&rsquo;ve now setup an empty project with a single software instrument track using Alchemy and have successfully applied the CLA-2A compressor to the track!</p>\n\n<p>This is my first test, but I imagine that any non-M1 plug-ins will work when using Logic Pro under Rosetta 2.</p>\n\n<p><img src=\"uploads/2021/94282a307e.png\" width=\"600\" height=\"428\" alt=\"\" /></p>\n",
+				"content_text": "According to [Waves support](https://www.waves.com/support/waves-with-apple-m1-processors) site:\n\n> Waves software is not yet officially supported on Apple Computers with the new Apple Silicon M1 processors.\nWe are working on providing official support. We expect developments in the near future and will update this page with new developments as they are available.\nIn the meantime, here are our findings:\n\n> ❌ Logic Pro, GarageBand, MainStage, Final Cut Pro\nAlthough Apple has announced that its proprietary DAWs are officially supported natively on M1 processors (without Rosetta 2), we have found that Waves plugins do not load or work properly in these DAWs on M1 processors.\n\nThis doesn't mean we need to return our M1 back for an Intel Mac...\n\nMy setup is as follows:\n\n- M1 MacBook Pro 13\"\n- [Waves Central 12.0.19](https://www.waves.com/support/activate)\n- [CLA-2A Compressor (V 12.0.0)](https://www.waves.com/plugins/cla-2a-compressor-limiter#getting-vocals-to-pop-double-stacked-compressors)\n\nWe can right-click Logic Pro.app -> Get Info (or select and ⌘ + i) and select the \"Open using Rosetta\" checkbox.\n\n<img src=\"uploads/2021/de3e989283.png\" width=\"251\" height=\"436\" alt=\"\" />\n\nThis will run Logic Pro under the Intel emulation (this should only be needed if you run plug-ins that aren't yet M1 native).\n\nI've now setup an empty project with a single software instrument track using Alchemy and have successfully applied the CLA-2A compressor to the track!\n\nThis is my first test, but I imagine that any non-M1 plug-ins will work when using Logic Pro under Rosetta 2.\n\n<img src=\"uploads/2021/94282a307e.png\" width=\"600\" height=\"428\" alt=\"\" />\n",
+				"date_published": "2021-04-29T09:48:00+02:00",
+				"url": "https://blog.drewdiver.com/2021/04/29/waves-plugins-logic.html",
+				"tags": ["Music","Writing"]
+			},
+			{
+				"id": "http://drewdiver.micro.blog/2021/04/28/i-just-noticed.html",
+				
+				"content_html": "<p>&hellip;I just noticed &ldquo;Logic Pro X&rdquo; dropped the &ldquo;X&rdquo;</p>\n",
+				"content_text": "...I just noticed \"Logic Pro X\" dropped the \"X\"\n",
+				"date_published": "2021-04-28T15:53:05+02:00",
+				"url": "https://blog.drewdiver.com/2021/04/28/i-just-noticed.html"
+			},
+			{
+				"id": "http://drewdiver.micro.blog/2021/04/28/the-new-quick.html",
+				
+				"content_html": "<p>The new <a href=\"https://support.apple.com/en-us/HT210972\">Quick Sampler</a> in Logic Pro X̶ is so easy and useful..</p>\n\n<p>TIL:</p>\n\n<blockquote>\n<p>You can quickly add a Drum Machine Designer track to your project based on a sliced sample.</p>\n\n<ol>\n<li>Add a sample to Quick Sampler, then click Slice.</li>\n<li><a href=\"https://support.apple.com/guide/logicpro/logic-pro-quick-sampler-slice-mode-lgcp18515788/mac\">Make adjustments to the slices</a> in the Sampler waveform display.</li>\n<li>Click the Action pop-up menu  (or Control-click the Sampler waveform display), then choose Create a Drum Machine Designer Track.</li>\n</ol>\n\n<p>Logic Pro automatically creates a new software instrument track with Drum Machine Designer inserted. Each sample slice is mapped to a pad in the Drum Machine Designer. Each pad corresponds to a particular MIDI note.</p>\n</blockquote>\n",
+				"content_text": "The new [Quick Sampler](https://support.apple.com/en-us/HT210972) in Logic Pro X̶ is so easy and useful.. \n\nTIL:\n\n> You can quickly add a Drum Machine Designer track to your project based on a sliced sample.\n\n> 1. Add a sample to Quick Sampler, then click Slice.\n> 2. [Make adjustments to the slices](https://support.apple.com/guide/logicpro/logic-pro-quick-sampler-slice-mode-lgcp18515788/mac) in the Sampler waveform display.\n> 3. Click the Action pop-up menu  (or Control-click the Sampler waveform display), then choose Create a Drum Machine Designer Track. \n>\n>Logic Pro automatically creates a new software instrument track with Drum Machine Designer inserted. Each sample slice is mapped to a pad in the Drum Machine Designer. Each pad corresponds to a particular MIDI note. \n",
+				"date_published": "2021-04-28T15:51:00+02:00",
+				"url": "https://blog.drewdiver.com/2021/04/28/the-new-quick.html"
+			},
+			{
+				"id": "http://drewdiver.micro.blog/2021/04/28/first-inspirations.html",
+				"title": "First Inspirations",
+				"content_html": "<p>I&rsquo;ve been enjoying the creative prompts over at Valhalla DSP&rsquo;s <a href=\"https://valhalladsp.com/blog/\">blog</a> and thought I&rsquo;d piggyback a little.</p>\n\n<p>Music has always been a part of my life, I remember not being allowed to watch MTV but I&rsquo;d wake up early on Saturday mornings to sneak some time in (this was when MTV was actually playing music videos).</p>\n\n<p>I was lucky to have teenage cousins that would tape either from the radio or from their own collection and give me mix tapes. Because of this I was obsessed early on with Smashing Pumpkins, Deftones, Weezer, Nirvana, Presidents of the United States of America, The Cranberries etc&hellip;</p>\n\n<p>Though I grew up in a fundamentalist evangelical household, it wasn&rsquo;t often I was denied &ldquo;secular&rdquo; music (though my parents were stoked if I found something at a christian bookstore) and if I was denied, I&rsquo;d request Marylin Manson or whatever on the next mixtape and later on just grab everything via Napster (I know, I know&hellip;).</p>\n\n<p>I was and am still guitar obsessed, synthesizers came towards the end of my teenage years when I discovered Radiohead&rsquo;s &ldquo;Kid A.&rdquo; I had never heard a record like that but I lived with my Sony Discman and just listened over and over trying to figure out how they were making all those sounds. But ultimately I wanted to be like Billy Corgan (minus being an asshole).</p>\n\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/LEvce93W9GI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n<p>This was the first Smashing Pumpkins album (though it&rsquo;s a collection meant to be a sort of mixtape of itself) I borrowed from a friends brother. I didn&rsquo;t even own a CD player yet and had to listen via the CD drive on our old Gateway 2000 PC running Windows 95. I listened to &ldquo;Hello Kitty Kat&rdquo; over and over and over&hellip;</p>\n\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/KotlCEGNbh8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n<p>I owned this album on cassette but vividly remember the music video, one thing I did love about 90&rsquo;s music was the distinct vocal stylings amongst all the artists.</p>\n\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/NUTGr5t3MoY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n<p>Though I never cared to venture beyond &ldquo;Dookie,&rdquo; I can&rsquo;t leave this out, it&rsquo;s what led me to start playing drums in the 6th grade and later guitar. I probably wore the tape out. I convinced my mom to buy this for me and later she freaked out as she saw &ldquo;fuck&rdquo; appear in the lyrics for the track &ldquo;Longview.&rdquo; If I remember correctly, I &ldquo;promised&rdquo; I would just &ldquo;skip&rdquo; that song when listening.</p>\n\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/mEVik1nJb68\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n<p>Aside from Smashing Pumpkins, the other band I would obsess over throughout my teens was Deftones. I bought &ldquo;Adrenaline&rdquo; and later all the albums, &ldquo;maxi singles,&rdquo; import versions, you name it.</p>\n",
+				"content_text": "I've been enjoying the creative prompts over at Valhalla DSP's [blog](https://valhalladsp.com/blog/) and thought I'd piggyback a little.\n\nMusic has always been a part of my life, I remember not being allowed to watch MTV but I'd wake up early on Saturday mornings to sneak some time in (this was when MTV was actually playing music videos).\n\nI was lucky to have teenage cousins that would tape either from the radio or from their own collection and give me mix tapes. Because of this I was obsessed early on with Smashing Pumpkins, Deftones, Weezer, Nirvana, Presidents of the United States of America, The Cranberries etc...\n\nThough I grew up in a fundamentalist evangelical household, it wasn't often I was denied \"secular\" music (though my parents were stoked if I found something at a christian bookstore) and if I was denied, I'd request Marylin Manson or whatever on the next mixtape and later on just grab everything via Napster (I know, I know...).\n\nI was and am still guitar obsessed, synthesizers came towards the end of my teenage years when I discovered Radiohead's \"Kid A.\" I had never heard a record like that but I lived with my Sony Discman and just listened over and over trying to figure out how they were making all those sounds. But ultimately I wanted to be like Billy Corgan (minus being an asshole).\n\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/LEvce93W9GI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\nThis was the first Smashing Pumpkins album (though it's a collection meant to be a sort of mixtape of itself) I borrowed from a friends brother. I didn't even own a CD player yet and had to listen via the CD drive on our old Gateway 2000 PC running Windows 95. I listened to \"Hello Kitty Kat\" over and over and over...\n\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/KotlCEGNbh8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\nI owned this album on cassette but vividly remember the music video, one thing I did love about 90's music was the distinct vocal stylings amongst all the artists.\n\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/NUTGr5t3MoY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\nThough I never cared to venture beyond \"Dookie,\" I can't leave this out, it's what led me to start playing drums in the 6th grade and later guitar. I probably wore the tape out. I convinced my mom to buy this for me and later she freaked out as she saw \"fuck\" appear in the lyrics for the track \"Longview.\" If I remember correctly, I \"promised\" I would just \"skip\" that song when listening.\n\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/mEVik1nJb68\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\nAside from Smashing Pumpkins, the other band I would obsess over throughout my teens was Deftones. I bought \"Adrenaline\" and later all the albums, \"maxi singles,\" import versions, you name it.\n",
+				"date_published": "2021-04-28T11:19:00+02:00",
+				"url": "https://blog.drewdiver.com/2021/04/28/first-inspirations.html",
+				"tags": ["Creativity","Writing"]
+			},
+			{
+				"id": "http://drewdiver.micro.blog/2021/04/26/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/0865473986\">The Zen Teachings of Bodhidharma</a> by Red Pine 📚</p>\n",
+				"content_text": "Finished reading: [The Zen Teachings of Bodhidharma](https://micro.blog/books/0865473986) by Red Pine 📚\n",
+				"date_published": "2021-04-26T14:36:00+02:00",
+				"url": "https://blog.drewdiver.com/2021/04/26/finished-reading-the.html",
+				"tags": ["Books"]
+			},
+			{
 				"id": "http://drewdiver.micro.blog/2021/04/26/finished-reading-bloodsoaked.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780999249901\">Blood-Soaked Buddha/Hard Earth Pascal</a> for a second time this year 📚</p>\n",
 				"content_text": "Finished reading: [Blood-Soaked Buddha/Hard Earth Pascal](https://micro.blog/books/9780999249901) for a second time this year 📚 \n",
-				"date_published": "2021-04-26T14:14:53+02:00",
-				"url": "https://blog.drewdiver.com/2021/04/26/finished-reading-bloodsoaked.html"
+				"date_published": "2021-04-26T14:14:00+02:00",
+				"url": "https://blog.drewdiver.com/2021/04/26/finished-reading-bloodsoaked.html",
+				"tags": ["Books"]
 			},
 			{
 				"id": "http://drewdiver.micro.blog/2021/04/17/welcome-eldon-max.html",
 				
-				"content_html": "<p>Welcome Eldon Max Diver! Born the 13th of April weighing in at ~3 kg 😀</p>\n\n<p><img src=\"uploads/2021/54049ec6b3.jpg\" width=\"600\" height=\"400\" alt=\"\" /></p>\n",
-				"content_text": "Welcome Eldon Max Diver! Born the 13th of April weighing in at ~3 kg 😀\n\n<img src=\"uploads/2021/54049ec6b3.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
-				"date_published": "2021-04-17T09:40:02+02:00",
-				"url": "https://blog.drewdiver.com/2021/04/17/welcome-eldon-max.html"
+				"content_html": "<p>Welcome Eldon Max Diver! Born the 13th of April weighing in at ~3 kg 😀</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/54049ec6b3.jpg\" width=\"600\" height=\"400\" alt=\"\" /></p>\n",
+				"content_text": "Welcome Eldon Max Diver! Born the 13th of April weighing in at ~3 kg 😀\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/54049ec6b3.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"date_published": "2021-04-17T09:40:00+02:00",
+				"url": "https://blog.drewdiver.com/2021/04/17/welcome-eldon-max.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://drewdiver.micro.blog/2021/04/08/finished-reading-dreaming.html",
@@ -41,8 +111,8 @@
 			{
 				"id": "http://drewdiver.micro.blog/2021/04/04/234014.html",
 				
-				"content_html": "<p>New ambient piece <a href=\"https://ts85.bandcamp.com/track/currents-tides\">Currents and Tides</a> posted via my Bandcamp.</p>\n\n<p><img src=\"uploads/2021/ce5e3631b5.jpg\" width=\"466\" height=\"466\" alt=\"\" /></p>\n",
-				"content_text": "New ambient piece [Currents and Tides](https://ts85.bandcamp.com/track/currents-tides) posted via my Bandcamp.\n\n<img src=\"uploads/2021/ce5e3631b5.jpg\" width=\"466\" height=\"466\" alt=\"\" />\n",
+				"content_html": "<p>New ambient piece &ldquo;Currents and Tides&rdquo; posted via my <a href=\"https://ts85.bandcamp.com/track/currents-tides\">Bandcamp</a>, Spotify, Apple Music, etc&hellip;</p>\n\n<iframe allow=\"autoplay *; encrypted-media *; fullscreen *\" frameborder=\"0\" height=\"450\" style=\"width:100%;max-width:660px;overflow:hidden;background:transparent;\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation\" src=\"https://embed.music.apple.com/se/album/currents-tides-single/1563594689?l=en\"></iframe>\n",
+				"content_text": "New ambient piece \"Currents and Tides\" posted via my [Bandcamp](https://ts85.bandcamp.com/track/currents-tides), Spotify, Apple Music, etc...\n\n<iframe allow=\"autoplay *; encrypted-media *; fullscreen *\" frameborder=\"0\" height=\"450\" style=\"width:100%;max-width:660px;overflow:hidden;background:transparent;\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation\" src=\"https://embed.music.apple.com/se/album/currents-tides-single/1563594689?l=en\"></iframe>\n",
 				"date_published": "2021-04-04T23:40:00+02:00",
 				"url": "https://blog.drewdiver.com/2021/04/04/234014.html",
 				"tags": ["Music"]
@@ -50,26 +120,29 @@
 			{
 				"id": "http://drewdiver.micro.blog/2021/03/25/looking-forward-to.html",
 				
-				"content_html": "<p>Looking forward to Swedish summer</p>\n\n<p><img src=\"uploads/2021/dc28a99da2.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Looking forward to Swedish summer\n\n<img src=\"uploads/2021/dc28a99da2.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2021-03-25T23:26:18+02:00",
-				"url": "https://blog.drewdiver.com/2021/03/25/looking-forward-to.html"
+				"content_html": "<p>Looking forward to Swedish summer</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/dc28a99da2.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Looking forward to Swedish summer\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/dc28a99da2.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-03-25T23:26:00+02:00",
+				"url": "https://blog.drewdiver.com/2021/03/25/looking-forward-to.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://drewdiver.micro.blog/2021/03/22/the-repurposed-couch.html",
 				
-				"content_html": "<p>The repurposed couch is already being enjoyed 🐕 🪟</p>\n\n<p><img src=\"uploads/2021/ba0e4cb8db.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "The repurposed couch is already being enjoyed 🐕 🪟 \n\n<img src=\"uploads/2021/ba0e4cb8db.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2021-03-22T12:35:44+02:00",
-				"url": "https://blog.drewdiver.com/2021/03/22/the-repurposed-couch.html"
+				"content_html": "<p>The repurposed couch is already being enjoyed 🐕 🪟</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/ba0e4cb8db.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The repurposed couch is already being enjoyed 🐕 🪟 \n\n<img src=\"https://blog.drewdiver.com/uploads/2021/ba0e4cb8db.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-03-22T12:35:00+02:00",
+				"url": "https://blog.drewdiver.com/2021/03/22/the-repurposed-couch.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://drewdiver.micro.blog/2021/03/19/start-early.html",
 				
-				"content_html": "<p>Start early 🎛 🎹</p>\n\n<p><img src=\"uploads/2021/db7c98363a.jpg\" width=\"479\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Start early 🎛 🎹\n\n<img src=\"uploads/2021/db7c98363a.jpg\" width=\"479\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2021-03-19T18:15:47+02:00",
-				"url": "https://blog.drewdiver.com/2021/03/19/start-early.html"
+				"content_html": "<p>Start early 🎛 🎹</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/db7c98363a.jpg\" width=\"479\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Start early 🎛 🎹\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/db7c98363a.jpg\" width=\"479\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-03-19T18:15:00+02:00",
+				"url": "https://blog.drewdiver.com/2021/03/19/start-early.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://drewdiver.micro.blog/2021/03/14/finished-reading-falling.html",
@@ -84,8 +157,9 @@
 				
 				"content_html": "<p>Well, it <em>was</em> spring&hellip;</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/e2f8fbd7f3.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Well, it _was_ spring...\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/e2f8fbd7f3.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2021-03-11T18:12:20+02:00",
-				"url": "https://blog.drewdiver.com/2021/03/11/well-it-was.html"
+				"date_published": "2021-03-11T18:12:00+02:00",
+				"url": "https://blog.drewdiver.com/2021/03/11/well-it-was.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://drewdiver.micro.blog/2021/03/08/i-totally-missed.html",
@@ -101,8 +175,9 @@
 				
 				"content_html": "<p>📷 🐕</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/3bd0c913dd.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
 				"content_text": "📷 🐕  \n\n<img src=\"https://blog.drewdiver.com/uploads/2021/3bd0c913dd.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2021-03-09T23:02:33+02:00",
-				"url": "https://blog.drewdiver.com/2021/03/09/220233.html"
+				"date_published": "2021-03-09T23:02:00+02:00",
+				"url": "https://blog.drewdiver.com/2021/03/09/220233.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://drewdiver.micro.blog/2021/03/09/finished-reading-wherever.html",
@@ -207,16 +282,18 @@
 				
 				"content_html": "<p>Book sale!</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/68a317708b.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
 				"content_text": "Book sale!\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/68a317708b.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
-				"date_published": "2021-02-24T14:41:03+02:00",
-				"url": "https://blog.drewdiver.com/2021/02/24/book-sale.html"
+				"date_published": "2021-02-24T14:41:00+02:00",
+				"url": "https://blog.drewdiver.com/2021/02/24/book-sale.html",
+				"tags": ["Books","Photos"]
 			},
 			{
 				"id": "http://drewdiver.micro.blog/2021/02/23/a-muddy-lunch.html",
 				
 				"content_html": "<p>A muddy lunch walk today.</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/e0ba9fad07.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
 				"content_text": "A muddy lunch walk today.\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/e0ba9fad07.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
-				"date_published": "2021-02-23T14:22:48+02:00",
-				"url": "https://blog.drewdiver.com/2021/02/23/a-muddy-lunch.html"
+				"date_published": "2021-02-23T14:22:00+02:00",
+				"url": "https://blog.drewdiver.com/2021/02/23/a-muddy-lunch.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://drewdiver.micro.blog/2021/02/23/day-of-daysofswiftui.html",
@@ -399,7 +476,8 @@
 				"content_html": "<p>It appears Logan does not take kindly to people <a href=\"https://en.wikipedia.org/wiki/Speed_flying_and_speed_riding\">speed riding</a>&hellip; why people choose to do this on the off-leash field is beyond me.</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/6e62f4a005.jpg\" alt=\"CC311C5B-8B9B-402F-9D06-55ECCE3FED7C.jpg\" /></p>\n",
 				"content_text": "It appears Logan does not take kindly to people [speed riding](https://en.wikipedia.org/wiki/Speed_flying_and_speed_riding)... why people choose to do this on the off-leash field is beyond me.\n\n![CC311C5B-8B9B-402F-9D06-55ECCE3FED7C.jpg](https://blog.drewdiver.com/uploads/2021/6e62f4a005.jpg)\n",
 				"date_published": "2021-02-04T15:21:00+02:00",
-				"url": "https://blog.drewdiver.com/2021/02/04/so-it-appears.html"
+				"url": "https://blog.drewdiver.com/2021/02/04/so-it-appears.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://drewdiver.micro.blog/2021/02/04/king-adolf-frederick.html",
@@ -421,9 +499,10 @@
 				"id": "http://drewdiver.micro.blog/2021/02/03/143035.html",
 				
 				"content_html": "<p><img src=\"https://blog.drewdiver.com/uploads/2021/612c7770f1.png\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/612c7770f1.png\" width=\"600\" height=\"450\" alt=\"\" />\n",
-				"date_published": "2021-02-03T15:30:35+02:00",
-				"url": "https://blog.drewdiver.com/2021/02/03/143035.html"
+				"content_text": "\n<img src=\"https://blog.drewdiver.com/uploads/2021/612c7770f1.png\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-02-03T15:30:00+02:00",
+				"url": "https://blog.drewdiver.com/2021/02/03/143035.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://drewdiver.micro.blog/2021/01/28/currently-reading-the.html",
@@ -445,10 +524,11 @@
 			{
 				"id": "http://drewdiver.micro.blog/2021/01/27/living-in-filth.html",
 				"title": "Living in Filth",
-				"content_html": "<p>There’s probably grime from NYC venues that haven’t existed for several years caked on this.. 😶</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/e722804b9f.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>Nice and clean&hellip; I’m a sucker for stainless steel strings. I went for the D’Addario Pro Steels “Regular Light Gauge” this round.</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/f76eaaa2e9.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>This is my first (and currently my  <em>only</em>) electric guitar, a Mexican Fender Stratocaster bought around ~&lsquo;00 at the (now long gone) New York Music in Boardman, OH. I think this was the only color option aside from black or red  (I didn&rsquo;t like either of those with the white pick guard) and I had yet to learn how to play let alone start customizing. It&rsquo;s been used on <em>everything</em> I&rsquo;ve recorded.</p>\n",
-				"content_text": "There’s probably grime from NYC venues that haven’t existed for several years caked on this.. 😶\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/e722804b9f.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n\nNice and clean... I’m a sucker for stainless steel strings. I went for the D’Addario Pro Steels “Regular Light Gauge” this round.\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/f76eaaa2e9.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n\nThis is my first (and currently my  _only_) electric guitar, a Mexican Fender Stratocaster bought around ~'00 at the (now long gone) New York Music in Boardman, OH. I think this was the only color option aside from black or red  (I didn't like either of those with the white pick guard) and I had yet to learn how to play let alone start customizing. It's been used on _everything_ I've recorded.\n\n",
+				"content_html": "<p>There’s probably grime from NYC venues that haven’t existed for several years caked on this.. 😶</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/e722804b9f.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "There’s probably grime from NYC venues that haven’t existed for several years caked on this.. 😶\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/e722804b9f.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n\n",
 				"date_published": "2021-01-28T00:53:00+02:00",
-				"url": "https://blog.drewdiver.com/2021/01/27/living-in-filth.html"
+				"url": "https://blog.drewdiver.com/2021/01/27/living-in-filth.html",
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://drewdiver.micro.blog/2021/01/27/finished-reading-bloodsoaked.html",
