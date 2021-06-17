@@ -7,12 +7,29 @@
 	"items": [
 		
 			{
-				"id": "http://drewdiver.micro.blog/2021/06/07/heres-hoping-wwdc.html",
+				"id": "http://drewdiver.micro.blog/2021/06/17/vim-wins-via.html",
 				
-				"content_html": "<p>Here’s hoping WWDC brings a faster Mac mini…</p>\n",
-				"content_text": "Here’s hoping WWDC brings a faster Mac mini…\n",
-				"date_published": "2021-06-07T16:54:57+02:00",
-				"url": "https://blog.drewdiver.com/2021/06/07/heres-hoping-wwdc.html"
+				"content_html": "<p>Vim wins!</p>\n\n<p>via <a href=\"https://mjtsai.com/blog/2021/06/16/macos-12-removes-php/\">mjtsai</a></p>\n\n<blockquote>\n<p>Developer Tools Engineer:</p>\n\n<p>PHP has been removed in macOS Monterey.</p>\n\n<p>Perl, Python 2, and Ruby are still there. Python 3 is only available if you install Xcode. <strong>Emacs was removed a release or two ago</strong>.</p>\n</blockquote>\n",
+				"content_text": "Vim wins!\r\n\r\nvia [mjtsai](https://mjtsai.com/blog/2021/06/16/macos-12-removes-php/)\r\n\r\n>\tDeveloper Tools Engineer:\r\n>\r\n>\tPHP has been removed in macOS Monterey.\r\n>\r\n> Perl, Python 2, and Ruby are still there. Python 3 is only available if you install Xcode. **Emacs was removed a release or two ago**.\n",
+				"date_published": "2021-06-17T08:49:50+02:00",
+				"url": "https://blog.drewdiver.com/2021/06/17/vim-wins-via.html"
+			},
+			{
+				"id": "http://drewdiver.micro.blog/2021/06/13/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780802145239\">The Changeling</a> by Kenzaburo Oe 📚</p>\n\n<blockquote>\n<p>According to Fukuzawa, virtually every word that&rsquo;s used to describe people can be a two-sided coin. For example, depending on your tone, frugal can mean admirably thrifty or despicably stingy, while rough and ready could imply either courageousness or bellicosity. The exception, he says, is enbo.</p>\n\n<p>No matter how you look at it, enbo is a complete waste of time; time; there&rsquo;s no way you can put a positive spin on envy, bitterness, and resentment, or turn those emotions into positive human traits.\nI’ve read a few Kenzaburo Oe books, most recently “Death by Water”, and was aware of the “Kogito” character loosely resembling the author himself.</p>\n</blockquote>\n\n<p>Lately I’ve been into the <a href=\"https://en.wikipedia.org/wiki/Juzo_Itami#As_director\">films</a> of director/writer Juzo Itami. He has a tragic backstory due to writing and directing a satire <a href=\"https://en.wikipedia.org/wiki/Minbo\">&ldquo;Minbo&rdquo;</a> about the Yakuza which led to him being attacked and hospitalized by the Yakuza (his hospital stay inspired his next film <a href=\"https://en.wikipedia.org/wiki/Daibyonin\">&ldquo;The Last Dance&rdquo;</a>) and later jumping to his death.</p>\n\n<p>As I was reading “The Changeling” I couldn’t help but find the “Goro” character very familiar to Juzo, “could it be?,” I thought&hellip; <a href=\"https://en.wikipedia.org/wiki/The_Changeling_(Kenzaburō_Ōe_novel)#Characters\">This led to a quick Wikipedia search on the book itself and lo and behold</a>:</p>\n\n<blockquote>\n<p>Goro Hanawa (塙 吾良, Hanawa Gorō) – A legendary filmmaker who commits suicide. He is Kogito&rsquo;s brother-in-law and best friend Goro is based on Juzo Itami, who was Ōe&rsquo;s brother in law.\nTalk about worlds colliding! This made the book even more interesting as it became a fantastical sort of biography on both the author and Juzo.</p>\n</blockquote>\n\n<p>Talk about worlds colliding! This made the book even more interesting as it became a fantastical sort of biography on both the author and Juzo.</p>\n",
+				"content_text": "Finished reading: [The Changeling](https://micro.blog/books/9780802145239) by Kenzaburo Oe 📚\n\n> According to Fukuzawa, virtually every word that's used to describe people can be a two-sided coin. For example, depending on your tone, frugal can mean admirably thrifty or despicably stingy, while rough and ready could imply either courageousness or bellicosity. The exception, he says, is enbo. \n>\n>No matter how you look at it, enbo is a complete waste of time; time; there's no way you can put a positive spin on envy, bitterness, and resentment, or turn those emotions into positive human traits.\nI’ve read a few Kenzaburo Oe books, most recently “Death by Water”, and was aware of the “Kogito” character loosely resembling the author himself.\n\nLately I’ve been into the [films](https://en.wikipedia.org/wiki/Juzo_Itami#As_director) of director/writer Juzo Itami. He has a tragic backstory due to writing and directing a satire [\"Minbo\"](https://en.wikipedia.org/wiki/Minbo) about the Yakuza which led to him being attacked and hospitalized by the Yakuza (his hospital stay inspired his next film [\"The Last Dance\"](https://en.wikipedia.org/wiki/Daibyonin)) and later jumping to his death.\n\nAs I was reading “The Changeling” I couldn’t help but find the “Goro” character very familiar to Juzo, “could it be?,” I thought... [This led to a quick Wikipedia search on the book itself and lo and behold](https://en.wikipedia.org/wiki/The_Changeling_(Kenzaburō_Ōe_novel)#Characters):\n\n> Goro Hanawa (塙 吾良, Hanawa Gorō) – A legendary filmmaker who commits suicide. He is Kogito's brother-in-law and best friend Goro is based on Juzo Itami, who was Ōe's brother in law.\nTalk about worlds colliding! This made the book even more interesting as it became a fantastical sort of biography on both the author and Juzo.\n\nTalk about worlds colliding! This made the book even more interesting as it became a fantastical sort of biography on both the author and Juzo.\n",
+				"date_published": "2021-06-13T12:21:00+02:00",
+				"url": "https://blog.drewdiver.com/2021/06/13/finished-reading-the.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://drewdiver.micro.blog/2021/06/08/me-i-paired.html",
+				
+				"content_html": "<p>Me: “I paired an AirTag to your iPhone that you can use for whatever.”</p>\n\n<p>Wife: &ldquo;Ok.. just set it somewhere where I won&rsquo;t lose it.&rdquo;</p>\n\n<p>🙄</p>\n",
+				"content_text": "Me: “I paired an AirTag to your iPhone that you can use for whatever.”\n\nWife: \"Ok.. just set it somewhere where I won't lose it.\"\n\n🙄\n",
+				"date_published": "2021-06-08T15:34:32+02:00",
+				"url": "https://blog.drewdiver.com/2021/06/08/me-i-paired.html"
 			},
 			{
 				"id": "http://drewdiver.micro.blog/2021/05/31/cest-la-vie.html",
@@ -33,16 +50,16 @@
 			{
 				"id": "http://drewdiver.micro.blog/2021/05/26/where-has-summer.html",
 				
-				"content_html": "<p>Where is summer..? 🌧 📷</p>\n\n<p><img src=\"uploads/2021/e35cf41626.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Where is summer..? 🌧 📷\n\n<img src=\"uploads/2021/e35cf41626.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Where is summer..? 🌧 📷</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/e35cf41626.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Where is summer..? 🌧 📷\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/e35cf41626.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-05-26T16:12:00+02:00",
 				"url": "https://blog.drewdiver.com/2021/05/26/where-has-summer.html"
 			},
 			{
 				"id": "http://drewdiver.micro.blog/2021/05/21/everything-in-bloom.html",
 				
-				"content_html": "<p>Everything in bloom 🌱 📷</p>\n\n<p><img src=\"uploads/2021/d19336d997.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/66fe1d7f4e.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/3a5837052b.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Everything in bloom 🌱 📷\n\n<img src=\"uploads/2021/d19336d997.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/66fe1d7f4e.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/3a5837052b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Everything in bloom 🌱 📷</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/d19336d997.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://blog.drewdiver.com/uploads/2021/66fe1d7f4e.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://blog.drewdiver.com/uploads/2021/3a5837052b.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Everything in bloom 🌱 📷\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/d19336d997.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://blog.drewdiver.com/uploads/2021/66fe1d7f4e.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://blog.drewdiver.com/uploads/2021/3a5837052b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-05-21T18:12:17+02:00",
 				"url": "https://blog.drewdiver.com/2021/05/21/everything-in-bloom.html"
 			},
@@ -65,16 +82,16 @@
 			{
 				"id": "http://drewdiver.micro.blog/2021/05/19/japanese-tea-house.html",
 				
-				"content_html": "<p>Japanese tea house at the Stockholm Ethnographic museum 🫖 📷</p>\n\n<p><img src=\"uploads/2021/08eb91234e.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Japanese tea house at the Stockholm Ethnographic museum 🫖 📷\n\n<img src=\"uploads/2021/08eb91234e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Japanese tea house at the Stockholm Ethnographic museum 🫖 📷</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/08eb91234e.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Japanese tea house at the Stockholm Ethnographic museum 🫖 📷\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/08eb91234e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-05-19T14:25:56+02:00",
 				"url": "https://blog.drewdiver.com/2021/05/19/japanese-tea-house.html"
 			},
 			{
 				"id": "http://drewdiver.micro.blog/2021/05/18/164841.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/b828708886.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/b828708886.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://blog.drewdiver.com/uploads/2021/b828708886.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/b828708886.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-05-18T16:48:41+02:00",
 				"url": "https://blog.drewdiver.com/2021/05/18/164841.html"
 			},
@@ -90,8 +107,8 @@
 			{
 				"id": "http://drewdiver.micro.blog/2021/05/12/new-planters-mixed.html",
 				
-				"content_html": "<p>New planters! 20° C today so I also mixed in soil and manure along with my cayenne, chili, habanero, beet and kale starters 🌱 📷</p>\n\n<p><img src=\"uploads/2021/69ca42407e.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/354ea94b52.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "New planters! 20° C today so I also mixed in soil and manure along with my cayenne, chili, habanero, beet and kale starters 🌱 📷\n\n<img src=\"uploads/2021/69ca42407e.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/354ea94b52.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>New planters! 20° C today so I also mixed in soil and manure along with my cayenne, chili, habanero, beet and kale starters 🌱 📷</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/69ca42407e.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://blog.drewdiver.com/uploads/2021/354ea94b52.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "New planters! 20° C today so I also mixed in soil and manure along with my cayenne, chili, habanero, beet and kale starters 🌱 📷\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/69ca42407e.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://blog.drewdiver.com/uploads/2021/354ea94b52.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-05-12T16:33:08+02:00",
 				"url": "https://blog.drewdiver.com/2021/05/12/new-planters-mixed.html"
 			},
@@ -107,8 +124,8 @@
 			{
 				"id": "http://drewdiver.micro.blog/2021/05/06/i-just-came.html",
 				
-				"content_html": "<p>I just came across this little guy! I think I may have purchased this around ~2004 for university? It definitely pre-dates me having a proper DAW or recording gear.</p>\n\n<p>Side A of the cassette is one long recording of the TV? A lot of old commercials and crappy daytime television, I’ve been able to get a lot of nice sound and voice slices from it.</p>\n\n<p>Side B contains a lot of quick audio notes such as a guitar melody, chord progression, playing synth or a loop from my old Korg ElecTribe Rhythm. As you can imagine there are a lot of nice sample/loop points.</p>\n\n<p>This will be fun to layer upon and build out some nice pieces.</p>\n\n<p><img src=\"uploads/2021/b9cad393b2.jpg\" width=\"600\" height=\"734\" alt=\"\" /></p>\n",
-				"content_text": "<p>I just came across this little guy! I think I may have purchased this around ~2004 for university? It definitely pre-dates me having a proper DAW or recording gear.</p>\n\n<p>Side A of the cassette is one long recording of the TV? A lot of old commercials and crappy daytime television, I’ve been able to get a lot of nice sound and voice slices from it.</p>\n\n<p>Side B contains a lot of quick audio notes such as a guitar melody, chord progression, playing synth or a loop from my old Korg ElecTribe Rhythm. As you can imagine there are a lot of nice sample/loop points.</p>\n\n<p>This will be fun to layer upon and build out some nice pieces.</p>\n\n<img src=\"uploads/2021/b9cad393b2.jpg\" width=\"600\" height=\"734\" alt=\"\" />\n",
+				"content_html": "<p>I just came across this little guy! I think I may have purchased this around ~2004 for university? It definitely pre-dates me having a proper DAW or recording gear.</p>\n\n<p>Side A of the cassette is one long recording of the TV? A lot of old commercials and crappy daytime television, I’ve been able to get a lot of nice sound and voice slices from it.</p>\n\n<p>Side B contains a lot of quick audio notes such as a guitar melody, chord progression, playing synth or a loop from my old Korg ElecTribe Rhythm. As you can imagine there are a lot of nice sample/loop points.</p>\n\n<p>This will be fun to layer upon and build out some nice pieces.</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/b9cad393b2.jpg\" width=\"600\" height=\"734\" alt=\"\" /></p>\n",
+				"content_text": "<p>I just came across this little guy! I think I may have purchased this around ~2004 for university? It definitely pre-dates me having a proper DAW or recording gear.</p>\n\n<p>Side A of the cassette is one long recording of the TV? A lot of old commercials and crappy daytime television, I’ve been able to get a lot of nice sound and voice slices from it.</p>\n\n<p>Side B contains a lot of quick audio notes such as a guitar melody, chord progression, playing synth or a loop from my old Korg ElecTribe Rhythm. As you can imagine there are a lot of nice sample/loop points.</p>\n\n<p>This will be fun to layer upon and build out some nice pieces.</p>\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/b9cad393b2.jpg\" width=\"600\" height=\"734\" alt=\"\" />\n",
 				"date_published": "2021-05-06T11:03:00+02:00",
 				"url": "https://blog.drewdiver.com/2021/05/06/i-just-came.html"
 			},
@@ -149,8 +166,8 @@
 			{
 				"id": "http://drewdiver.micro.blog/2021/04/17/welcome-eldon-max.html",
 				
-				"content_html": "<p>Welcome Eldon Max Diver! Born the 13th of April weighing in at ~3 kg 😀 📷</p>\n\n<p><img src=\"uploads/2021/54049ec6b3.jpg\" width=\"600\" height=\"400\" alt=\"\" /></p>\n",
-				"content_text": "Welcome Eldon Max Diver! Born the 13th of April weighing in at ~3 kg 😀 📷\n\n<img src=\"uploads/2021/54049ec6b3.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"content_html": "<p>Welcome Eldon Max Diver! Born the 13th of April weighing in at ~3 kg 😀 📷</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/54049ec6b3.jpg\" width=\"600\" height=\"400\" alt=\"\" /></p>\n",
+				"content_text": "Welcome Eldon Max Diver! Born the 13th of April weighing in at ~3 kg 😀 📷\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/54049ec6b3.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
 				"date_published": "2021-04-17T09:40:00+02:00",
 				"url": "https://blog.drewdiver.com/2021/04/17/welcome-eldon-max.html"
 			},
@@ -182,16 +199,16 @@
 			{
 				"id": "http://drewdiver.micro.blog/2021/03/25/looking-forward-to.html",
 				
-				"content_html": "<p>Looking forward to Swedish summer 📷</p>\n\n<p><img src=\"uploads/2021/dc28a99da2.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Looking forward to Swedish summer 📷\n\n<img src=\"uploads/2021/dc28a99da2.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Looking forward to Swedish summer 📷</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/dc28a99da2.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Looking forward to Swedish summer 📷\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/dc28a99da2.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-03-25T23:26:00+02:00",
 				"url": "https://blog.drewdiver.com/2021/03/25/looking-forward-to.html"
 			},
 			{
 				"id": "http://drewdiver.micro.blog/2021/03/22/the-repurposed-couch.html",
 				
-				"content_html": "<p>The repurposed couch is already being enjoyed 🐕 📷</p>\n\n<p><img src=\"uploads/2021/ba0e4cb8db.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "The repurposed couch is already being enjoyed 🐕 📷\n\n<img src=\"uploads/2021/ba0e4cb8db.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The repurposed couch is already being enjoyed 🐕 📷</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/ba0e4cb8db.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The repurposed couch is already being enjoyed 🐕 📷\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/ba0e4cb8db.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-03-22T12:35:00+02:00",
 				"url": "https://blog.drewdiver.com/2021/03/22/the-repurposed-couch.html"
 			},
@@ -222,8 +239,8 @@
 			{
 				"id": "http://drewdiver.micro.blog/2021/03/08/i-totally-missed.html",
 				
-				"content_html": "<p>I totally missed the first &ldquo;Challenge Day&rdquo; (day 19) where you build an app from scratch… I thought it was a link to the project 1 challenges 😬</p>\n\n<p>I decided to do a temperature converter implementing the <code>Measurement</code> instance.</p>\n\n<p>The head scratcher was initially returning a type <code>Measurement&lt;UnitTemperature&gt;</code> from my <code>struct</code> due to complaints from Swift, typecasting got me nowhere also. The trick ended up being to switch the return type back to <code>Double</code> and call value on my return variable like <code>return convertedTemp.value</code> so that I could format the output to 1 decimal point and not get all the extra NS output data.</p>\n\n<p><img src=\"uploads/2021/8b6f12016f.png\" alt=\"Screenshot 2021 03 10 at 11 35 17\" title=\"Screenshot 2021-03-10 at 11.35.17.png\" border=\"0\" width=\"308\" height=\"600\" /></p>\n",
-				"content_text": "I totally missed the first \"Challenge Day\" (day 19) where you build an app from scratch… I thought it was a link to the project 1 challenges 😬\n\nI decided to do a temperature converter implementing the `Measurement` instance.\n\nThe head scratcher was initially returning a type `Measurement<UnitTemperature>` from my `struct` due to complaints from Swift, typecasting got me nowhere also. The trick ended up being to switch the return type back to `Double` and call value on my return variable like `return convertedTemp.value` so that I could format the output to 1 decimal point and not get all the extra NS output data.\n\n<img src=\"uploads/2021/8b6f12016f.png\" alt=\"Screenshot 2021 03 10 at 11 35 17\" title=\"Screenshot 2021-03-10 at 11.35.17.png\" border=\"0\" width=\"308\" height=\"600\" />\n",
+				"content_html": "<p>I totally missed the first &ldquo;Challenge Day&rdquo; (day 19) where you build an app from scratch… I thought it was a link to the project 1 challenges 😬</p>\n\n<p>I decided to do a temperature converter implementing the <code>Measurement</code> instance.</p>\n\n<p>The head scratcher was initially returning a type <code>Measurement&lt;UnitTemperature&gt;</code> from my <code>struct</code> due to complaints from Swift, typecasting got me nowhere also. The trick ended up being to switch the return type back to <code>Double</code> and call value on my return variable like <code>return convertedTemp.value</code> so that I could format the output to 1 decimal point and not get all the extra NS output data.</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/8b6f12016f.png\" alt=\"Screenshot 2021 03 10 at 11 35 17\" title=\"Screenshot 2021-03-10 at 11.35.17.png\" border=\"0\" width=\"308\" height=\"600\" /></p>\n",
+				"content_text": "I totally missed the first \"Challenge Day\" (day 19) where you build an app from scratch… I thought it was a link to the project 1 challenges 😬\n\nI decided to do a temperature converter implementing the `Measurement` instance.\n\nThe head scratcher was initially returning a type `Measurement<UnitTemperature>` from my `struct` due to complaints from Swift, typecasting got me nowhere also. The trick ended up being to switch the return type back to `Double` and call value on my return variable like `return convertedTemp.value` so that I could format the output to 1 decimal point and not get all the extra NS output data.\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/8b6f12016f.png\" alt=\"Screenshot 2021 03 10 at 11 35 17\" title=\"Screenshot 2021-03-10 at 11.35.17.png\" border=\"0\" width=\"308\" height=\"600\" />\n",
 				"date_published": "2021-03-10T12:53:46+02:00",
 				"url": "https://blog.drewdiver.com/2021/03/08/i-totally-missed.html",
 				"tags": ["Swift"]
@@ -231,8 +248,8 @@
 			{
 				"id": "http://drewdiver.micro.blog/2021/03/09/220233.html",
 				
-				"content_html": "<p>📷 🐕</p>\n\n<p><img src=\"uploads/2021/3bd0c913dd.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "📷 🐕  \n\n<img src=\"uploads/2021/3bd0c913dd.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>📷 🐕</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/3bd0c913dd.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "📷 🐕  \n\n<img src=\"https://blog.drewdiver.com/uploads/2021/3bd0c913dd.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-03-09T23:02:00+02:00",
 				"url": "https://blog.drewdiver.com/2021/03/09/220233.html",
 				"tags": ["Photos"]
@@ -276,8 +293,8 @@
 			{
 				"id": "http://drewdiver.micro.blog/2021/03/03/i-combined-day.html",
 				
-				"content_html": "<p>I combined Day 17 and 18 of #100DaysOfSwiftUI where we built our first tip calculating app. I was itching to do the challenges&hellip; I managed to get the Amount Per Person to show only when Number of people is more than 2 or none.</p>\n\n<p><img src=\"uploads/2021/ea014fe89b.jpg\" width=\"320\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "I combined Day 17 and 18 of #100DaysOfSwiftUI where we built our first tip calculating app. I was itching to do the challenges... I managed to get the Amount Per Person to show only when Number of people is more than 2 or none. \n\n<img src=\"uploads/2021/ea014fe89b.jpg\" width=\"320\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>I combined Day 17 and 18 of #100DaysOfSwiftUI where we built our first tip calculating app. I was itching to do the challenges&hellip; I managed to get the Amount Per Person to show only when Number of people is more than 2 or none.</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/ea014fe89b.jpg\" width=\"320\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I combined Day 17 and 18 of #100DaysOfSwiftUI where we built our first tip calculating app. I was itching to do the challenges... I managed to get the Amount Per Person to show only when Number of people is more than 2 or none. \n\n<img src=\"https://blog.drewdiver.com/uploads/2021/ea014fe89b.jpg\" width=\"320\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-03-03T17:30:00+02:00",
 				"url": "https://blog.drewdiver.com/2021/03/03/i-combined-day.html",
 				"tags": ["Swift"]
@@ -338,8 +355,8 @@
 			{
 				"id": "http://drewdiver.micro.blog/2021/02/24/book-sale.html",
 				
-				"content_html": "<p>Book sale!</p>\n\n<p><img src=\"uploads/2021/68a317708b.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
-				"content_text": "Book sale!\n\n<img src=\"uploads/2021/68a317708b.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_html": "<p>Book sale!</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/68a317708b.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "Book sale!\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/68a317708b.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2021-02-24T14:41:00+02:00",
 				"url": "https://blog.drewdiver.com/2021/02/24/book-sale.html",
 				"tags": ["Books","Photos"]
@@ -347,8 +364,8 @@
 			{
 				"id": "http://drewdiver.micro.blog/2021/02/23/a-muddy-lunch.html",
 				
-				"content_html": "<p>A muddy lunch walk today.</p>\n\n<p><img src=\"uploads/2021/e0ba9fad07.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
-				"content_text": "A muddy lunch walk today.\n\n<img src=\"uploads/2021/e0ba9fad07.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_html": "<p>A muddy lunch walk today.</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/e0ba9fad07.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "A muddy lunch walk today.\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/e0ba9fad07.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2021-02-23T14:22:00+02:00",
 				"url": "https://blog.drewdiver.com/2021/02/23/a-muddy-lunch.html",
 				"tags": ["Photos"]
@@ -365,8 +382,8 @@
 			{
 				"id": "http://drewdiver.micro.blog/2021/02/22/hjicha-is-my.html",
 				
-				"content_html": "<p>Hōjicha is my new (mildly) caffeinated obsession:</p>\n\n<p>From Wikipedia:</p>\n\n<blockquote>\n<p>Hōjicha (焙じ茶, ほうじ茶) is a Japanese green tea. It is distinctive from other Japanese green teas because it is roasted in a porcelain pot over charcoal, whereas most Japanese teas are steamed. The tea is fired at a high temperature, altering the leaf color tints from green to reddish brown. The process was first performed in Kyoto, Japan, in the 1920s and its popularity persists today</p>\n</blockquote>\n\n<p>Steep for 45 seconds at 85º - 90º C</p>\n\n<p><img src=\"uploads/2021/d85ec0e249.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Hōjicha is my new (mildly) caffeinated obsession:\n\nFrom Wikipedia:\n\n> Hōjicha (焙じ茶, ほうじ茶) is a Japanese green tea. It is distinctive from other Japanese green teas because it is roasted in a porcelain pot over charcoal, whereas most Japanese teas are steamed. The tea is fired at a high temperature, altering the leaf color tints from green to reddish brown. The process was first performed in Kyoto, Japan, in the 1920s and its popularity persists today\n\nSteep for 45 seconds at 85º - 90º C\n\n<img src=\"uploads/2021/d85ec0e249.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Hōjicha is my new (mildly) caffeinated obsession:</p>\n\n<p>From Wikipedia:</p>\n\n<blockquote>\n<p>Hōjicha (焙じ茶, ほうじ茶) is a Japanese green tea. It is distinctive from other Japanese green teas because it is roasted in a porcelain pot over charcoal, whereas most Japanese teas are steamed. The tea is fired at a high temperature, altering the leaf color tints from green to reddish brown. The process was first performed in Kyoto, Japan, in the 1920s and its popularity persists today</p>\n</blockquote>\n\n<p>Steep for 45 seconds at 85º - 90º C</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/d85ec0e249.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Hōjicha is my new (mildly) caffeinated obsession:\n\nFrom Wikipedia:\n\n> Hōjicha (焙じ茶, ほうじ茶) is a Japanese green tea. It is distinctive from other Japanese green teas because it is roasted in a porcelain pot over charcoal, whereas most Japanese teas are steamed. The tea is fired at a high temperature, altering the leaf color tints from green to reddish brown. The process was first performed in Kyoto, Japan, in the 1920s and its popularity persists today\n\nSteep for 45 seconds at 85º - 90º C\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/d85ec0e249.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-02-22T16:01:39+02:00",
 				"url": "https://blog.drewdiver.com/2021/02/22/hjicha-is-my.html"
 			},
@@ -391,8 +408,8 @@
 			{
 				"id": "http://drewdiver.micro.blog/2021/02/18/this-past-tuesday.html",
 				
-				"content_html": "<p>This past Tuesday was <em>fettisdagsbulle</em> or “Fat Tuesday” here in Sweden. By the time I realized the date, the queues for Semla were insane and the quantities scarce.</p>\n\n<p>However, today is a new day and I’m making up for it! This is a cinnamon bun semla (I also got a few traditional 😅).</p>\n\n<p><img src=\"uploads/2021/efaf737924.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "This past Tuesday was _fettisdagsbulle_ or “Fat Tuesday” here in Sweden. By the time I realized the date, the queues for Semla were insane and the quantities scarce. \n\nHowever, today is a new day and I’m making up for it! This is a cinnamon bun semla (I also got a few traditional 😅).\n\n<img src=\"uploads/2021/efaf737924.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>This past Tuesday was <em>fettisdagsbulle</em> or “Fat Tuesday” here in Sweden. By the time I realized the date, the queues for Semla were insane and the quantities scarce.</p>\n\n<p>However, today is a new day and I’m making up for it! This is a cinnamon bun semla (I also got a few traditional 😅).</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/efaf737924.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This past Tuesday was _fettisdagsbulle_ or “Fat Tuesday” here in Sweden. By the time I realized the date, the queues for Semla were insane and the quantities scarce. \n\nHowever, today is a new day and I’m making up for it! This is a cinnamon bun semla (I also got a few traditional 😅).\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/efaf737924.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-18T15:53:10+02:00",
 				"url": "https://blog.drewdiver.com/2021/02/18/this-past-tuesday.html"
 			},
@@ -506,16 +523,16 @@
 			{
 				"id": "http://drewdiver.micro.blog/2021/02/05/obsessed-with-taskpaper.html",
 				
-				"content_html": "<p>Obsessed with <a href=\"http://taskpaper.com\">TaskPaper</a>! This is exactly what I&rsquo;ve been looking for to manage my plain text todo&rsquo;s.</p>\n\n<p><img src=\"uploads/2021/b8c3452287.png\" width=\"600\" height=\"567\" alt=\"\" /></p>\n",
-				"content_text": "Obsessed with [TaskPaper](http://taskpaper.com)! This is exactly what I've been looking for to manage my plain text todo's.\n\n<img src=\"uploads/2021/b8c3452287.png\" width=\"600\" height=\"567\" alt=\"\" />\n",
+				"content_html": "<p>Obsessed with <a href=\"http://taskpaper.com\">TaskPaper</a>! This is exactly what I&rsquo;ve been looking for to manage my plain text todo&rsquo;s.</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/b8c3452287.png\" width=\"600\" height=\"567\" alt=\"\" /></p>\n",
+				"content_text": "Obsessed with [TaskPaper](http://taskpaper.com)! This is exactly what I've been looking for to manage my plain text todo's.\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/b8c3452287.png\" width=\"600\" height=\"567\" alt=\"\" />\n",
 				"date_published": "2021-02-05T15:47:48+02:00",
 				"url": "https://blog.drewdiver.com/2021/02/05/obsessed-with-taskpaper.html"
 			},
 			{
 				"id": "http://drewdiver.micro.blog/2021/02/05/started-reading-walden.html",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781611806007\">Walden</a> by Henry David Thoreau 📚</p>\n\n<p>If I were to be stranded on a desert island and could carry only one book, it would be Walden without a doubt.</p>\n\n<p><img src=\"uploads/2021/92e69838c4.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Currently reading: [Walden](https://micro.blog/books/9781611806007) by Henry David Thoreau 📚\n\nIf I were to be stranded on a desert island and could carry only one book, it would be Walden without a doubt.\n\n\n\n<img src=\"uploads/2021/92e69838c4.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781611806007\">Walden</a> by Henry David Thoreau 📚</p>\n\n<p>If I were to be stranded on a desert island and could carry only one book, it would be Walden without a doubt.</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/92e69838c4.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Currently reading: [Walden](https://micro.blog/books/9781611806007) by Henry David Thoreau 📚\n\nIf I were to be stranded on a desert island and could carry only one book, it would be Walden without a doubt.\n\n\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/92e69838c4.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-02-05T13:11:47+02:00",
 				"url": "https://blog.drewdiver.com/2021/02/05/started-reading-walden.html"
 			},
@@ -556,8 +573,8 @@
 			{
 				"id": "http://drewdiver.micro.blog/2021/02/03/143035.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/612c7770f1.png\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "\n<img src=\"uploads/2021/612c7770f1.png\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://blog.drewdiver.com/uploads/2021/612c7770f1.png\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "\n<img src=\"https://blog.drewdiver.com/uploads/2021/612c7770f1.png\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-02-03T15:30:00+02:00",
 				"url": "https://blog.drewdiver.com/2021/02/03/143035.html",
 				"tags": ["Photos"]
@@ -574,16 +591,16 @@
 			{
 				"id": "http://drewdiver.micro.blog/2021/01/28/eleven-pond-fjf.html",
 				"title": "Eleven Pond + FJF + Plastic Flowers",
-				"content_html": "<p>Digging through old backups and came across this flyer for a show we (Plastic Flowers) did with Eleven Pond and Frank (Just Frank). This led running a <a href=\"https://www.flickr.com/search/?text=eleven%20pond%20glasslands&amp;media=photos\">search against Flickr</a> (of all places) and lo and behold!</p>\n\n<p><img src=\"uploads/2021/3846af8500.jpg\" width=\"463\" height=\"600\" alt=\"\" /></p>\n\n<p><img src=\"uploads/2021/c4b6d562af.jpg\" width=\"600\" height=\"417\" alt=\"\" /></p>\n\n<p><img src=\"uploads/2021/20f06834ad.jpg\" width=\"600\" height=\"444\" alt=\"\" /></p>\n",
-				"content_text": "Digging through old backups and came across this flyer for a show we (Plastic Flowers) did with Eleven Pond and Frank (Just Frank). This led running a [search against Flickr](https://www.flickr.com/search/?text=eleven%20pond%20glasslands&media=photos) (of all places) and lo and behold!\n\n<img src=\"uploads/2021/3846af8500.jpg\" width=\"463\" height=\"600\" alt=\"\" />\n\n<img src=\"uploads/2021/c4b6d562af.jpg\" width=\"600\" height=\"417\" alt=\"\" />\n\n<img src=\"uploads/2021/20f06834ad.jpg\" width=\"600\" height=\"444\" alt=\"\" />\n",
+				"content_html": "<p>Digging through old backups and came across this flyer for a show we (Plastic Flowers) did with Eleven Pond and Frank (Just Frank). This led running a <a href=\"https://www.flickr.com/search/?text=eleven%20pond%20glasslands&amp;media=photos\">search against Flickr</a> (of all places) and lo and behold!</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/3846af8500.jpg\" width=\"463\" height=\"600\" alt=\"\" /></p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/c4b6d562af.jpg\" width=\"600\" height=\"417\" alt=\"\" /></p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/20f06834ad.jpg\" width=\"600\" height=\"444\" alt=\"\" /></p>\n",
+				"content_text": "Digging through old backups and came across this flyer for a show we (Plastic Flowers) did with Eleven Pond and Frank (Just Frank). This led running a [search against Flickr](https://www.flickr.com/search/?text=eleven%20pond%20glasslands&media=photos) (of all places) and lo and behold!\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/3846af8500.jpg\" width=\"463\" height=\"600\" alt=\"\" />\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/c4b6d562af.jpg\" width=\"600\" height=\"417\" alt=\"\" />\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/20f06834ad.jpg\" width=\"600\" height=\"444\" alt=\"\" />\n",
 				"date_published": "2021-01-28T12:02:00+02:00",
 				"url": "https://blog.drewdiver.com/2021/01/28/eleven-pond-fjf.html"
 			},
 			{
 				"id": "http://drewdiver.micro.blog/2021/01/27/living-in-filth.html",
 				"title": "Living in Filth",
-				"content_html": "<p>There’s probably grime from NYC venues that haven’t existed for several years caked on this.. 😶</p>\n\n<p><img src=\"uploads/2021/e722804b9f.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
-				"content_text": "There’s probably grime from NYC venues that haven’t existed for several years caked on this.. 😶\n\n<img src=\"uploads/2021/e722804b9f.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n\n",
+				"content_html": "<p>There’s probably grime from NYC venues that haven’t existed for several years caked on this.. 😶</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/e722804b9f.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "There’s probably grime from NYC venues that haven’t existed for several years caked on this.. 😶\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/e722804b9f.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n\n",
 				"date_published": "2021-01-28T00:53:00+02:00",
 				"url": "https://blog.drewdiver.com/2021/01/27/living-in-filth.html",
 				"tags": ["Photos"]
@@ -635,8 +652,8 @@
 			{
 				"id": "http://drewdiver.micro.blog/2021/01/21/the-new-photos.html",
 				
-				"content_html": "<p>The new Photos recommendation widget on iOS 14 is great&hellip; here&rsquo;s a throwback from probably 2003 or 2004 playing in my old punk band The Punchbowl Spikers.</p>\n\n<p><img src=\"uploads/2021/05fa5bb4b5.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "The new Photos recommendation widget on iOS 14 is great... here's a throwback from probably 2003 or 2004 playing in my old punk band The Punchbowl Spikers.\n\n<img src=\"uploads/2021/05fa5bb4b5.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>The new Photos recommendation widget on iOS 14 is great&hellip; here&rsquo;s a throwback from probably 2003 or 2004 playing in my old punk band The Punchbowl Spikers.</p>\n\n<p><img src=\"https://blog.drewdiver.com/uploads/2021/05fa5bb4b5.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "The new Photos recommendation widget on iOS 14 is great... here's a throwback from probably 2003 or 2004 playing in my old punk band The Punchbowl Spikers.\n\n<img src=\"https://blog.drewdiver.com/uploads/2021/05fa5bb4b5.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-01-21T11:54:45+02:00",
 				"url": "https://blog.drewdiver.com/2021/01/21/the-new-photos.html"
 			},
